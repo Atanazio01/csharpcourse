@@ -1,0 +1,15 @@
+/home/atanazio/courses/csharpcourse/02-session/FirstProject/bin/Debug/net6.0/FirstProject
+/home/atanazio/courses/csharpcourse/02-session/FirstProject/bin/Debug/net6.0/FirstProject.deps.json
+/home/atanazio/courses/csharpcourse/02-session/FirstProject/bin/Debug/net6.0/FirstProject.runtimeconfig.json
+/home/atanazio/courses/csharpcourse/02-session/FirstProject/bin/Debug/net6.0/FirstProject.dll
+/home/atanazio/courses/csharpcourse/02-session/FirstProject/bin/Debug/net6.0/FirstProject.pdb
+/home/atanazio/courses/csharpcourse/02-session/FirstProject/obj/Debug/net6.0/FirstProject.csproj.AssemblyReference.cache
+/home/atanazio/courses/csharpcourse/02-session/FirstProject/obj/Debug/net6.0/FirstProject.GeneratedMSBuildEditorConfig.editorconfig
+/home/atanazio/courses/csharpcourse/02-session/FirstProject/obj/Debug/net6.0/FirstProject.AssemblyInfoInputs.cache
+/home/atanazio/courses/csharpcourse/02-session/FirstProject/obj/Debug/net6.0/FirstProject.AssemblyInfo.cs
+/home/atanazio/courses/csharpcourse/02-session/FirstProject/obj/Debug/net6.0/FirstProject.csproj.CoreCompileInputs.cache
+/home/atanazio/courses/csharpcourse/02-session/FirstProject/obj/Debug/net6.0/FirstProject.dll
+/home/atanazio/courses/csharpcourse/02-session/FirstProject/obj/Debug/net6.0/refint/FirstProject.dll
+/home/atanazio/courses/csharpcourse/02-session/FirstProject/obj/Debug/net6.0/FirstProject.pdb
+/home/atanazio/courses/csharpcourse/02-session/FirstProject/obj/Debug/net6.0/FirstProject.genruntimeconfig.cache
+/home/atanazio/courses/csharpcourse/02-session/FirstProject/obj/Debug/net6.0/ref/FirstProject.dll
