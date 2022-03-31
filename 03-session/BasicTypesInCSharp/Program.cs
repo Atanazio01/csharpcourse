@@ -4,7 +4,8 @@
     {
         static void Main(string[] args)
         {
-            bool completo = false; // bool
+            bool incompleto = false; // bool
+            bool completo = true; // bool
             char gender = 'F'; // characters unicode
             char leter = '\u0041'; // utilizing unicode 
             sbyte x = 126; // 1 Byte -128 to 127
@@ -20,6 +21,7 @@
 
 
             Console.WriteLine("bool: " + completo);
+            Console.WriteLine("bool: " + incompleto);
             Console.WriteLine("char: " + gender);
             Console.WriteLine("char unicode: " + leter);
             Console.WriteLine("sbyte: " + x);
