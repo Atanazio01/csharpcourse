@@ -1,0 +1,15 @@
+/home/atanazio/courses/csharpcourse/03-session/BasicTypesInCSharp/bin/Debug/net6.0/BasicTypesInCSharp
+/home/atanazio/courses/csharpcourse/03-session/BasicTypesInCSharp/bin/Debug/net6.0/BasicTypesInCSharp.deps.json
+/home/atanazio/courses/csharpcourse/03-session/BasicTypesInCSharp/bin/Debug/net6.0/BasicTypesInCSharp.runtimeconfig.json
+/home/atanazio/courses/csharpcourse/03-session/BasicTypesInCSharp/bin/Debug/net6.0/BasicTypesInCSharp.dll
+/home/atanazio/courses/csharpcourse/03-session/BasicTypesInCSharp/bin/Debug/net6.0/BasicTypesInCSharp.pdb
+/home/atanazio/courses/csharpcourse/03-session/BasicTypesInCSharp/obj/Debug/net6.0/BasicTypesInCSharp.csproj.AssemblyReference.cache
+/home/atanazio/courses/csharpcourse/03-session/BasicTypesInCSharp/obj/Debug/net6.0/BasicTypesInCSharp.GeneratedMSBuildEditorConfig.editorconfig
+/home/atanazio/courses/csharpcourse/03-session/BasicTypesInCSharp/obj/Debug/net6.0/BasicTypesInCSharp.AssemblyInfoInputs.cache
+/home/atanazio/courses/csharpcourse/03-session/BasicTypesInCSharp/obj/Debug/net6.0/BasicTypesInCSharp.AssemblyInfo.cs
+/home/atanazio/courses/csharpcourse/03-session/BasicTypesInCSharp/obj/Debug/net6.0/BasicTypesInCSharp.csproj.CoreCompileInputs.cache
+/home/atanazio/courses/csharpcourse/03-session/BasicTypesInCSharp/obj/Debug/net6.0/BasicTypesInCSharp.dll
+/home/atanazio/courses/csharpcourse/03-session/BasicTypesInCSharp/obj/Debug/net6.0/refint/BasicTypesInCSharp.dll
+/home/atanazio/courses/csharpcourse/03-session/BasicTypesInCSharp/obj/Debug/net6.0/BasicTypesInCSharp.pdb
+/home/atanazio/courses/csharpcourse/03-session/BasicTypesInCSharp/obj/Debug/net6.0/BasicTypesInCSharp.genruntimeconfig.cache
+/home/atanazio/courses/csharpcourse/03-session/BasicTypesInCSharp/obj/Debug/net6.0/ref/BasicTypesInCSharp.dll
