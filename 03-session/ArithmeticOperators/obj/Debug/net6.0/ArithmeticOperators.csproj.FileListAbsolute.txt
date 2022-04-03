@@ -1,0 +1,15 @@
+/home/atanazio/courses/csharpcourse/03-session/ArithmeticOperators/bin/Debug/net6.0/ArithmeticOperators
+/home/atanazio/courses/csharpcourse/03-session/ArithmeticOperators/bin/Debug/net6.0/ArithmeticOperators.deps.json
+/home/atanazio/courses/csharpcourse/03-session/ArithmeticOperators/bin/Debug/net6.0/ArithmeticOperators.runtimeconfig.json
+/home/atanazio/courses/csharpcourse/03-session/ArithmeticOperators/bin/Debug/net6.0/ArithmeticOperators.dll
+/home/atanazio/courses/csharpcourse/03-session/ArithmeticOperators/bin/Debug/net6.0/ArithmeticOperators.pdb
+/home/atanazio/courses/csharpcourse/03-session/ArithmeticOperators/obj/Debug/net6.0/ArithmeticOperators.csproj.AssemblyReference.cache
+/home/atanazio/courses/csharpcourse/03-session/ArithmeticOperators/obj/Debug/net6.0/ArithmeticOperators.GeneratedMSBuildEditorConfig.editorconfig
+/home/atanazio/courses/csharpcourse/03-session/ArithmeticOperators/obj/Debug/net6.0/ArithmeticOperators.AssemblyInfoInputs.cache
+/home/atanazio/courses/csharpcourse/03-session/ArithmeticOperators/obj/Debug/net6.0/ArithmeticOperators.AssemblyInfo.cs
+/home/atanazio/courses/csharpcourse/03-session/ArithmeticOperators/obj/Debug/net6.0/ArithmeticOperators.csproj.CoreCompileInputs.cache
+/home/atanazio/courses/csharpcourse/03-session/ArithmeticOperators/obj/Debug/net6.0/ArithmeticOperators.dll
+/home/atanazio/courses/csharpcourse/03-session/ArithmeticOperators/obj/Debug/net6.0/refint/ArithmeticOperators.dll
+/home/atanazio/courses/csharpcourse/03-session/ArithmeticOperators/obj/Debug/net6.0/ArithmeticOperators.pdb
+/home/atanazio/courses/csharpcourse/03-session/ArithmeticOperators/obj/Debug/net6.0/ArithmeticOperators.genruntimeconfig.cache
+/home/atanazio/courses/csharpcourse/03-session/ArithmeticOperators/obj/Debug/net6.0/ref/ArithmeticOperators.dll
