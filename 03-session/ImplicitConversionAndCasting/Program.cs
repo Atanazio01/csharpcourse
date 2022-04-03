@@ -11,7 +11,7 @@
       // conversão explícita
       b = (float)a; // casting
 
-      int c = (int)a; // casting
+      int c = (int)a; // casting // perda de iformação, valores decimais são truncados
 
       System.Console.WriteLine(y);
       System.Console.WriteLine(b);
