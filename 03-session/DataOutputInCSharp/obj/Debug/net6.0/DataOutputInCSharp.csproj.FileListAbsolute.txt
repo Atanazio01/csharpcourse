@@ -1,0 +1,15 @@
+/home/atanazio/courses/csharpcourse/03-session/DataOutputInCSharp/bin/Debug/net6.0/DataOutputInCSharp
+/home/atanazio/courses/csharpcourse/03-session/DataOutputInCSharp/bin/Debug/net6.0/DataOutputInCSharp.deps.json
+/home/atanazio/courses/csharpcourse/03-session/DataOutputInCSharp/bin/Debug/net6.0/DataOutputInCSharp.runtimeconfig.json
+/home/atanazio/courses/csharpcourse/03-session/DataOutputInCSharp/bin/Debug/net6.0/DataOutputInCSharp.dll
+/home/atanazio/courses/csharpcourse/03-session/DataOutputInCSharp/bin/Debug/net6.0/DataOutputInCSharp.pdb
+/home/atanazio/courses/csharpcourse/03-session/DataOutputInCSharp/obj/Debug/net6.0/DataOutputInCSharp.csproj.AssemblyReference.cache
+/home/atanazio/courses/csharpcourse/03-session/DataOutputInCSharp/obj/Debug/net6.0/DataOutputInCSharp.GeneratedMSBuildEditorConfig.editorconfig
+/home/atanazio/courses/csharpcourse/03-session/DataOutputInCSharp/obj/Debug/net6.0/DataOutputInCSharp.AssemblyInfoInputs.cache
+/home/atanazio/courses/csharpcourse/03-session/DataOutputInCSharp/obj/Debug/net6.0/DataOutputInCSharp.AssemblyInfo.cs
+/home/atanazio/courses/csharpcourse/03-session/DataOutputInCSharp/obj/Debug/net6.0/DataOutputInCSharp.csproj.CoreCompileInputs.cache
+/home/atanazio/courses/csharpcourse/03-session/DataOutputInCSharp/obj/Debug/net6.0/DataOutputInCSharp.dll
+/home/atanazio/courses/csharpcourse/03-session/DataOutputInCSharp/obj/Debug/net6.0/refint/DataOutputInCSharp.dll
+/home/atanazio/courses/csharpcourse/03-session/DataOutputInCSharp/obj/Debug/net6.0/DataOutputInCSharp.pdb
+/home/atanazio/courses/csharpcourse/03-session/DataOutputInCSharp/obj/Debug/net6.0/DataOutputInCSharp.genruntimeconfig.cache
+/home/atanazio/courses/csharpcourse/03-session/DataOutputInCSharp/obj/Debug/net6.0/ref/DataOutputInCSharp.dll
