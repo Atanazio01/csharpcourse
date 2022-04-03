@@ -1,0 +1,15 @@
+/home/atanazio/courses/csharpcourse/03-session/ImplicitConversionAndCasting/bin/Debug/net6.0/ImplicitConversionAndCasting
+/home/atanazio/courses/csharpcourse/03-session/ImplicitConversionAndCasting/bin/Debug/net6.0/ImplicitConversionAndCasting.deps.json
+/home/atanazio/courses/csharpcourse/03-session/ImplicitConversionAndCasting/bin/Debug/net6.0/ImplicitConversionAndCasting.runtimeconfig.json
+/home/atanazio/courses/csharpcourse/03-session/ImplicitConversionAndCasting/bin/Debug/net6.0/ImplicitConversionAndCasting.dll
+/home/atanazio/courses/csharpcourse/03-session/ImplicitConversionAndCasting/bin/Debug/net6.0/ImplicitConversionAndCasting.pdb
+/home/atanazio/courses/csharpcourse/03-session/ImplicitConversionAndCasting/obj/Debug/net6.0/ImplicitConversionAndCasting.csproj.AssemblyReference.cache
+/home/atanazio/courses/csharpcourse/03-session/ImplicitConversionAndCasting/obj/Debug/net6.0/ImplicitConversionAndCasting.GeneratedMSBuildEditorConfig.editorconfig
+/home/atanazio/courses/csharpcourse/03-session/ImplicitConversionAndCasting/obj/Debug/net6.0/ImplicitConversionAndCasting.AssemblyInfoInputs.cache
+/home/atanazio/courses/csharpcourse/03-session/ImplicitConversionAndCasting/obj/Debug/net6.0/ImplicitConversionAndCasting.AssemblyInfo.cs
+/home/atanazio/courses/csharpcourse/03-session/ImplicitConversionAndCasting/obj/Debug/net6.0/ImplicitConversionAndCasting.csproj.CoreCompileInputs.cache
+/home/atanazio/courses/csharpcourse/03-session/ImplicitConversionAndCasting/obj/Debug/net6.0/ImplicitConversionAndCasting.dll
+/home/atanazio/courses/csharpcourse/03-session/ImplicitConversionAndCasting/obj/Debug/net6.0/refint/ImplicitConversionAndCasting.dll
+/home/atanazio/courses/csharpcourse/03-session/ImplicitConversionAndCasting/obj/Debug/net6.0/ImplicitConversionAndCasting.pdb
+/home/atanazio/courses/csharpcourse/03-session/ImplicitConversionAndCasting/obj/Debug/net6.0/ImplicitConversionAndCasting.genruntimeconfig.cache
+/home/atanazio/courses/csharpcourse/03-session/ImplicitConversionAndCasting/obj/Debug/net6.0/ref/ImplicitConversionAndCasting.dll
