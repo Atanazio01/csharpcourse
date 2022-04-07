@@ -1,0 +1,15 @@
+/home/atanazio/courses/csharpcourse/03-session/ProposedExercisesPart1/Exercise06/bin/Debug/net6.0/Exercise06
+/home/atanazio/courses/csharpcourse/03-session/ProposedExercisesPart1/Exercise06/bin/Debug/net6.0/Exercise06.deps.json
+/home/atanazio/courses/csharpcourse/03-session/ProposedExercisesPart1/Exercise06/bin/Debug/net6.0/Exercise06.runtimeconfig.json
+/home/atanazio/courses/csharpcourse/03-session/ProposedExercisesPart1/Exercise06/bin/Debug/net6.0/Exercise06.dll
+/home/atanazio/courses/csharpcourse/03-session/ProposedExercisesPart1/Exercise06/bin/Debug/net6.0/Exercise06.pdb
+/home/atanazio/courses/csharpcourse/03-session/ProposedExercisesPart1/Exercise06/obj/Debug/net6.0/Exercise06.csproj.AssemblyReference.cache
+/home/atanazio/courses/csharpcourse/03-session/ProposedExercisesPart1/Exercise06/obj/Debug/net6.0/Exercise06.GeneratedMSBuildEditorConfig.editorconfig
+/home/atanazio/courses/csharpcourse/03-session/ProposedExercisesPart1/Exercise06/obj/Debug/net6.0/Exercise06.AssemblyInfoInputs.cache
+/home/atanazio/courses/csharpcourse/03-session/ProposedExercisesPart1/Exercise06/obj/Debug/net6.0/Exercise06.AssemblyInfo.cs
+/home/atanazio/courses/csharpcourse/03-session/ProposedExercisesPart1/Exercise06/obj/Debug/net6.0/Exercise06.csproj.CoreCompileInputs.cache
+/home/atanazio/courses/csharpcourse/03-session/ProposedExercisesPart1/Exercise06/obj/Debug/net6.0/Exercise06.dll
+/home/atanazio/courses/csharpcourse/03-session/ProposedExercisesPart1/Exercise06/obj/Debug/net6.0/refint/Exercise06.dll
+/home/atanazio/courses/csharpcourse/03-session/ProposedExercisesPart1/Exercise06/obj/Debug/net6.0/Exercise06.pdb
+/home/atanazio/courses/csharpcourse/03-session/ProposedExercisesPart1/Exercise06/obj/Debug/net6.0/Exercise06.genruntimeconfig.cache
+/home/atanazio/courses/csharpcourse/03-session/ProposedExercisesPart1/Exercise06/obj/Debug/net6.0/ref/Exercise06.dll
