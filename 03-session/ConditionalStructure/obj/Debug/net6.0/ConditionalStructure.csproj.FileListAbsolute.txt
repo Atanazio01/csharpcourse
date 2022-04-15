@@ -1,0 +1,15 @@
+/home/atanazio/courses/csharpcourse/03-session/ConditionalStructure/bin/Debug/net6.0/ConditionalStructure
+/home/atanazio/courses/csharpcourse/03-session/ConditionalStructure/bin/Debug/net6.0/ConditionalStructure.deps.json
+/home/atanazio/courses/csharpcourse/03-session/ConditionalStructure/bin/Debug/net6.0/ConditionalStructure.runtimeconfig.json
+/home/atanazio/courses/csharpcourse/03-session/ConditionalStructure/bin/Debug/net6.0/ConditionalStructure.dll
+/home/atanazio/courses/csharpcourse/03-session/ConditionalStructure/bin/Debug/net6.0/ConditionalStructure.pdb
+/home/atanazio/courses/csharpcourse/03-session/ConditionalStructure/obj/Debug/net6.0/ConditionalStructure.csproj.AssemblyReference.cache
+/home/atanazio/courses/csharpcourse/03-session/ConditionalStructure/obj/Debug/net6.0/ConditionalStructure.GeneratedMSBuildEditorConfig.editorconfig
+/home/atanazio/courses/csharpcourse/03-session/ConditionalStructure/obj/Debug/net6.0/ConditionalStructure.AssemblyInfoInputs.cache
+/home/atanazio/courses/csharpcourse/03-session/ConditionalStructure/obj/Debug/net6.0/ConditionalStructure.AssemblyInfo.cs
+/home/atanazio/courses/csharpcourse/03-session/ConditionalStructure/obj/Debug/net6.0/ConditionalStructure.csproj.CoreCompileInputs.cache
+/home/atanazio/courses/csharpcourse/03-session/ConditionalStructure/obj/Debug/net6.0/ConditionalStructure.dll
+/home/atanazio/courses/csharpcourse/03-session/ConditionalStructure/obj/Debug/net6.0/refint/ConditionalStructure.dll
+/home/atanazio/courses/csharpcourse/03-session/ConditionalStructure/obj/Debug/net6.0/ConditionalStructure.pdb
+/home/atanazio/courses/csharpcourse/03-session/ConditionalStructure/obj/Debug/net6.0/ConditionalStructure.genruntimeconfig.cache
+/home/atanazio/courses/csharpcourse/03-session/ConditionalStructure/obj/Debug/net6.0/ref/ConditionalStructure.dll
