@@ -1,0 +1,15 @@
+C:\Udemy\C# COMPLETO\csharpcourse\section-3\AssignmentOperators\AssignmentOperators\bin\Debug\net7.0\AssignmentOperators.exe
+C:\Udemy\C# COMPLETO\csharpcourse\section-3\AssignmentOperators\AssignmentOperators\bin\Debug\net7.0\AssignmentOperators.deps.json
+C:\Udemy\C# COMPLETO\csharpcourse\section-3\AssignmentOperators\AssignmentOperators\bin\Debug\net7.0\AssignmentOperators.runtimeconfig.json
+C:\Udemy\C# COMPLETO\csharpcourse\section-3\AssignmentOperators\AssignmentOperators\bin\Debug\net7.0\AssignmentOperators.dll
+C:\Udemy\C# COMPLETO\csharpcourse\section-3\AssignmentOperators\AssignmentOperators\bin\Debug\net7.0\AssignmentOperators.pdb
+C:\Udemy\C# COMPLETO\csharpcourse\section-3\AssignmentOperators\AssignmentOperators\obj\Debug\net7.0\AssignmentOperators.csproj.AssemblyReference.cache
+C:\Udemy\C# COMPLETO\csharpcourse\section-3\AssignmentOperators\AssignmentOperators\obj\Debug\net7.0\AssignmentOperators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Udemy\C# COMPLETO\csharpcourse\section-3\AssignmentOperators\AssignmentOperators\obj\Debug\net7.0\AssignmentOperators.AssemblyInfoInputs.cache
+C:\Udemy\C# COMPLETO\csharpcourse\section-3\AssignmentOperators\AssignmentOperators\obj\Debug\net7.0\AssignmentOperators.AssemblyInfo.cs
+C:\Udemy\C# COMPLETO\csharpcourse\section-3\AssignmentOperators\AssignmentOperators\obj\Debug\net7.0\AssignmentOperators.csproj.CoreCompileInputs.cache
+C:\Udemy\C# COMPLETO\csharpcourse\section-3\AssignmentOperators\AssignmentOperators\obj\Debug\net7.0\AssignmentOperators.dll
+C:\Udemy\C# COMPLETO\csharpcourse\section-3\AssignmentOperators\AssignmentOperators\obj\Debug\net7.0\refint\AssignmentOperators.dll
+C:\Udemy\C# COMPLETO\csharpcourse\section-3\AssignmentOperators\AssignmentOperators\obj\Debug\net7.0\AssignmentOperators.pdb
+C:\Udemy\C# COMPLETO\csharpcourse\section-3\AssignmentOperators\AssignmentOperators\obj\Debug\net7.0\AssignmentOperators.genruntimeconfig.cache
+C:\Udemy\C# COMPLETO\csharpcourse\section-3\AssignmentOperators\AssignmentOperators\obj\Debug\net7.0\ref\AssignmentOperators.dll
