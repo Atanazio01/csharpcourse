@@ -1,0 +1,15 @@
+C:\Udemy\C# COMPLETO\csharpcourse\section-3\BasicTypesInCSharp\BasicTypesInCSharp\bin\Debug\net7.0\BasicTypesInCSharp.exe
+C:\Udemy\C# COMPLETO\csharpcourse\section-3\BasicTypesInCSharp\BasicTypesInCSharp\bin\Debug\net7.0\BasicTypesInCSharp.deps.json
+C:\Udemy\C# COMPLETO\csharpcourse\section-3\BasicTypesInCSharp\BasicTypesInCSharp\bin\Debug\net7.0\BasicTypesInCSharp.runtimeconfig.json
+C:\Udemy\C# COMPLETO\csharpcourse\section-3\BasicTypesInCSharp\BasicTypesInCSharp\bin\Debug\net7.0\BasicTypesInCSharp.dll
+C:\Udemy\C# COMPLETO\csharpcourse\section-3\BasicTypesInCSharp\BasicTypesInCSharp\bin\Debug\net7.0\BasicTypesInCSharp.pdb
+C:\Udemy\C# COMPLETO\csharpcourse\section-3\BasicTypesInCSharp\BasicTypesInCSharp\obj\Debug\net7.0\BasicTypesInCSharp.csproj.AssemblyReference.cache
+C:\Udemy\C# COMPLETO\csharpcourse\section-3\BasicTypesInCSharp\BasicTypesInCSharp\obj\Debug\net7.0\BasicTypesInCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Udemy\C# COMPLETO\csharpcourse\section-3\BasicTypesInCSharp\BasicTypesInCSharp\obj\Debug\net7.0\BasicTypesInCSharp.AssemblyInfoInputs.cache
+C:\Udemy\C# COMPLETO\csharpcourse\section-3\BasicTypesInCSharp\BasicTypesInCSharp\obj\Debug\net7.0\BasicTypesInCSharp.AssemblyInfo.cs
+C:\Udemy\C# COMPLETO\csharpcourse\section-3\BasicTypesInCSharp\BasicTypesInCSharp\obj\Debug\net7.0\BasicTypesInCSharp.csproj.CoreCompileInputs.cache
+C:\Udemy\C# COMPLETO\csharpcourse\section-3\BasicTypesInCSharp\BasicTypesInCSharp\obj\Debug\net7.0\BasicTypesInCSharp.dll
+C:\Udemy\C# COMPLETO\csharpcourse\section-3\BasicTypesInCSharp\BasicTypesInCSharp\obj\Debug\net7.0\refint\BasicTypesInCSharp.dll
+C:\Udemy\C# COMPLETO\csharpcourse\section-3\BasicTypesInCSharp\BasicTypesInCSharp\obj\Debug\net7.0\BasicTypesInCSharp.pdb
+C:\Udemy\C# COMPLETO\csharpcourse\section-3\BasicTypesInCSharp\BasicTypesInCSharp\obj\Debug\net7.0\BasicTypesInCSharp.genruntimeconfig.cache
+C:\Udemy\C# COMPLETO\csharpcourse\section-3\BasicTypesInCSharp\BasicTypesInCSharp\obj\Debug\net7.0\ref\BasicTypesInCSharp.dll
