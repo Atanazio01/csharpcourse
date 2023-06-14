@@ -1,0 +1,15 @@
+C:\Udemy\C# COMPLETO\csharpcourse\section-3\OutputDataFixationExercise\OutputDataFixationExercise\bin\Debug\net7.0\OutputDataFixationExercise.exe
+C:\Udemy\C# COMPLETO\csharpcourse\section-3\OutputDataFixationExercise\OutputDataFixationExercise\bin\Debug\net7.0\OutputDataFixationExercise.deps.json
+C:\Udemy\C# COMPLETO\csharpcourse\section-3\OutputDataFixationExercise\OutputDataFixationExercise\bin\Debug\net7.0\OutputDataFixationExercise.runtimeconfig.json
+C:\Udemy\C# COMPLETO\csharpcourse\section-3\OutputDataFixationExercise\OutputDataFixationExercise\bin\Debug\net7.0\OutputDataFixationExercise.dll
+C:\Udemy\C# COMPLETO\csharpcourse\section-3\OutputDataFixationExercise\OutputDataFixationExercise\bin\Debug\net7.0\OutputDataFixationExercise.pdb
+C:\Udemy\C# COMPLETO\csharpcourse\section-3\OutputDataFixationExercise\OutputDataFixationExercise\obj\Debug\net7.0\OutputDataFixationExercise.csproj.AssemblyReference.cache
+C:\Udemy\C# COMPLETO\csharpcourse\section-3\OutputDataFixationExercise\OutputDataFixationExercise\obj\Debug\net7.0\OutputDataFixationExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Udemy\C# COMPLETO\csharpcourse\section-3\OutputDataFixationExercise\OutputDataFixationExercise\obj\Debug\net7.0\OutputDataFixationExercise.AssemblyInfoInputs.cache
+C:\Udemy\C# COMPLETO\csharpcourse\section-3\OutputDataFixationExercise\OutputDataFixationExercise\obj\Debug\net7.0\OutputDataFixationExercise.AssemblyInfo.cs
+C:\Udemy\C# COMPLETO\csharpcourse\section-3\OutputDataFixationExercise\OutputDataFixationExercise\obj\Debug\net7.0\OutputDataFixationExercise.csproj.CoreCompileInputs.cache
+C:\Udemy\C# COMPLETO\csharpcourse\section-3\OutputDataFixationExercise\OutputDataFixationExercise\obj\Debug\net7.0\OutputDataFixationExercise.dll
+C:\Udemy\C# COMPLETO\csharpcourse\section-3\OutputDataFixationExercise\OutputDataFixationExercise\obj\Debug\net7.0\refint\OutputDataFixationExercise.dll
+C:\Udemy\C# COMPLETO\csharpcourse\section-3\OutputDataFixationExercise\OutputDataFixationExercise\obj\Debug\net7.0\OutputDataFixationExercise.pdb
+C:\Udemy\C# COMPLETO\csharpcourse\section-3\OutputDataFixationExercise\OutputDataFixationExercise\obj\Debug\net7.0\OutputDataFixationExercise.genruntimeconfig.cache
+C:\Udemy\C# COMPLETO\csharpcourse\section-3\OutputDataFixationExercise\OutputDataFixationExercise\obj\Debug\net7.0\ref\OutputDataFixationExercise.dll
