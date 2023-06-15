@@ -1,0 +1,15 @@
+C:\Udemy\C# COMPLETO\csharpcourse\section-3\RepetitiveStructureShile\RepetitiveStructureShile\bin\Debug\net7.0\RepetitiveStructureShile.exe
+C:\Udemy\C# COMPLETO\csharpcourse\section-3\RepetitiveStructureShile\RepetitiveStructureShile\bin\Debug\net7.0\RepetitiveStructureShile.deps.json
+C:\Udemy\C# COMPLETO\csharpcourse\section-3\RepetitiveStructureShile\RepetitiveStructureShile\bin\Debug\net7.0\RepetitiveStructureShile.runtimeconfig.json
+C:\Udemy\C# COMPLETO\csharpcourse\section-3\RepetitiveStructureShile\RepetitiveStructureShile\bin\Debug\net7.0\RepetitiveStructureShile.dll
+C:\Udemy\C# COMPLETO\csharpcourse\section-3\RepetitiveStructureShile\RepetitiveStructureShile\bin\Debug\net7.0\RepetitiveStructureShile.pdb
+C:\Udemy\C# COMPLETO\csharpcourse\section-3\RepetitiveStructureShile\RepetitiveStructureShile\obj\Debug\net7.0\RepetitiveStructureShile.csproj.AssemblyReference.cache
+C:\Udemy\C# COMPLETO\csharpcourse\section-3\RepetitiveStructureShile\RepetitiveStructureShile\obj\Debug\net7.0\RepetitiveStructureShile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Udemy\C# COMPLETO\csharpcourse\section-3\RepetitiveStructureShile\RepetitiveStructureShile\obj\Debug\net7.0\RepetitiveStructureShile.AssemblyInfoInputs.cache
+C:\Udemy\C# COMPLETO\csharpcourse\section-3\RepetitiveStructureShile\RepetitiveStructureShile\obj\Debug\net7.0\RepetitiveStructureShile.AssemblyInfo.cs
+C:\Udemy\C# COMPLETO\csharpcourse\section-3\RepetitiveStructureShile\RepetitiveStructureShile\obj\Debug\net7.0\RepetitiveStructureShile.csproj.CoreCompileInputs.cache
+C:\Udemy\C# COMPLETO\csharpcourse\section-3\RepetitiveStructureShile\RepetitiveStructureShile\obj\Debug\net7.0\RepetitiveStructureShile.dll
+C:\Udemy\C# COMPLETO\csharpcourse\section-3\RepetitiveStructureShile\RepetitiveStructureShile\obj\Debug\net7.0\refint\RepetitiveStructureShile.dll
+C:\Udemy\C# COMPLETO\csharpcourse\section-3\RepetitiveStructureShile\RepetitiveStructureShile\obj\Debug\net7.0\RepetitiveStructureShile.pdb
+C:\Udemy\C# COMPLETO\csharpcourse\section-3\RepetitiveStructureShile\RepetitiveStructureShile\obj\Debug\net7.0\RepetitiveStructureShile.genruntimeconfig.cache
+C:\Udemy\C# COMPLETO\csharpcourse\section-3\RepetitiveStructureShile\RepetitiveStructureShile\obj\Debug\net7.0\ref\RepetitiveStructureShile.dll
