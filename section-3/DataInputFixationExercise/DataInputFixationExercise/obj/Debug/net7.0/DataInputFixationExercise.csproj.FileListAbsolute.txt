@@ -1,0 +1,15 @@
+C:\Udemy\C# COMPLETO\csharpcourse\section-3\DataInputFixationExercise\DataInputFixationExercise\bin\Debug\net7.0\DataInputFixationExercise.exe
+C:\Udemy\C# COMPLETO\csharpcourse\section-3\DataInputFixationExercise\DataInputFixationExercise\bin\Debug\net7.0\DataInputFixationExercise.deps.json
+C:\Udemy\C# COMPLETO\csharpcourse\section-3\DataInputFixationExercise\DataInputFixationExercise\bin\Debug\net7.0\DataInputFixationExercise.runtimeconfig.json
+C:\Udemy\C# COMPLETO\csharpcourse\section-3\DataInputFixationExercise\DataInputFixationExercise\bin\Debug\net7.0\DataInputFixationExercise.dll
+C:\Udemy\C# COMPLETO\csharpcourse\section-3\DataInputFixationExercise\DataInputFixationExercise\bin\Debug\net7.0\DataInputFixationExercise.pdb
+C:\Udemy\C# COMPLETO\csharpcourse\section-3\DataInputFixationExercise\DataInputFixationExercise\obj\Debug\net7.0\DataInputFixationExercise.csproj.AssemblyReference.cache
+C:\Udemy\C# COMPLETO\csharpcourse\section-3\DataInputFixationExercise\DataInputFixationExercise\obj\Debug\net7.0\DataInputFixationExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Udemy\C# COMPLETO\csharpcourse\section-3\DataInputFixationExercise\DataInputFixationExercise\obj\Debug\net7.0\DataInputFixationExercise.AssemblyInfoInputs.cache
+C:\Udemy\C# COMPLETO\csharpcourse\section-3\DataInputFixationExercise\DataInputFixationExercise\obj\Debug\net7.0\DataInputFixationExercise.AssemblyInfo.cs
+C:\Udemy\C# COMPLETO\csharpcourse\section-3\DataInputFixationExercise\DataInputFixationExercise\obj\Debug\net7.0\DataInputFixationExercise.csproj.CoreCompileInputs.cache
+C:\Udemy\C# COMPLETO\csharpcourse\section-3\DataInputFixationExercise\DataInputFixationExercise\obj\Debug\net7.0\DataInputFixationExercise.dll
+C:\Udemy\C# COMPLETO\csharpcourse\section-3\DataInputFixationExercise\DataInputFixationExercise\obj\Debug\net7.0\refint\DataInputFixationExercise.dll
+C:\Udemy\C# COMPLETO\csharpcourse\section-3\DataInputFixationExercise\DataInputFixationExercise\obj\Debug\net7.0\DataInputFixationExercise.pdb
+C:\Udemy\C# COMPLETO\csharpcourse\section-3\DataInputFixationExercise\DataInputFixationExercise\obj\Debug\net7.0\DataInputFixationExercise.genruntimeconfig.cache
+C:\Udemy\C# COMPLETO\csharpcourse\section-3\DataInputFixationExercise\DataInputFixationExercise\obj\Debug\net7.0\ref\DataInputFixationExercise.dll

@@ -1,0 +1,15 @@
+C:\Udemy\C# COMPLETO\csharpcourse\section-3\DataInputInCSharpPart2\DataInputInCSharpPart2\obj\Debug\net7.0\DataInputInCSharpPart2.csproj.AssemblyReference.cache
+C:\Udemy\C# COMPLETO\csharpcourse\section-3\DataInputInCSharpPart2\DataInputInCSharpPart2\obj\Debug\net7.0\DataInputInCSharpPart2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Udemy\C# COMPLETO\csharpcourse\section-3\DataInputInCSharpPart2\DataInputInCSharpPart2\obj\Debug\net7.0\DataInputInCSharpPart2.AssemblyInfoInputs.cache
+C:\Udemy\C# COMPLETO\csharpcourse\section-3\DataInputInCSharpPart2\DataInputInCSharpPart2\obj\Debug\net7.0\DataInputInCSharpPart2.AssemblyInfo.cs
+C:\Udemy\C# COMPLETO\csharpcourse\section-3\DataInputInCSharpPart2\DataInputInCSharpPart2\obj\Debug\net7.0\DataInputInCSharpPart2.csproj.CoreCompileInputs.cache
+C:\Udemy\C# COMPLETO\csharpcourse\section-3\DataInputInCSharpPart2\DataInputInCSharpPart2\bin\Debug\net7.0\DataInputInCSharpPart2.exe
+C:\Udemy\C# COMPLETO\csharpcourse\section-3\DataInputInCSharpPart2\DataInputInCSharpPart2\bin\Debug\net7.0\DataInputInCSharpPart2.deps.json
+C:\Udemy\C# COMPLETO\csharpcourse\section-3\DataInputInCSharpPart2\DataInputInCSharpPart2\bin\Debug\net7.0\DataInputInCSharpPart2.runtimeconfig.json
+C:\Udemy\C# COMPLETO\csharpcourse\section-3\DataInputInCSharpPart2\DataInputInCSharpPart2\bin\Debug\net7.0\DataInputInCSharpPart2.dll
+C:\Udemy\C# COMPLETO\csharpcourse\section-3\DataInputInCSharpPart2\DataInputInCSharpPart2\bin\Debug\net7.0\DataInputInCSharpPart2.pdb
+C:\Udemy\C# COMPLETO\csharpcourse\section-3\DataInputInCSharpPart2\DataInputInCSharpPart2\obj\Debug\net7.0\DataInputInCSharpPart2.dll
+C:\Udemy\C# COMPLETO\csharpcourse\section-3\DataInputInCSharpPart2\DataInputInCSharpPart2\obj\Debug\net7.0\refint\DataInputInCSharpPart2.dll
+C:\Udemy\C# COMPLETO\csharpcourse\section-3\DataInputInCSharpPart2\DataInputInCSharpPart2\obj\Debug\net7.0\DataInputInCSharpPart2.pdb
+C:\Udemy\C# COMPLETO\csharpcourse\section-3\DataInputInCSharpPart2\DataInputInCSharpPart2\obj\Debug\net7.0\DataInputInCSharpPart2.genruntimeconfig.cache
+C:\Udemy\C# COMPLETO\csharpcourse\section-3\DataInputInCSharpPart2\DataInputInCSharpPart2\obj\Debug\net7.0\ref\DataInputInCSharpPart2.dll
