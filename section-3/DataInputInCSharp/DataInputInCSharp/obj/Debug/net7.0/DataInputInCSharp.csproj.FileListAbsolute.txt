@@ -1,0 +1,15 @@
+C:\Udemy\C# COMPLETO\csharpcourse\section-3\DataInputInCSharp\DataInputInCSharp\bin\Debug\net7.0\DataInputInCSharp.exe
+C:\Udemy\C# COMPLETO\csharpcourse\section-3\DataInputInCSharp\DataInputInCSharp\bin\Debug\net7.0\DataInputInCSharp.deps.json
+C:\Udemy\C# COMPLETO\csharpcourse\section-3\DataInputInCSharp\DataInputInCSharp\bin\Debug\net7.0\DataInputInCSharp.runtimeconfig.json
+C:\Udemy\C# COMPLETO\csharpcourse\section-3\DataInputInCSharp\DataInputInCSharp\bin\Debug\net7.0\DataInputInCSharp.dll
+C:\Udemy\C# COMPLETO\csharpcourse\section-3\DataInputInCSharp\DataInputInCSharp\bin\Debug\net7.0\DataInputInCSharp.pdb
+C:\Udemy\C# COMPLETO\csharpcourse\section-3\DataInputInCSharp\DataInputInCSharp\obj\Debug\net7.0\DataInputInCSharp.csproj.AssemblyReference.cache
+C:\Udemy\C# COMPLETO\csharpcourse\section-3\DataInputInCSharp\DataInputInCSharp\obj\Debug\net7.0\DataInputInCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Udemy\C# COMPLETO\csharpcourse\section-3\DataInputInCSharp\DataInputInCSharp\obj\Debug\net7.0\DataInputInCSharp.AssemblyInfoInputs.cache
+C:\Udemy\C# COMPLETO\csharpcourse\section-3\DataInputInCSharp\DataInputInCSharp\obj\Debug\net7.0\DataInputInCSharp.AssemblyInfo.cs
+C:\Udemy\C# COMPLETO\csharpcourse\section-3\DataInputInCSharp\DataInputInCSharp\obj\Debug\net7.0\DataInputInCSharp.csproj.CoreCompileInputs.cache
+C:\Udemy\C# COMPLETO\csharpcourse\section-3\DataInputInCSharp\DataInputInCSharp\obj\Debug\net7.0\DataInputInCSharp.dll
+C:\Udemy\C# COMPLETO\csharpcourse\section-3\DataInputInCSharp\DataInputInCSharp\obj\Debug\net7.0\refint\DataInputInCSharp.dll
+C:\Udemy\C# COMPLETO\csharpcourse\section-3\DataInputInCSharp\DataInputInCSharp\obj\Debug\net7.0\DataInputInCSharp.pdb
+C:\Udemy\C# COMPLETO\csharpcourse\section-3\DataInputInCSharp\DataInputInCSharp\obj\Debug\net7.0\DataInputInCSharp.genruntimeconfig.cache
+C:\Udemy\C# COMPLETO\csharpcourse\section-3\DataInputInCSharp\DataInputInCSharp\obj\Debug\net7.0\ref\DataInputInCSharp.dll
