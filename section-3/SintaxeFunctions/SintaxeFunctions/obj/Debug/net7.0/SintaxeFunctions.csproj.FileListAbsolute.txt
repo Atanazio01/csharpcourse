@@ -1,0 +1,15 @@
+C:\Udemy\C# COMPLETO\csharpcourse\section-3\SintaxeFunctions\SintaxeFunctions\obj\Debug\net7.0\SintaxeFunctions.csproj.AssemblyReference.cache
+C:\Udemy\C# COMPLETO\csharpcourse\section-3\SintaxeFunctions\SintaxeFunctions\obj\Debug\net7.0\SintaxeFunctions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Udemy\C# COMPLETO\csharpcourse\section-3\SintaxeFunctions\SintaxeFunctions\obj\Debug\net7.0\SintaxeFunctions.AssemblyInfoInputs.cache
+C:\Udemy\C# COMPLETO\csharpcourse\section-3\SintaxeFunctions\SintaxeFunctions\obj\Debug\net7.0\SintaxeFunctions.AssemblyInfo.cs
+C:\Udemy\C# COMPLETO\csharpcourse\section-3\SintaxeFunctions\SintaxeFunctions\obj\Debug\net7.0\SintaxeFunctions.csproj.CoreCompileInputs.cache
+C:\Udemy\C# COMPLETO\csharpcourse\section-3\SintaxeFunctions\SintaxeFunctions\bin\Debug\net7.0\SintaxeFunctions.exe
+C:\Udemy\C# COMPLETO\csharpcourse\section-3\SintaxeFunctions\SintaxeFunctions\bin\Debug\net7.0\SintaxeFunctions.deps.json
+C:\Udemy\C# COMPLETO\csharpcourse\section-3\SintaxeFunctions\SintaxeFunctions\bin\Debug\net7.0\SintaxeFunctions.runtimeconfig.json
+C:\Udemy\C# COMPLETO\csharpcourse\section-3\SintaxeFunctions\SintaxeFunctions\bin\Debug\net7.0\SintaxeFunctions.dll
+C:\Udemy\C# COMPLETO\csharpcourse\section-3\SintaxeFunctions\SintaxeFunctions\bin\Debug\net7.0\SintaxeFunctions.pdb
+C:\Udemy\C# COMPLETO\csharpcourse\section-3\SintaxeFunctions\SintaxeFunctions\obj\Debug\net7.0\SintaxeFunctions.dll
+C:\Udemy\C# COMPLETO\csharpcourse\section-3\SintaxeFunctions\SintaxeFunctions\obj\Debug\net7.0\refint\SintaxeFunctions.dll
+C:\Udemy\C# COMPLETO\csharpcourse\section-3\SintaxeFunctions\SintaxeFunctions\obj\Debug\net7.0\SintaxeFunctions.pdb
+C:\Udemy\C# COMPLETO\csharpcourse\section-3\SintaxeFunctions\SintaxeFunctions\obj\Debug\net7.0\SintaxeFunctions.genruntimeconfig.cache
+C:\Udemy\C# COMPLETO\csharpcourse\section-3\SintaxeFunctions\SintaxeFunctions\obj\Debug\net7.0\ref\SintaxeFunctions.dll
