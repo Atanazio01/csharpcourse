@@ -1,0 +1,15 @@
+C:\Udemy\C# COMPLETO\csharpcourse\section-3\exercises\sequential_structure\Exercise05\Exercise05\bin\Debug\net7.0\Exercise05.exe
+C:\Udemy\C# COMPLETO\csharpcourse\section-3\exercises\sequential_structure\Exercise05\Exercise05\bin\Debug\net7.0\Exercise05.deps.json
+C:\Udemy\C# COMPLETO\csharpcourse\section-3\exercises\sequential_structure\Exercise05\Exercise05\bin\Debug\net7.0\Exercise05.runtimeconfig.json
+C:\Udemy\C# COMPLETO\csharpcourse\section-3\exercises\sequential_structure\Exercise05\Exercise05\bin\Debug\net7.0\Exercise05.dll
+C:\Udemy\C# COMPLETO\csharpcourse\section-3\exercises\sequential_structure\Exercise05\Exercise05\bin\Debug\net7.0\Exercise05.pdb
+C:\Udemy\C# COMPLETO\csharpcourse\section-3\exercises\sequential_structure\Exercise05\Exercise05\obj\Debug\net7.0\Exercise05.csproj.AssemblyReference.cache
+C:\Udemy\C# COMPLETO\csharpcourse\section-3\exercises\sequential_structure\Exercise05\Exercise05\obj\Debug\net7.0\Exercise05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Udemy\C# COMPLETO\csharpcourse\section-3\exercises\sequential_structure\Exercise05\Exercise05\obj\Debug\net7.0\Exercise05.AssemblyInfoInputs.cache
+C:\Udemy\C# COMPLETO\csharpcourse\section-3\exercises\sequential_structure\Exercise05\Exercise05\obj\Debug\net7.0\Exercise05.AssemblyInfo.cs
+C:\Udemy\C# COMPLETO\csharpcourse\section-3\exercises\sequential_structure\Exercise05\Exercise05\obj\Debug\net7.0\Exercise05.csproj.CoreCompileInputs.cache
+C:\Udemy\C# COMPLETO\csharpcourse\section-3\exercises\sequential_structure\Exercise05\Exercise05\obj\Debug\net7.0\Exercise05.dll
+C:\Udemy\C# COMPLETO\csharpcourse\section-3\exercises\sequential_structure\Exercise05\Exercise05\obj\Debug\net7.0\refint\Exercise05.dll
+C:\Udemy\C# COMPLETO\csharpcourse\section-3\exercises\sequential_structure\Exercise05\Exercise05\obj\Debug\net7.0\Exercise05.pdb
+C:\Udemy\C# COMPLETO\csharpcourse\section-3\exercises\sequential_structure\Exercise05\Exercise05\obj\Debug\net7.0\Exercise05.genruntimeconfig.cache
+C:\Udemy\C# COMPLETO\csharpcourse\section-3\exercises\sequential_structure\Exercise05\Exercise05\obj\Debug\net7.0\ref\Exercise05.dll
