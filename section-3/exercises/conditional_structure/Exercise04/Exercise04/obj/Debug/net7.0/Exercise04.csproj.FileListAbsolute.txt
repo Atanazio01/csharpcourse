@@ -1,0 +1,15 @@
+C:\Udemy\C# COMPLETO\csharpcourse\section-3\exercises\conditional_structure\Exercise04\Exercise04\bin\Debug\net7.0\Exercise04.exe
+C:\Udemy\C# COMPLETO\csharpcourse\section-3\exercises\conditional_structure\Exercise04\Exercise04\bin\Debug\net7.0\Exercise04.deps.json
+C:\Udemy\C# COMPLETO\csharpcourse\section-3\exercises\conditional_structure\Exercise04\Exercise04\bin\Debug\net7.0\Exercise04.runtimeconfig.json
+C:\Udemy\C# COMPLETO\csharpcourse\section-3\exercises\conditional_structure\Exercise04\Exercise04\bin\Debug\net7.0\Exercise04.dll
+C:\Udemy\C# COMPLETO\csharpcourse\section-3\exercises\conditional_structure\Exercise04\Exercise04\bin\Debug\net7.0\Exercise04.pdb
+C:\Udemy\C# COMPLETO\csharpcourse\section-3\exercises\conditional_structure\Exercise04\Exercise04\obj\Debug\net7.0\Exercise04.csproj.AssemblyReference.cache
+C:\Udemy\C# COMPLETO\csharpcourse\section-3\exercises\conditional_structure\Exercise04\Exercise04\obj\Debug\net7.0\Exercise04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Udemy\C# COMPLETO\csharpcourse\section-3\exercises\conditional_structure\Exercise04\Exercise04\obj\Debug\net7.0\Exercise04.AssemblyInfoInputs.cache
+C:\Udemy\C# COMPLETO\csharpcourse\section-3\exercises\conditional_structure\Exercise04\Exercise04\obj\Debug\net7.0\Exercise04.AssemblyInfo.cs
+C:\Udemy\C# COMPLETO\csharpcourse\section-3\exercises\conditional_structure\Exercise04\Exercise04\obj\Debug\net7.0\Exercise04.csproj.CoreCompileInputs.cache
+C:\Udemy\C# COMPLETO\csharpcourse\section-3\exercises\conditional_structure\Exercise04\Exercise04\obj\Debug\net7.0\Exercise04.dll
+C:\Udemy\C# COMPLETO\csharpcourse\section-3\exercises\conditional_structure\Exercise04\Exercise04\obj\Debug\net7.0\refint\Exercise04.dll
+C:\Udemy\C# COMPLETO\csharpcourse\section-3\exercises\conditional_structure\Exercise04\Exercise04\obj\Debug\net7.0\Exercise04.pdb
+C:\Udemy\C# COMPLETO\csharpcourse\section-3\exercises\conditional_structure\Exercise04\Exercise04\obj\Debug\net7.0\Exercise04.genruntimeconfig.cache
+C:\Udemy\C# COMPLETO\csharpcourse\section-3\exercises\conditional_structure\Exercise04\Exercise04\obj\Debug\net7.0\ref\Exercise04.dll
