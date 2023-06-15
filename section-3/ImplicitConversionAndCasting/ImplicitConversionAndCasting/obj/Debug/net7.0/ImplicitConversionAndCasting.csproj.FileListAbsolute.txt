@@ -1,0 +1,15 @@
+C:\Udemy\C# COMPLETO\csharpcourse\section-3\ImplicitConversionAndCasting\ImplicitConversionAndCasting\bin\Debug\net7.0\ImplicitConversionAndCasting.exe
+C:\Udemy\C# COMPLETO\csharpcourse\section-3\ImplicitConversionAndCasting\ImplicitConversionAndCasting\bin\Debug\net7.0\ImplicitConversionAndCasting.deps.json
+C:\Udemy\C# COMPLETO\csharpcourse\section-3\ImplicitConversionAndCasting\ImplicitConversionAndCasting\bin\Debug\net7.0\ImplicitConversionAndCasting.runtimeconfig.json
+C:\Udemy\C# COMPLETO\csharpcourse\section-3\ImplicitConversionAndCasting\ImplicitConversionAndCasting\bin\Debug\net7.0\ImplicitConversionAndCasting.dll
+C:\Udemy\C# COMPLETO\csharpcourse\section-3\ImplicitConversionAndCasting\ImplicitConversionAndCasting\bin\Debug\net7.0\ImplicitConversionAndCasting.pdb
+C:\Udemy\C# COMPLETO\csharpcourse\section-3\ImplicitConversionAndCasting\ImplicitConversionAndCasting\obj\Debug\net7.0\ImplicitConversionAndCasting.csproj.AssemblyReference.cache
+C:\Udemy\C# COMPLETO\csharpcourse\section-3\ImplicitConversionAndCasting\ImplicitConversionAndCasting\obj\Debug\net7.0\ImplicitConversionAndCasting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Udemy\C# COMPLETO\csharpcourse\section-3\ImplicitConversionAndCasting\ImplicitConversionAndCasting\obj\Debug\net7.0\ImplicitConversionAndCasting.AssemblyInfoInputs.cache
+C:\Udemy\C# COMPLETO\csharpcourse\section-3\ImplicitConversionAndCasting\ImplicitConversionAndCasting\obj\Debug\net7.0\ImplicitConversionAndCasting.AssemblyInfo.cs
+C:\Udemy\C# COMPLETO\csharpcourse\section-3\ImplicitConversionAndCasting\ImplicitConversionAndCasting\obj\Debug\net7.0\ImplicitConversionAndCasting.csproj.CoreCompileInputs.cache
+C:\Udemy\C# COMPLETO\csharpcourse\section-3\ImplicitConversionAndCasting\ImplicitConversionAndCasting\obj\Debug\net7.0\ImplicitConversionAndCasting.dll
+C:\Udemy\C# COMPLETO\csharpcourse\section-3\ImplicitConversionAndCasting\ImplicitConversionAndCasting\obj\Debug\net7.0\refint\ImplicitConversionAndCasting.dll
+C:\Udemy\C# COMPLETO\csharpcourse\section-3\ImplicitConversionAndCasting\ImplicitConversionAndCasting\obj\Debug\net7.0\ImplicitConversionAndCasting.pdb
+C:\Udemy\C# COMPLETO\csharpcourse\section-3\ImplicitConversionAndCasting\ImplicitConversionAndCasting\obj\Debug\net7.0\ImplicitConversionAndCasting.genruntimeconfig.cache
+C:\Udemy\C# COMPLETO\csharpcourse\section-3\ImplicitConversionAndCasting\ImplicitConversionAndCasting\obj\Debug\net7.0\ref\ImplicitConversionAndCasting.dll
