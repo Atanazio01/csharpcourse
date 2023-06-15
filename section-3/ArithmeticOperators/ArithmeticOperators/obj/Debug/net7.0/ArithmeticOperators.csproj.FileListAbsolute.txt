@@ -1,0 +1,15 @@
+C:\Udemy\C# COMPLETO\csharpcourse\section-3\ArithmeticOperators\ArithmeticOperators\bin\Debug\net7.0\ArithmeticOperators.exe
+C:\Udemy\C# COMPLETO\csharpcourse\section-3\ArithmeticOperators\ArithmeticOperators\bin\Debug\net7.0\ArithmeticOperators.deps.json
+C:\Udemy\C# COMPLETO\csharpcourse\section-3\ArithmeticOperators\ArithmeticOperators\bin\Debug\net7.0\ArithmeticOperators.runtimeconfig.json
+C:\Udemy\C# COMPLETO\csharpcourse\section-3\ArithmeticOperators\ArithmeticOperators\bin\Debug\net7.0\ArithmeticOperators.dll
+C:\Udemy\C# COMPLETO\csharpcourse\section-3\ArithmeticOperators\ArithmeticOperators\bin\Debug\net7.0\ArithmeticOperators.pdb
+C:\Udemy\C# COMPLETO\csharpcourse\section-3\ArithmeticOperators\ArithmeticOperators\obj\Debug\net7.0\ArithmeticOperators.csproj.AssemblyReference.cache
+C:\Udemy\C# COMPLETO\csharpcourse\section-3\ArithmeticOperators\ArithmeticOperators\obj\Debug\net7.0\ArithmeticOperators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Udemy\C# COMPLETO\csharpcourse\section-3\ArithmeticOperators\ArithmeticOperators\obj\Debug\net7.0\ArithmeticOperators.AssemblyInfoInputs.cache
+C:\Udemy\C# COMPLETO\csharpcourse\section-3\ArithmeticOperators\ArithmeticOperators\obj\Debug\net7.0\ArithmeticOperators.AssemblyInfo.cs
+C:\Udemy\C# COMPLETO\csharpcourse\section-3\ArithmeticOperators\ArithmeticOperators\obj\Debug\net7.0\ArithmeticOperators.csproj.CoreCompileInputs.cache
+C:\Udemy\C# COMPLETO\csharpcourse\section-3\ArithmeticOperators\ArithmeticOperators\obj\Debug\net7.0\ArithmeticOperators.dll
+C:\Udemy\C# COMPLETO\csharpcourse\section-3\ArithmeticOperators\ArithmeticOperators\obj\Debug\net7.0\refint\ArithmeticOperators.dll
+C:\Udemy\C# COMPLETO\csharpcourse\section-3\ArithmeticOperators\ArithmeticOperators\obj\Debug\net7.0\ArithmeticOperators.pdb
+C:\Udemy\C# COMPLETO\csharpcourse\section-3\ArithmeticOperators\ArithmeticOperators\obj\Debug\net7.0\ArithmeticOperators.genruntimeconfig.cache
+C:\Udemy\C# COMPLETO\csharpcourse\section-3\ArithmeticOperators\ArithmeticOperators\obj\Debug\net7.0\ref\ArithmeticOperators.dll
