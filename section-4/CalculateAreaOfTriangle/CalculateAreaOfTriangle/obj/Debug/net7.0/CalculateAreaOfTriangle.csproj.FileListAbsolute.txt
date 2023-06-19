@@ -1,0 +1,15 @@
+C:\Udemy\C# COMPLETO\csharpcourse\section-4\CalculateAreaOfTriangle\CalculateAreaOfTriangle\bin\Debug\net7.0\CalculateAreaOfTriangle.exe
+C:\Udemy\C# COMPLETO\csharpcourse\section-4\CalculateAreaOfTriangle\CalculateAreaOfTriangle\bin\Debug\net7.0\CalculateAreaOfTriangle.deps.json
+C:\Udemy\C# COMPLETO\csharpcourse\section-4\CalculateAreaOfTriangle\CalculateAreaOfTriangle\bin\Debug\net7.0\CalculateAreaOfTriangle.runtimeconfig.json
+C:\Udemy\C# COMPLETO\csharpcourse\section-4\CalculateAreaOfTriangle\CalculateAreaOfTriangle\bin\Debug\net7.0\CalculateAreaOfTriangle.dll
+C:\Udemy\C# COMPLETO\csharpcourse\section-4\CalculateAreaOfTriangle\CalculateAreaOfTriangle\bin\Debug\net7.0\CalculateAreaOfTriangle.pdb
+C:\Udemy\C# COMPLETO\csharpcourse\section-4\CalculateAreaOfTriangle\CalculateAreaOfTriangle\obj\Debug\net7.0\CalculateAreaOfTriangle.csproj.AssemblyReference.cache
+C:\Udemy\C# COMPLETO\csharpcourse\section-4\CalculateAreaOfTriangle\CalculateAreaOfTriangle\obj\Debug\net7.0\CalculateAreaOfTriangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Udemy\C# COMPLETO\csharpcourse\section-4\CalculateAreaOfTriangle\CalculateAreaOfTriangle\obj\Debug\net7.0\CalculateAreaOfTriangle.AssemblyInfoInputs.cache
+C:\Udemy\C# COMPLETO\csharpcourse\section-4\CalculateAreaOfTriangle\CalculateAreaOfTriangle\obj\Debug\net7.0\CalculateAreaOfTriangle.AssemblyInfo.cs
+C:\Udemy\C# COMPLETO\csharpcourse\section-4\CalculateAreaOfTriangle\CalculateAreaOfTriangle\obj\Debug\net7.0\CalculateAreaOfTriangle.csproj.CoreCompileInputs.cache
+C:\Udemy\C# COMPLETO\csharpcourse\section-4\CalculateAreaOfTriangle\CalculateAreaOfTriangle\obj\Debug\net7.0\CalculateAreaOfTriangle.dll
+C:\Udemy\C# COMPLETO\csharpcourse\section-4\CalculateAreaOfTriangle\CalculateAreaOfTriangle\obj\Debug\net7.0\refint\CalculateAreaOfTriangle.dll
+C:\Udemy\C# COMPLETO\csharpcourse\section-4\CalculateAreaOfTriangle\CalculateAreaOfTriangle\obj\Debug\net7.0\CalculateAreaOfTriangle.pdb
+C:\Udemy\C# COMPLETO\csharpcourse\section-4\CalculateAreaOfTriangle\CalculateAreaOfTriangle\obj\Debug\net7.0\CalculateAreaOfTriangle.genruntimeconfig.cache
+C:\Udemy\C# COMPLETO\csharpcourse\section-4\CalculateAreaOfTriangle\CalculateAreaOfTriangle\obj\Debug\net7.0\ref\CalculateAreaOfTriangle.dll
