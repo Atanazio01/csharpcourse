@@ -1,0 +1,15 @@
+C:\Udemy\C# COMPLETO\csharpcourse\section-4\ProductClassFixationExercise\ProductClassFixationExercise\bin\Debug\net7.0\ProductClassFixationExercise.exe
+C:\Udemy\C# COMPLETO\csharpcourse\section-4\ProductClassFixationExercise\ProductClassFixationExercise\bin\Debug\net7.0\ProductClassFixationExercise.deps.json
+C:\Udemy\C# COMPLETO\csharpcourse\section-4\ProductClassFixationExercise\ProductClassFixationExercise\bin\Debug\net7.0\ProductClassFixationExercise.runtimeconfig.json
+C:\Udemy\C# COMPLETO\csharpcourse\section-4\ProductClassFixationExercise\ProductClassFixationExercise\bin\Debug\net7.0\ProductClassFixationExercise.dll
+C:\Udemy\C# COMPLETO\csharpcourse\section-4\ProductClassFixationExercise\ProductClassFixationExercise\bin\Debug\net7.0\ProductClassFixationExercise.pdb
+C:\Udemy\C# COMPLETO\csharpcourse\section-4\ProductClassFixationExercise\ProductClassFixationExercise\obj\Debug\net7.0\ProductClassFixationExercise.csproj.AssemblyReference.cache
+C:\Udemy\C# COMPLETO\csharpcourse\section-4\ProductClassFixationExercise\ProductClassFixationExercise\obj\Debug\net7.0\ProductClassFixationExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Udemy\C# COMPLETO\csharpcourse\section-4\ProductClassFixationExercise\ProductClassFixationExercise\obj\Debug\net7.0\ProductClassFixationExercise.AssemblyInfoInputs.cache
+C:\Udemy\C# COMPLETO\csharpcourse\section-4\ProductClassFixationExercise\ProductClassFixationExercise\obj\Debug\net7.0\ProductClassFixationExercise.AssemblyInfo.cs
+C:\Udemy\C# COMPLETO\csharpcourse\section-4\ProductClassFixationExercise\ProductClassFixationExercise\obj\Debug\net7.0\ProductClassFixationExercise.csproj.CoreCompileInputs.cache
+C:\Udemy\C# COMPLETO\csharpcourse\section-4\ProductClassFixationExercise\ProductClassFixationExercise\obj\Debug\net7.0\ProductClassFixationExercise.dll
+C:\Udemy\C# COMPLETO\csharpcourse\section-4\ProductClassFixationExercise\ProductClassFixationExercise\obj\Debug\net7.0\refint\ProductClassFixationExercise.dll
+C:\Udemy\C# COMPLETO\csharpcourse\section-4\ProductClassFixationExercise\ProductClassFixationExercise\obj\Debug\net7.0\ProductClassFixationExercise.pdb
+C:\Udemy\C# COMPLETO\csharpcourse\section-4\ProductClassFixationExercise\ProductClassFixationExercise\obj\Debug\net7.0\ProductClassFixationExercise.genruntimeconfig.cache
+C:\Udemy\C# COMPLETO\csharpcourse\section-4\ProductClassFixationExercise\ProductClassFixationExercise\obj\Debug\net7.0\ref\ProductClassFixationExercise.dll
