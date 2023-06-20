@@ -1,0 +1,15 @@
+C:\Udemy\C# COMPLETO\csharpcourse\section-4\exercises\Exercise01\Exercise01\bin\Debug\net7.0\Exercise01.exe
+C:\Udemy\C# COMPLETO\csharpcourse\section-4\exercises\Exercise01\Exercise01\bin\Debug\net7.0\Exercise01.deps.json
+C:\Udemy\C# COMPLETO\csharpcourse\section-4\exercises\Exercise01\Exercise01\bin\Debug\net7.0\Exercise01.runtimeconfig.json
+C:\Udemy\C# COMPLETO\csharpcourse\section-4\exercises\Exercise01\Exercise01\bin\Debug\net7.0\Exercise01.dll
+C:\Udemy\C# COMPLETO\csharpcourse\section-4\exercises\Exercise01\Exercise01\bin\Debug\net7.0\Exercise01.pdb
+C:\Udemy\C# COMPLETO\csharpcourse\section-4\exercises\Exercise01\Exercise01\obj\Debug\net7.0\Exercise01.csproj.AssemblyReference.cache
+C:\Udemy\C# COMPLETO\csharpcourse\section-4\exercises\Exercise01\Exercise01\obj\Debug\net7.0\Exercise01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Udemy\C# COMPLETO\csharpcourse\section-4\exercises\Exercise01\Exercise01\obj\Debug\net7.0\Exercise01.AssemblyInfoInputs.cache
+C:\Udemy\C# COMPLETO\csharpcourse\section-4\exercises\Exercise01\Exercise01\obj\Debug\net7.0\Exercise01.AssemblyInfo.cs
+C:\Udemy\C# COMPLETO\csharpcourse\section-4\exercises\Exercise01\Exercise01\obj\Debug\net7.0\Exercise01.csproj.CoreCompileInputs.cache
+C:\Udemy\C# COMPLETO\csharpcourse\section-4\exercises\Exercise01\Exercise01\obj\Debug\net7.0\Exercise01.dll
+C:\Udemy\C# COMPLETO\csharpcourse\section-4\exercises\Exercise01\Exercise01\obj\Debug\net7.0\refint\Exercise01.dll
+C:\Udemy\C# COMPLETO\csharpcourse\section-4\exercises\Exercise01\Exercise01\obj\Debug\net7.0\Exercise01.pdb
+C:\Udemy\C# COMPLETO\csharpcourse\section-4\exercises\Exercise01\Exercise01\obj\Debug\net7.0\Exercise01.genruntimeconfig.cache
+C:\Udemy\C# COMPLETO\csharpcourse\section-4\exercises\Exercise01\Exercise01\obj\Debug\net7.0\ref\Exercise01.dll
