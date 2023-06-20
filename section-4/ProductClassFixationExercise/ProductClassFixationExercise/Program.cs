@@ -18,7 +18,17 @@ namespace ProductClassFixationExercise
             p.Amount = int.Parse(Console.ReadLine());
 
             Console.WriteLine("Dados do produto: " + p);
-                
+
+            Console.Write("\nDigite o número de produtos a ser adicionado no estoque: ");
+            int amount = int.Parse(Console.ReadLine());
+            p.AddProduct(amount);
+            Console.WriteLine("\nDados do produto: " + p);
+
+            Console.Write("\nDigite o número de produtos a ser removido do estoque: ");
+            amount = int.Parse(Console.ReadLine());
+            p.RemoveProduct(amount);
+            Console.WriteLine("\nDados do produto: " + p);
+
         }
     }
 }

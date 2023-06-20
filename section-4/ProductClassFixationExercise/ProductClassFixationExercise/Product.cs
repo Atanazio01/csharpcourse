@@ -13,6 +13,16 @@ namespace ProductClassFixationExercise
             return Price * Amount;
         }
 
+        public void AddProduct(int amount)
+        {
+            Amount += amount;
+        }
+
+        public void RemoveProduct(int amount)
+        {
+            Amount -= amount;
+        }
+
         public override string ToString()
         {
             return $"{Name}, " +
