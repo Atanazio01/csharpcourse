@@ -1,0 +1,15 @@
+C:\Udemy\C# COMPLETO\csharpcourse\section-5\PropartiesAcessors\PropartiesAcessors\bin\Debug\net7.0\PropartiesAcessors.exe
+C:\Udemy\C# COMPLETO\csharpcourse\section-5\PropartiesAcessors\PropartiesAcessors\bin\Debug\net7.0\PropartiesAcessors.deps.json
+C:\Udemy\C# COMPLETO\csharpcourse\section-5\PropartiesAcessors\PropartiesAcessors\bin\Debug\net7.0\PropartiesAcessors.runtimeconfig.json
+C:\Udemy\C# COMPLETO\csharpcourse\section-5\PropartiesAcessors\PropartiesAcessors\bin\Debug\net7.0\PropartiesAcessors.dll
+C:\Udemy\C# COMPLETO\csharpcourse\section-5\PropartiesAcessors\PropartiesAcessors\bin\Debug\net7.0\PropartiesAcessors.pdb
+C:\Udemy\C# COMPLETO\csharpcourse\section-5\PropartiesAcessors\PropartiesAcessors\obj\Debug\net7.0\PropartiesAcessors.csproj.AssemblyReference.cache
+C:\Udemy\C# COMPLETO\csharpcourse\section-5\PropartiesAcessors\PropartiesAcessors\obj\Debug\net7.0\PropartiesAcessors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Udemy\C# COMPLETO\csharpcourse\section-5\PropartiesAcessors\PropartiesAcessors\obj\Debug\net7.0\PropartiesAcessors.AssemblyInfoInputs.cache
+C:\Udemy\C# COMPLETO\csharpcourse\section-5\PropartiesAcessors\PropartiesAcessors\obj\Debug\net7.0\PropartiesAcessors.AssemblyInfo.cs
+C:\Udemy\C# COMPLETO\csharpcourse\section-5\PropartiesAcessors\PropartiesAcessors\obj\Debug\net7.0\PropartiesAcessors.csproj.CoreCompileInputs.cache
+C:\Udemy\C# COMPLETO\csharpcourse\section-5\PropartiesAcessors\PropartiesAcessors\obj\Debug\net7.0\PropartiesAcessors.dll
+C:\Udemy\C# COMPLETO\csharpcourse\section-5\PropartiesAcessors\PropartiesAcessors\obj\Debug\net7.0\refint\PropartiesAcessors.dll
+C:\Udemy\C# COMPLETO\csharpcourse\section-5\PropartiesAcessors\PropartiesAcessors\obj\Debug\net7.0\PropartiesAcessors.pdb
+C:\Udemy\C# COMPLETO\csharpcourse\section-5\PropartiesAcessors\PropartiesAcessors\obj\Debug\net7.0\PropartiesAcessors.genruntimeconfig.cache
+C:\Udemy\C# COMPLETO\csharpcourse\section-5\PropartiesAcessors\PropartiesAcessors\obj\Debug\net7.0\ref\PropartiesAcessors.dll
