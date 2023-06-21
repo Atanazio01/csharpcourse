@@ -14,10 +14,8 @@ namespace ConstructorsExampleProduct
             string name = Console.ReadLine();
             Console.Write("Preço: ");
             double price = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
-            Console.Write("Quantidade: ");
-            int amount = int.Parse(Console.ReadLine());
 
-            Product p = new Product(name, price, amount);
+            Product p = new Product(name, price);
 
             Console.WriteLine("Dados do produto: " + p);
 
@@ -27,8 +25,8 @@ namespace ConstructorsExampleProduct
             Console.WriteLine("\nDados do produto: " + p);
 
             Console.Write("\nDigite o número de produtos a ser removido do estoque: ");
-            amount = int.Parse(Console.ReadLine());
-            p.RemoveProduct(amount);
+            int removeAmount = int.Parse(Console.ReadLine());
+            p.RemoveProduct(removeAmount);
             Console.WriteLine("\nDados do produto: " + p);
 
         }

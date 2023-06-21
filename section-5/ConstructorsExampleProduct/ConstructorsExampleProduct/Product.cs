@@ -8,11 +8,22 @@ namespace ConstructorsExampleProduct
         public double Price;
         public int Amount;
 
+        public Product()
+        {
+        }
+
         public Product(string name, double price, int amount)
         {
             Name = name;
             Price = price;
             Amount = amount;
+        }
+
+        public Product(string name, double price)
+        {
+            Name = name;
+            Price = price;
+            Amount = 5; // dispensável
         }
 
         public double TotalAmountInStock()
