@@ -17,6 +17,15 @@ namespace ConstructorsExampleProduct
 
             Product p = new Product(name, price);
 
+            Product p2 = new Product();
+
+            Product p3 = new Product
+            {
+                Name = "TV",
+                Price = 500.00,
+                Amount = 20,
+            };
+
             Console.WriteLine("Dados do produto: " + p);
 
             Console.Write("\nDigite o número de produtos a ser adicionado no estoque: ");
