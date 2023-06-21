@@ -10,20 +10,18 @@ namespace ConstructorsExampleProduct
 
         public Product()
         {
+            Amount = 10;
         }
 
-        public Product(string name, double price, int amount)
+        public Product(string name, double price) : this()
         {
             Name = name;
             Price = price;
+        }
+
+        public Product(string name, double price, int amount) : this (name, price)
+        {
             Amount = amount;
-        }
-
-        public Product(string name, double price)
-        {
-            Name = name;
-            Price = price;
-            Amount = 5; // dispensável
         }
 
         public double TotalAmountInStock()
