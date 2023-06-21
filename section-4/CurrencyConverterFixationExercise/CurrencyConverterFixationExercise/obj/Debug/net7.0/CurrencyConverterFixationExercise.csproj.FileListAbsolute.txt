@@ -1,0 +1,15 @@
+C:\Udemy\C# COMPLETO\csharpcourse\section-4\CurrencyConverterFixationExercise\CurrencyConverterFixationExercise\bin\Debug\net7.0\CurrencyConverterFixationExercise.exe
+C:\Udemy\C# COMPLETO\csharpcourse\section-4\CurrencyConverterFixationExercise\CurrencyConverterFixationExercise\bin\Debug\net7.0\CurrencyConverterFixationExercise.deps.json
+C:\Udemy\C# COMPLETO\csharpcourse\section-4\CurrencyConverterFixationExercise\CurrencyConverterFixationExercise\bin\Debug\net7.0\CurrencyConverterFixationExercise.runtimeconfig.json
+C:\Udemy\C# COMPLETO\csharpcourse\section-4\CurrencyConverterFixationExercise\CurrencyConverterFixationExercise\bin\Debug\net7.0\CurrencyConverterFixationExercise.dll
+C:\Udemy\C# COMPLETO\csharpcourse\section-4\CurrencyConverterFixationExercise\CurrencyConverterFixationExercise\bin\Debug\net7.0\CurrencyConverterFixationExercise.pdb
+C:\Udemy\C# COMPLETO\csharpcourse\section-4\CurrencyConverterFixationExercise\CurrencyConverterFixationExercise\obj\Debug\net7.0\CurrencyConverterFixationExercise.csproj.AssemblyReference.cache
+C:\Udemy\C# COMPLETO\csharpcourse\section-4\CurrencyConverterFixationExercise\CurrencyConverterFixationExercise\obj\Debug\net7.0\CurrencyConverterFixationExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Udemy\C# COMPLETO\csharpcourse\section-4\CurrencyConverterFixationExercise\CurrencyConverterFixationExercise\obj\Debug\net7.0\CurrencyConverterFixationExercise.AssemblyInfoInputs.cache
+C:\Udemy\C# COMPLETO\csharpcourse\section-4\CurrencyConverterFixationExercise\CurrencyConverterFixationExercise\obj\Debug\net7.0\CurrencyConverterFixationExercise.AssemblyInfo.cs
+C:\Udemy\C# COMPLETO\csharpcourse\section-4\CurrencyConverterFixationExercise\CurrencyConverterFixationExercise\obj\Debug\net7.0\CurrencyConverterFixationExercise.csproj.CoreCompileInputs.cache
+C:\Udemy\C# COMPLETO\csharpcourse\section-4\CurrencyConverterFixationExercise\CurrencyConverterFixationExercise\obj\Debug\net7.0\CurrencyConverterFixationExercise.dll
+C:\Udemy\C# COMPLETO\csharpcourse\section-4\CurrencyConverterFixationExercise\CurrencyConverterFixationExercise\obj\Debug\net7.0\refint\CurrencyConverterFixationExercise.dll
+C:\Udemy\C# COMPLETO\csharpcourse\section-4\CurrencyConverterFixationExercise\CurrencyConverterFixationExercise\obj\Debug\net7.0\CurrencyConverterFixationExercise.pdb
+C:\Udemy\C# COMPLETO\csharpcourse\section-4\CurrencyConverterFixationExercise\CurrencyConverterFixationExercise\obj\Debug\net7.0\CurrencyConverterFixationExercise.genruntimeconfig.cache
+C:\Udemy\C# COMPLETO\csharpcourse\section-4\CurrencyConverterFixationExercise\CurrencyConverterFixationExercise\obj\Debug\net7.0\ref\CurrencyConverterFixationExercise.dll
