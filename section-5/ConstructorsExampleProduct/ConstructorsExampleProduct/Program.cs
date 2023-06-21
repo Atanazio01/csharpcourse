@@ -14,19 +14,15 @@ namespace ConstructorsExampleProduct
             string name = Console.ReadLine();
             Console.Write("Preço: ");
             double price = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+            Console.Write("Quantidade: ");
+            int amount = int.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
 
-            Product p = new Product(name, price);
+            Product p = new Product(name, price, amount);
 
-            Product p2 = new Product();
+            p.SetName("T");
 
-            Product p3 = new Product
-            {
-                Name = "TV",
-                Price = 500.00,
-                Amount = 20,
-            };
 
-            Console.WriteLine("Dados do produto: " + p);
+            Console.WriteLine("Dados do produto: " + p.GetName());
 
             Console.Write("\nDigite o número de produtos a ser adicionado no estoque: ");
             int addAmount = int.Parse(Console.ReadLine());
