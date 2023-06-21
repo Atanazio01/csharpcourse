@@ -1,0 +1,15 @@
+C:\Udemy\C# COMPLETO\csharpcourse\section-5\ConstructorsExampleProduct\ConstructorsExampleProduct\bin\Debug\net7.0\ConstructorsExampleProduct.exe
+C:\Udemy\C# COMPLETO\csharpcourse\section-5\ConstructorsExampleProduct\ConstructorsExampleProduct\bin\Debug\net7.0\ConstructorsExampleProduct.deps.json
+C:\Udemy\C# COMPLETO\csharpcourse\section-5\ConstructorsExampleProduct\ConstructorsExampleProduct\bin\Debug\net7.0\ConstructorsExampleProduct.runtimeconfig.json
+C:\Udemy\C# COMPLETO\csharpcourse\section-5\ConstructorsExampleProduct\ConstructorsExampleProduct\bin\Debug\net7.0\ConstructorsExampleProduct.dll
+C:\Udemy\C# COMPLETO\csharpcourse\section-5\ConstructorsExampleProduct\ConstructorsExampleProduct\bin\Debug\net7.0\ConstructorsExampleProduct.pdb
+C:\Udemy\C# COMPLETO\csharpcourse\section-5\ConstructorsExampleProduct\ConstructorsExampleProduct\obj\Debug\net7.0\ConstructorsExampleProduct.csproj.AssemblyReference.cache
+C:\Udemy\C# COMPLETO\csharpcourse\section-5\ConstructorsExampleProduct\ConstructorsExampleProduct\obj\Debug\net7.0\ConstructorsExampleProduct.GeneratedMSBuildEditorConfig.editorconfig
+C:\Udemy\C# COMPLETO\csharpcourse\section-5\ConstructorsExampleProduct\ConstructorsExampleProduct\obj\Debug\net7.0\ConstructorsExampleProduct.AssemblyInfoInputs.cache
+C:\Udemy\C# COMPLETO\csharpcourse\section-5\ConstructorsExampleProduct\ConstructorsExampleProduct\obj\Debug\net7.0\ConstructorsExampleProduct.AssemblyInfo.cs
+C:\Udemy\C# COMPLETO\csharpcourse\section-5\ConstructorsExampleProduct\ConstructorsExampleProduct\obj\Debug\net7.0\ConstructorsExampleProduct.csproj.CoreCompileInputs.cache
+C:\Udemy\C# COMPLETO\csharpcourse\section-5\ConstructorsExampleProduct\ConstructorsExampleProduct\obj\Debug\net7.0\ConstructorsExampleProduct.dll
+C:\Udemy\C# COMPLETO\csharpcourse\section-5\ConstructorsExampleProduct\ConstructorsExampleProduct\obj\Debug\net7.0\refint\ConstructorsExampleProduct.dll
+C:\Udemy\C# COMPLETO\csharpcourse\section-5\ConstructorsExampleProduct\ConstructorsExampleProduct\obj\Debug\net7.0\ConstructorsExampleProduct.pdb
+C:\Udemy\C# COMPLETO\csharpcourse\section-5\ConstructorsExampleProduct\ConstructorsExampleProduct\obj\Debug\net7.0\ConstructorsExampleProduct.genruntimeconfig.cache
+C:\Udemy\C# COMPLETO\csharpcourse\section-5\ConstructorsExampleProduct\ConstructorsExampleProduct\obj\Debug\net7.0\ref\ConstructorsExampleProduct.dll
