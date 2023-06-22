@@ -6,8 +6,8 @@ namespace PropartiesAcessors
     internal class Product
     {
         private string _name;
-        private double _price;
-        private int _amount;
+        public double Price { get; private set; }
+        public int Amount { get; private set; }
 
         public Product()
         {
@@ -16,8 +16,8 @@ namespace PropartiesAcessors
         public Product(string name, double price, int amount)
         {
             _name = name;
-            _price = price;
-            _amount = amount;
+            Price = price;
+            Amount = amount;
         }
 
         public string Name
@@ -32,36 +32,27 @@ namespace PropartiesAcessors
             }
         }
 
-        public double Price
-        {
-            get => _price;
-        }
-
-        public double Amount
-        {
-            get => _amount;
-        }
 
         public double TotalAmountInStock()
         {
-            return _price * _amount;
+            return Price * Amount;
         }
 
         public void AddProduct(int amount)
         {
-            _amount += amount;
+            Amount += amount;
         }
 
         public void RemoveProduct(int amount)
         {
-            _amount -= amount;
+            Amount -= amount;
         }
 
         public override string ToString()
         {
             return $"{_name}, " +
-                $"$ {_price.ToString("F2", CultureInfo.InvariantCulture)}, " +
-                $"{_amount} unidades, " +
+                $"$ {Price.ToString("F2", CultureInfo.InvariantCulture)}, " +
+                $"{Amount} unidades, " +
                 $"Total: {TotalAmountInStock().ToString("F2", CultureInfo.InvariantCulture)}";
         }
     }

@@ -8,7 +8,7 @@ namespace PropartiesAcessors
         {
             Product p = new Product("TV", 500.00, 10);
 
-            p.Name = "TV 4K";
+            p.Name = "T";
 
             Console.WriteLine(p.Name);
             Console.WriteLine(p.Price);
