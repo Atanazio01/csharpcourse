@@ -1,0 +1,15 @@
+C:\Udemy\C# COMPLETO\csharpcourse\section-6\Vectors\Vectors\obj\Debug\net7.0\Vectors.csproj.AssemblyReference.cache
+C:\Udemy\C# COMPLETO\csharpcourse\section-6\Vectors\Vectors\obj\Debug\net7.0\Vectors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Udemy\C# COMPLETO\csharpcourse\section-6\Vectors\Vectors\obj\Debug\net7.0\Vectors.AssemblyInfoInputs.cache
+C:\Udemy\C# COMPLETO\csharpcourse\section-6\Vectors\Vectors\obj\Debug\net7.0\Vectors.AssemblyInfo.cs
+C:\Udemy\C# COMPLETO\csharpcourse\section-6\Vectors\Vectors\obj\Debug\net7.0\Vectors.csproj.CoreCompileInputs.cache
+C:\Udemy\C# COMPLETO\csharpcourse\section-6\Vectors\Vectors\bin\Debug\net7.0\Vectors.exe
+C:\Udemy\C# COMPLETO\csharpcourse\section-6\Vectors\Vectors\bin\Debug\net7.0\Vectors.deps.json
+C:\Udemy\C# COMPLETO\csharpcourse\section-6\Vectors\Vectors\bin\Debug\net7.0\Vectors.runtimeconfig.json
+C:\Udemy\C# COMPLETO\csharpcourse\section-6\Vectors\Vectors\bin\Debug\net7.0\Vectors.dll
+C:\Udemy\C# COMPLETO\csharpcourse\section-6\Vectors\Vectors\bin\Debug\net7.0\Vectors.pdb
+C:\Udemy\C# COMPLETO\csharpcourse\section-6\Vectors\Vectors\obj\Debug\net7.0\Vectors.dll
+C:\Udemy\C# COMPLETO\csharpcourse\section-6\Vectors\Vectors\obj\Debug\net7.0\refint\Vectors.dll
+C:\Udemy\C# COMPLETO\csharpcourse\section-6\Vectors\Vectors\obj\Debug\net7.0\Vectors.pdb
+C:\Udemy\C# COMPLETO\csharpcourse\section-6\Vectors\Vectors\obj\Debug\net7.0\Vectors.genruntimeconfig.cache
+C:\Udemy\C# COMPLETO\csharpcourse\section-6\Vectors\Vectors\obj\Debug\net7.0\ref\Vectors.dll
