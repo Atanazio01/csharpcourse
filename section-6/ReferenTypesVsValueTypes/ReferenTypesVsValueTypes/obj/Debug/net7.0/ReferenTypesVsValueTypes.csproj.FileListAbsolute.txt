@@ -1,0 +1,15 @@
+C:\Udemy\C# COMPLETO\csharpcourse\section-6\ReferenTypesVsValueTypes\ReferenTypesVsValueTypes\obj\Debug\net7.0\ReferenTypesVsValueTypes.csproj.AssemblyReference.cache
+C:\Udemy\C# COMPLETO\csharpcourse\section-6\ReferenTypesVsValueTypes\ReferenTypesVsValueTypes\obj\Debug\net7.0\ReferenTypesVsValueTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Udemy\C# COMPLETO\csharpcourse\section-6\ReferenTypesVsValueTypes\ReferenTypesVsValueTypes\obj\Debug\net7.0\ReferenTypesVsValueTypes.AssemblyInfoInputs.cache
+C:\Udemy\C# COMPLETO\csharpcourse\section-6\ReferenTypesVsValueTypes\ReferenTypesVsValueTypes\obj\Debug\net7.0\ReferenTypesVsValueTypes.AssemblyInfo.cs
+C:\Udemy\C# COMPLETO\csharpcourse\section-6\ReferenTypesVsValueTypes\ReferenTypesVsValueTypes\obj\Debug\net7.0\ReferenTypesVsValueTypes.csproj.CoreCompileInputs.cache
+C:\Udemy\C# COMPLETO\csharpcourse\section-6\ReferenTypesVsValueTypes\ReferenTypesVsValueTypes\bin\Debug\net7.0\ReferenTypesVsValueTypes.exe
+C:\Udemy\C# COMPLETO\csharpcourse\section-6\ReferenTypesVsValueTypes\ReferenTypesVsValueTypes\bin\Debug\net7.0\ReferenTypesVsValueTypes.deps.json
+C:\Udemy\C# COMPLETO\csharpcourse\section-6\ReferenTypesVsValueTypes\ReferenTypesVsValueTypes\bin\Debug\net7.0\ReferenTypesVsValueTypes.runtimeconfig.json
+C:\Udemy\C# COMPLETO\csharpcourse\section-6\ReferenTypesVsValueTypes\ReferenTypesVsValueTypes\bin\Debug\net7.0\ReferenTypesVsValueTypes.dll
+C:\Udemy\C# COMPLETO\csharpcourse\section-6\ReferenTypesVsValueTypes\ReferenTypesVsValueTypes\bin\Debug\net7.0\ReferenTypesVsValueTypes.pdb
+C:\Udemy\C# COMPLETO\csharpcourse\section-6\ReferenTypesVsValueTypes\ReferenTypesVsValueTypes\obj\Debug\net7.0\ReferenTypesVsValueTypes.dll
+C:\Udemy\C# COMPLETO\csharpcourse\section-6\ReferenTypesVsValueTypes\ReferenTypesVsValueTypes\obj\Debug\net7.0\refint\ReferenTypesVsValueTypes.dll
+C:\Udemy\C# COMPLETO\csharpcourse\section-6\ReferenTypesVsValueTypes\ReferenTypesVsValueTypes\obj\Debug\net7.0\ReferenTypesVsValueTypes.pdb
+C:\Udemy\C# COMPLETO\csharpcourse\section-6\ReferenTypesVsValueTypes\ReferenTypesVsValueTypes\obj\Debug\net7.0\ReferenTypesVsValueTypes.genruntimeconfig.cache
+C:\Udemy\C# COMPLETO\csharpcourse\section-6\ReferenTypesVsValueTypes\ReferenTypesVsValueTypes\obj\Debug\net7.0\ref\ReferenTypesVsValueTypes.dll
