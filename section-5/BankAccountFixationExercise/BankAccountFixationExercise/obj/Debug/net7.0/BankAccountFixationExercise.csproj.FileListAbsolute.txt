@@ -1,0 +1,15 @@
+C:\Udemy\C# COMPLETO\csharpcourse\section-5\BankAccountFixationExercise\BankAccountFixationExercise\bin\Debug\net7.0\BankAccountFixationExercise.exe
+C:\Udemy\C# COMPLETO\csharpcourse\section-5\BankAccountFixationExercise\BankAccountFixationExercise\bin\Debug\net7.0\BankAccountFixationExercise.deps.json
+C:\Udemy\C# COMPLETO\csharpcourse\section-5\BankAccountFixationExercise\BankAccountFixationExercise\bin\Debug\net7.0\BankAccountFixationExercise.runtimeconfig.json
+C:\Udemy\C# COMPLETO\csharpcourse\section-5\BankAccountFixationExercise\BankAccountFixationExercise\bin\Debug\net7.0\BankAccountFixationExercise.dll
+C:\Udemy\C# COMPLETO\csharpcourse\section-5\BankAccountFixationExercise\BankAccountFixationExercise\bin\Debug\net7.0\BankAccountFixationExercise.pdb
+C:\Udemy\C# COMPLETO\csharpcourse\section-5\BankAccountFixationExercise\BankAccountFixationExercise\obj\Debug\net7.0\BankAccountFixationExercise.csproj.AssemblyReference.cache
+C:\Udemy\C# COMPLETO\csharpcourse\section-5\BankAccountFixationExercise\BankAccountFixationExercise\obj\Debug\net7.0\BankAccountFixationExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Udemy\C# COMPLETO\csharpcourse\section-5\BankAccountFixationExercise\BankAccountFixationExercise\obj\Debug\net7.0\BankAccountFixationExercise.AssemblyInfoInputs.cache
+C:\Udemy\C# COMPLETO\csharpcourse\section-5\BankAccountFixationExercise\BankAccountFixationExercise\obj\Debug\net7.0\BankAccountFixationExercise.AssemblyInfo.cs
+C:\Udemy\C# COMPLETO\csharpcourse\section-5\BankAccountFixationExercise\BankAccountFixationExercise\obj\Debug\net7.0\BankAccountFixationExercise.csproj.CoreCompileInputs.cache
+C:\Udemy\C# COMPLETO\csharpcourse\section-5\BankAccountFixationExercise\BankAccountFixationExercise\obj\Debug\net7.0\BankAccountFixationExercise.dll
+C:\Udemy\C# COMPLETO\csharpcourse\section-5\BankAccountFixationExercise\BankAccountFixationExercise\obj\Debug\net7.0\refint\BankAccountFixationExercise.dll
+C:\Udemy\C# COMPLETO\csharpcourse\section-5\BankAccountFixationExercise\BankAccountFixationExercise\obj\Debug\net7.0\BankAccountFixationExercise.pdb
+C:\Udemy\C# COMPLETO\csharpcourse\section-5\BankAccountFixationExercise\BankAccountFixationExercise\obj\Debug\net7.0\BankAccountFixationExercise.genruntimeconfig.cache
+C:\Udemy\C# COMPLETO\csharpcourse\section-5\BankAccountFixationExercise\BankAccountFixationExercise\obj\Debug\net7.0\ref\BankAccountFixationExercise.dll
