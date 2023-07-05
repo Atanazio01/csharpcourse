@@ -1,0 +1,15 @@
+C:\Udemy\C# COMPLETO\csharpcourse\section-6\HotelVectorsFixationExercise\HotelVectorsFixationExercise\bin\Debug\net7.0\HotelVectorsFixationExercise.exe
+C:\Udemy\C# COMPLETO\csharpcourse\section-6\HotelVectorsFixationExercise\HotelVectorsFixationExercise\bin\Debug\net7.0\HotelVectorsFixationExercise.deps.json
+C:\Udemy\C# COMPLETO\csharpcourse\section-6\HotelVectorsFixationExercise\HotelVectorsFixationExercise\bin\Debug\net7.0\HotelVectorsFixationExercise.runtimeconfig.json
+C:\Udemy\C# COMPLETO\csharpcourse\section-6\HotelVectorsFixationExercise\HotelVectorsFixationExercise\bin\Debug\net7.0\HotelVectorsFixationExercise.dll
+C:\Udemy\C# COMPLETO\csharpcourse\section-6\HotelVectorsFixationExercise\HotelVectorsFixationExercise\bin\Debug\net7.0\HotelVectorsFixationExercise.pdb
+C:\Udemy\C# COMPLETO\csharpcourse\section-6\HotelVectorsFixationExercise\HotelVectorsFixationExercise\obj\Debug\net7.0\HotelVectorsFixationExercise.csproj.AssemblyReference.cache
+C:\Udemy\C# COMPLETO\csharpcourse\section-6\HotelVectorsFixationExercise\HotelVectorsFixationExercise\obj\Debug\net7.0\HotelVectorsFixationExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Udemy\C# COMPLETO\csharpcourse\section-6\HotelVectorsFixationExercise\HotelVectorsFixationExercise\obj\Debug\net7.0\HotelVectorsFixationExercise.AssemblyInfoInputs.cache
+C:\Udemy\C# COMPLETO\csharpcourse\section-6\HotelVectorsFixationExercise\HotelVectorsFixationExercise\obj\Debug\net7.0\HotelVectorsFixationExercise.AssemblyInfo.cs
+C:\Udemy\C# COMPLETO\csharpcourse\section-6\HotelVectorsFixationExercise\HotelVectorsFixationExercise\obj\Debug\net7.0\HotelVectorsFixationExercise.csproj.CoreCompileInputs.cache
+C:\Udemy\C# COMPLETO\csharpcourse\section-6\HotelVectorsFixationExercise\HotelVectorsFixationExercise\obj\Debug\net7.0\HotelVectorsFixationExercise.dll
+C:\Udemy\C# COMPLETO\csharpcourse\section-6\HotelVectorsFixationExercise\HotelVectorsFixationExercise\obj\Debug\net7.0\refint\HotelVectorsFixationExercise.dll
+C:\Udemy\C# COMPLETO\csharpcourse\section-6\HotelVectorsFixationExercise\HotelVectorsFixationExercise\obj\Debug\net7.0\HotelVectorsFixationExercise.pdb
+C:\Udemy\C# COMPLETO\csharpcourse\section-6\HotelVectorsFixationExercise\HotelVectorsFixationExercise\obj\Debug\net7.0\HotelVectorsFixationExercise.genruntimeconfig.cache
+C:\Udemy\C# COMPLETO\csharpcourse\section-6\HotelVectorsFixationExercise\HotelVectorsFixationExercise\obj\Debug\net7.0\ref\HotelVectorsFixationExercise.dll
