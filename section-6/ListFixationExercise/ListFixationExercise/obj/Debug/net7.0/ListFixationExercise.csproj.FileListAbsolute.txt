@@ -1,0 +1,15 @@
+C:\Udemy\C# COMPLETO\csharpcourse\section-6\ListFixationExercise\ListFixationExercise\bin\Debug\net7.0\ListFixationExercise.exe
+C:\Udemy\C# COMPLETO\csharpcourse\section-6\ListFixationExercise\ListFixationExercise\bin\Debug\net7.0\ListFixationExercise.deps.json
+C:\Udemy\C# COMPLETO\csharpcourse\section-6\ListFixationExercise\ListFixationExercise\bin\Debug\net7.0\ListFixationExercise.runtimeconfig.json
+C:\Udemy\C# COMPLETO\csharpcourse\section-6\ListFixationExercise\ListFixationExercise\bin\Debug\net7.0\ListFixationExercise.dll
+C:\Udemy\C# COMPLETO\csharpcourse\section-6\ListFixationExercise\ListFixationExercise\bin\Debug\net7.0\ListFixationExercise.pdb
+C:\Udemy\C# COMPLETO\csharpcourse\section-6\ListFixationExercise\ListFixationExercise\obj\Debug\net7.0\ListFixationExercise.csproj.AssemblyReference.cache
+C:\Udemy\C# COMPLETO\csharpcourse\section-6\ListFixationExercise\ListFixationExercise\obj\Debug\net7.0\ListFixationExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Udemy\C# COMPLETO\csharpcourse\section-6\ListFixationExercise\ListFixationExercise\obj\Debug\net7.0\ListFixationExercise.AssemblyInfoInputs.cache
+C:\Udemy\C# COMPLETO\csharpcourse\section-6\ListFixationExercise\ListFixationExercise\obj\Debug\net7.0\ListFixationExercise.AssemblyInfo.cs
+C:\Udemy\C# COMPLETO\csharpcourse\section-6\ListFixationExercise\ListFixationExercise\obj\Debug\net7.0\ListFixationExercise.csproj.CoreCompileInputs.cache
+C:\Udemy\C# COMPLETO\csharpcourse\section-6\ListFixationExercise\ListFixationExercise\obj\Debug\net7.0\ListFixationExercise.dll
+C:\Udemy\C# COMPLETO\csharpcourse\section-6\ListFixationExercise\ListFixationExercise\obj\Debug\net7.0\refint\ListFixationExercise.dll
+C:\Udemy\C# COMPLETO\csharpcourse\section-6\ListFixationExercise\ListFixationExercise\obj\Debug\net7.0\ListFixationExercise.pdb
+C:\Udemy\C# COMPLETO\csharpcourse\section-6\ListFixationExercise\ListFixationExercise\obj\Debug\net7.0\ListFixationExercise.genruntimeconfig.cache
+C:\Udemy\C# COMPLETO\csharpcourse\section-6\ListFixationExercise\ListFixationExercise\obj\Debug\net7.0\ref\ListFixationExercise.dll
