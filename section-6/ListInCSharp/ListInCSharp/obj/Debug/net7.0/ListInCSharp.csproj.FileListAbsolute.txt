@@ -1,0 +1,15 @@
+C:\Udemy\C# COMPLETO\csharpcourse\section-6\ListInCSharp\ListInCSharp\bin\Debug\net7.0\ListInCSharp.exe
+C:\Udemy\C# COMPLETO\csharpcourse\section-6\ListInCSharp\ListInCSharp\bin\Debug\net7.0\ListInCSharp.deps.json
+C:\Udemy\C# COMPLETO\csharpcourse\section-6\ListInCSharp\ListInCSharp\bin\Debug\net7.0\ListInCSharp.runtimeconfig.json
+C:\Udemy\C# COMPLETO\csharpcourse\section-6\ListInCSharp\ListInCSharp\bin\Debug\net7.0\ListInCSharp.dll
+C:\Udemy\C# COMPLETO\csharpcourse\section-6\ListInCSharp\ListInCSharp\bin\Debug\net7.0\ListInCSharp.pdb
+C:\Udemy\C# COMPLETO\csharpcourse\section-6\ListInCSharp\ListInCSharp\obj\Debug\net7.0\ListInCSharp.csproj.AssemblyReference.cache
+C:\Udemy\C# COMPLETO\csharpcourse\section-6\ListInCSharp\ListInCSharp\obj\Debug\net7.0\ListInCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Udemy\C# COMPLETO\csharpcourse\section-6\ListInCSharp\ListInCSharp\obj\Debug\net7.0\ListInCSharp.AssemblyInfoInputs.cache
+C:\Udemy\C# COMPLETO\csharpcourse\section-6\ListInCSharp\ListInCSharp\obj\Debug\net7.0\ListInCSharp.AssemblyInfo.cs
+C:\Udemy\C# COMPLETO\csharpcourse\section-6\ListInCSharp\ListInCSharp\obj\Debug\net7.0\ListInCSharp.csproj.CoreCompileInputs.cache
+C:\Udemy\C# COMPLETO\csharpcourse\section-6\ListInCSharp\ListInCSharp\obj\Debug\net7.0\ListInCSharp.dll
+C:\Udemy\C# COMPLETO\csharpcourse\section-6\ListInCSharp\ListInCSharp\obj\Debug\net7.0\refint\ListInCSharp.dll
+C:\Udemy\C# COMPLETO\csharpcourse\section-6\ListInCSharp\ListInCSharp\obj\Debug\net7.0\ListInCSharp.pdb
+C:\Udemy\C# COMPLETO\csharpcourse\section-6\ListInCSharp\ListInCSharp\obj\Debug\net7.0\ListInCSharp.genruntimeconfig.cache
+C:\Udemy\C# COMPLETO\csharpcourse\section-6\ListInCSharp\ListInCSharp\obj\Debug\net7.0\ref\ListInCSharp.dll
