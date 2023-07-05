@@ -1,0 +1,15 @@
+C:\Udemy\C# COMPLETO\csharpcourse\section-6\LoopForEach\LoopForEach\bin\Debug\net7.0\LoopForEach.exe
+C:\Udemy\C# COMPLETO\csharpcourse\section-6\LoopForEach\LoopForEach\bin\Debug\net7.0\LoopForEach.deps.json
+C:\Udemy\C# COMPLETO\csharpcourse\section-6\LoopForEach\LoopForEach\bin\Debug\net7.0\LoopForEach.runtimeconfig.json
+C:\Udemy\C# COMPLETO\csharpcourse\section-6\LoopForEach\LoopForEach\bin\Debug\net7.0\LoopForEach.dll
+C:\Udemy\C# COMPLETO\csharpcourse\section-6\LoopForEach\LoopForEach\bin\Debug\net7.0\LoopForEach.pdb
+C:\Udemy\C# COMPLETO\csharpcourse\section-6\LoopForEach\LoopForEach\obj\Debug\net7.0\LoopForEach.csproj.AssemblyReference.cache
+C:\Udemy\C# COMPLETO\csharpcourse\section-6\LoopForEach\LoopForEach\obj\Debug\net7.0\LoopForEach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Udemy\C# COMPLETO\csharpcourse\section-6\LoopForEach\LoopForEach\obj\Debug\net7.0\LoopForEach.AssemblyInfoInputs.cache
+C:\Udemy\C# COMPLETO\csharpcourse\section-6\LoopForEach\LoopForEach\obj\Debug\net7.0\LoopForEach.AssemblyInfo.cs
+C:\Udemy\C# COMPLETO\csharpcourse\section-6\LoopForEach\LoopForEach\obj\Debug\net7.0\LoopForEach.csproj.CoreCompileInputs.cache
+C:\Udemy\C# COMPLETO\csharpcourse\section-6\LoopForEach\LoopForEach\obj\Debug\net7.0\LoopForEach.dll
+C:\Udemy\C# COMPLETO\csharpcourse\section-6\LoopForEach\LoopForEach\obj\Debug\net7.0\refint\LoopForEach.dll
+C:\Udemy\C# COMPLETO\csharpcourse\section-6\LoopForEach\LoopForEach\obj\Debug\net7.0\LoopForEach.pdb
+C:\Udemy\C# COMPLETO\csharpcourse\section-6\LoopForEach\LoopForEach\obj\Debug\net7.0\LoopForEach.genruntimeconfig.cache
+C:\Udemy\C# COMPLETO\csharpcourse\section-6\LoopForEach\LoopForEach\obj\Debug\net7.0\ref\LoopForEach.dll
