@@ -1,0 +1,15 @@
+C:\Udemy\C# COMPLETO\csharpcourse\section-6\ParamsParameterModifier\ParamsParameterModifier\obj\Debug\net7.0\ParamsParameterModifier.csproj.AssemblyReference.cache
+C:\Udemy\C# COMPLETO\csharpcourse\section-6\ParamsParameterModifier\ParamsParameterModifier\obj\Debug\net7.0\ParamsParameterModifier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Udemy\C# COMPLETO\csharpcourse\section-6\ParamsParameterModifier\ParamsParameterModifier\obj\Debug\net7.0\ParamsParameterModifier.AssemblyInfoInputs.cache
+C:\Udemy\C# COMPLETO\csharpcourse\section-6\ParamsParameterModifier\ParamsParameterModifier\obj\Debug\net7.0\ParamsParameterModifier.AssemblyInfo.cs
+C:\Udemy\C# COMPLETO\csharpcourse\section-6\ParamsParameterModifier\ParamsParameterModifier\obj\Debug\net7.0\ParamsParameterModifier.csproj.CoreCompileInputs.cache
+C:\Udemy\C# COMPLETO\csharpcourse\section-6\ParamsParameterModifier\ParamsParameterModifier\bin\Debug\net7.0\ParamsParameterModifier.exe
+C:\Udemy\C# COMPLETO\csharpcourse\section-6\ParamsParameterModifier\ParamsParameterModifier\bin\Debug\net7.0\ParamsParameterModifier.deps.json
+C:\Udemy\C# COMPLETO\csharpcourse\section-6\ParamsParameterModifier\ParamsParameterModifier\bin\Debug\net7.0\ParamsParameterModifier.runtimeconfig.json
+C:\Udemy\C# COMPLETO\csharpcourse\section-6\ParamsParameterModifier\ParamsParameterModifier\bin\Debug\net7.0\ParamsParameterModifier.dll
+C:\Udemy\C# COMPLETO\csharpcourse\section-6\ParamsParameterModifier\ParamsParameterModifier\bin\Debug\net7.0\ParamsParameterModifier.pdb
+C:\Udemy\C# COMPLETO\csharpcourse\section-6\ParamsParameterModifier\ParamsParameterModifier\obj\Debug\net7.0\ParamsParameterModifier.dll
+C:\Udemy\C# COMPLETO\csharpcourse\section-6\ParamsParameterModifier\ParamsParameterModifier\obj\Debug\net7.0\refint\ParamsParameterModifier.dll
+C:\Udemy\C# COMPLETO\csharpcourse\section-6\ParamsParameterModifier\ParamsParameterModifier\obj\Debug\net7.0\ParamsParameterModifier.pdb
+C:\Udemy\C# COMPLETO\csharpcourse\section-6\ParamsParameterModifier\ParamsParameterModifier\obj\Debug\net7.0\ParamsParameterModifier.genruntimeconfig.cache
+C:\Udemy\C# COMPLETO\csharpcourse\section-6\ParamsParameterModifier\ParamsParameterModifier\obj\Debug\net7.0\ref\ParamsParameterModifier.dll
