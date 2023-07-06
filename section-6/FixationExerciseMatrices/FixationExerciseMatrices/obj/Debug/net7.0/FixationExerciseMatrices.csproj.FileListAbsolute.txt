@@ -1,0 +1,15 @@
+C:\Udemy\C# COMPLETO\csharpcourse\section-6\FixationExerciseMatrices\FixationExerciseMatrices\obj\Debug\net7.0\FixationExerciseMatrices.csproj.AssemblyReference.cache
+C:\Udemy\C# COMPLETO\csharpcourse\section-6\FixationExerciseMatrices\FixationExerciseMatrices\obj\Debug\net7.0\FixationExerciseMatrices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Udemy\C# COMPLETO\csharpcourse\section-6\FixationExerciseMatrices\FixationExerciseMatrices\obj\Debug\net7.0\FixationExerciseMatrices.AssemblyInfoInputs.cache
+C:\Udemy\C# COMPLETO\csharpcourse\section-6\FixationExerciseMatrices\FixationExerciseMatrices\obj\Debug\net7.0\FixationExerciseMatrices.AssemblyInfo.cs
+C:\Udemy\C# COMPLETO\csharpcourse\section-6\FixationExerciseMatrices\FixationExerciseMatrices\obj\Debug\net7.0\FixationExerciseMatrices.csproj.CoreCompileInputs.cache
+C:\Udemy\C# COMPLETO\csharpcourse\section-6\FixationExerciseMatrices\FixationExerciseMatrices\bin\Debug\net7.0\FixationExerciseMatrices.exe
+C:\Udemy\C# COMPLETO\csharpcourse\section-6\FixationExerciseMatrices\FixationExerciseMatrices\bin\Debug\net7.0\FixationExerciseMatrices.deps.json
+C:\Udemy\C# COMPLETO\csharpcourse\section-6\FixationExerciseMatrices\FixationExerciseMatrices\bin\Debug\net7.0\FixationExerciseMatrices.runtimeconfig.json
+C:\Udemy\C# COMPLETO\csharpcourse\section-6\FixationExerciseMatrices\FixationExerciseMatrices\bin\Debug\net7.0\FixationExerciseMatrices.dll
+C:\Udemy\C# COMPLETO\csharpcourse\section-6\FixationExerciseMatrices\FixationExerciseMatrices\bin\Debug\net7.0\FixationExerciseMatrices.pdb
+C:\Udemy\C# COMPLETO\csharpcourse\section-6\FixationExerciseMatrices\FixationExerciseMatrices\obj\Debug\net7.0\FixationExerciseMatrices.dll
+C:\Udemy\C# COMPLETO\csharpcourse\section-6\FixationExerciseMatrices\FixationExerciseMatrices\obj\Debug\net7.0\refint\FixationExerciseMatrices.dll
+C:\Udemy\C# COMPLETO\csharpcourse\section-6\FixationExerciseMatrices\FixationExerciseMatrices\obj\Debug\net7.0\FixationExerciseMatrices.pdb
+C:\Udemy\C# COMPLETO\csharpcourse\section-6\FixationExerciseMatrices\FixationExerciseMatrices\obj\Debug\net7.0\FixationExerciseMatrices.genruntimeconfig.cache
+C:\Udemy\C# COMPLETO\csharpcourse\section-6\FixationExerciseMatrices\FixationExerciseMatrices\obj\Debug\net7.0\ref\FixationExerciseMatrices.dll
