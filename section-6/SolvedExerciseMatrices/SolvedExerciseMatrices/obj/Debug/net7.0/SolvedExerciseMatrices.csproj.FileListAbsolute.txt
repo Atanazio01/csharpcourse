@@ -1,0 +1,15 @@
+C:\Udemy\C# COMPLETO\csharpcourse\section-6\SolvedExerciseMatrices\SolvedExerciseMatrices\bin\Debug\net7.0\SolvedExerciseMatrices.exe
+C:\Udemy\C# COMPLETO\csharpcourse\section-6\SolvedExerciseMatrices\SolvedExerciseMatrices\bin\Debug\net7.0\SolvedExerciseMatrices.deps.json
+C:\Udemy\C# COMPLETO\csharpcourse\section-6\SolvedExerciseMatrices\SolvedExerciseMatrices\bin\Debug\net7.0\SolvedExerciseMatrices.runtimeconfig.json
+C:\Udemy\C# COMPLETO\csharpcourse\section-6\SolvedExerciseMatrices\SolvedExerciseMatrices\bin\Debug\net7.0\SolvedExerciseMatrices.dll
+C:\Udemy\C# COMPLETO\csharpcourse\section-6\SolvedExerciseMatrices\SolvedExerciseMatrices\bin\Debug\net7.0\SolvedExerciseMatrices.pdb
+C:\Udemy\C# COMPLETO\csharpcourse\section-6\SolvedExerciseMatrices\SolvedExerciseMatrices\obj\Debug\net7.0\SolvedExerciseMatrices.csproj.AssemblyReference.cache
+C:\Udemy\C# COMPLETO\csharpcourse\section-6\SolvedExerciseMatrices\SolvedExerciseMatrices\obj\Debug\net7.0\SolvedExerciseMatrices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Udemy\C# COMPLETO\csharpcourse\section-6\SolvedExerciseMatrices\SolvedExerciseMatrices\obj\Debug\net7.0\SolvedExerciseMatrices.AssemblyInfoInputs.cache
+C:\Udemy\C# COMPLETO\csharpcourse\section-6\SolvedExerciseMatrices\SolvedExerciseMatrices\obj\Debug\net7.0\SolvedExerciseMatrices.AssemblyInfo.cs
+C:\Udemy\C# COMPLETO\csharpcourse\section-6\SolvedExerciseMatrices\SolvedExerciseMatrices\obj\Debug\net7.0\SolvedExerciseMatrices.csproj.CoreCompileInputs.cache
+C:\Udemy\C# COMPLETO\csharpcourse\section-6\SolvedExerciseMatrices\SolvedExerciseMatrices\obj\Debug\net7.0\SolvedExerciseMatrices.dll
+C:\Udemy\C# COMPLETO\csharpcourse\section-6\SolvedExerciseMatrices\SolvedExerciseMatrices\obj\Debug\net7.0\refint\SolvedExerciseMatrices.dll
+C:\Udemy\C# COMPLETO\csharpcourse\section-6\SolvedExerciseMatrices\SolvedExerciseMatrices\obj\Debug\net7.0\SolvedExerciseMatrices.pdb
+C:\Udemy\C# COMPLETO\csharpcourse\section-6\SolvedExerciseMatrices\SolvedExerciseMatrices\obj\Debug\net7.0\SolvedExerciseMatrices.genruntimeconfig.cache
+C:\Udemy\C# COMPLETO\csharpcourse\section-6\SolvedExerciseMatrices\SolvedExerciseMatrices\obj\Debug\net7.0\ref\SolvedExerciseMatrices.dll
