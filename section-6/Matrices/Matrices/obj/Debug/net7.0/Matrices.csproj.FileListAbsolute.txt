@@ -1,0 +1,15 @@
+C:\Udemy\C# COMPLETO\csharpcourse\section-6\Matrices\Matrices\bin\Debug\net7.0\Matrices.exe
+C:\Udemy\C# COMPLETO\csharpcourse\section-6\Matrices\Matrices\bin\Debug\net7.0\Matrices.deps.json
+C:\Udemy\C# COMPLETO\csharpcourse\section-6\Matrices\Matrices\bin\Debug\net7.0\Matrices.runtimeconfig.json
+C:\Udemy\C# COMPLETO\csharpcourse\section-6\Matrices\Matrices\bin\Debug\net7.0\Matrices.dll
+C:\Udemy\C# COMPLETO\csharpcourse\section-6\Matrices\Matrices\bin\Debug\net7.0\Matrices.pdb
+C:\Udemy\C# COMPLETO\csharpcourse\section-6\Matrices\Matrices\obj\Debug\net7.0\Matrices.csproj.AssemblyReference.cache
+C:\Udemy\C# COMPLETO\csharpcourse\section-6\Matrices\Matrices\obj\Debug\net7.0\Matrices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Udemy\C# COMPLETO\csharpcourse\section-6\Matrices\Matrices\obj\Debug\net7.0\Matrices.AssemblyInfoInputs.cache
+C:\Udemy\C# COMPLETO\csharpcourse\section-6\Matrices\Matrices\obj\Debug\net7.0\Matrices.AssemblyInfo.cs
+C:\Udemy\C# COMPLETO\csharpcourse\section-6\Matrices\Matrices\obj\Debug\net7.0\Matrices.csproj.CoreCompileInputs.cache
+C:\Udemy\C# COMPLETO\csharpcourse\section-6\Matrices\Matrices\obj\Debug\net7.0\Matrices.dll
+C:\Udemy\C# COMPLETO\csharpcourse\section-6\Matrices\Matrices\obj\Debug\net7.0\refint\Matrices.dll
+C:\Udemy\C# COMPLETO\csharpcourse\section-6\Matrices\Matrices\obj\Debug\net7.0\Matrices.pdb
+C:\Udemy\C# COMPLETO\csharpcourse\section-6\Matrices\Matrices\obj\Debug\net7.0\Matrices.genruntimeconfig.cache
+C:\Udemy\C# COMPLETO\csharpcourse\section-6\Matrices\Matrices\obj\Debug\net7.0\ref\Matrices.dll
