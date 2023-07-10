@@ -1,0 +1,15 @@
+C:\Udemy\C# COMPLETO\csharpcourse\section-7\DateTimeInCSharp\DateTimeInCSharp\bin\Debug\net7.0\DateTimeInCSharp.exe
+C:\Udemy\C# COMPLETO\csharpcourse\section-7\DateTimeInCSharp\DateTimeInCSharp\bin\Debug\net7.0\DateTimeInCSharp.deps.json
+C:\Udemy\C# COMPLETO\csharpcourse\section-7\DateTimeInCSharp\DateTimeInCSharp\bin\Debug\net7.0\DateTimeInCSharp.runtimeconfig.json
+C:\Udemy\C# COMPLETO\csharpcourse\section-7\DateTimeInCSharp\DateTimeInCSharp\bin\Debug\net7.0\DateTimeInCSharp.dll
+C:\Udemy\C# COMPLETO\csharpcourse\section-7\DateTimeInCSharp\DateTimeInCSharp\bin\Debug\net7.0\DateTimeInCSharp.pdb
+C:\Udemy\C# COMPLETO\csharpcourse\section-7\DateTimeInCSharp\DateTimeInCSharp\obj\Debug\net7.0\DateTimeInCSharp.csproj.AssemblyReference.cache
+C:\Udemy\C# COMPLETO\csharpcourse\section-7\DateTimeInCSharp\DateTimeInCSharp\obj\Debug\net7.0\DateTimeInCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Udemy\C# COMPLETO\csharpcourse\section-7\DateTimeInCSharp\DateTimeInCSharp\obj\Debug\net7.0\DateTimeInCSharp.AssemblyInfoInputs.cache
+C:\Udemy\C# COMPLETO\csharpcourse\section-7\DateTimeInCSharp\DateTimeInCSharp\obj\Debug\net7.0\DateTimeInCSharp.AssemblyInfo.cs
+C:\Udemy\C# COMPLETO\csharpcourse\section-7\DateTimeInCSharp\DateTimeInCSharp\obj\Debug\net7.0\DateTimeInCSharp.csproj.CoreCompileInputs.cache
+C:\Udemy\C# COMPLETO\csharpcourse\section-7\DateTimeInCSharp\DateTimeInCSharp\obj\Debug\net7.0\DateTimeInCSharp.dll
+C:\Udemy\C# COMPLETO\csharpcourse\section-7\DateTimeInCSharp\DateTimeInCSharp\obj\Debug\net7.0\refint\DateTimeInCSharp.dll
+C:\Udemy\C# COMPLETO\csharpcourse\section-7\DateTimeInCSharp\DateTimeInCSharp\obj\Debug\net7.0\DateTimeInCSharp.pdb
+C:\Udemy\C# COMPLETO\csharpcourse\section-7\DateTimeInCSharp\DateTimeInCSharp\obj\Debug\net7.0\DateTimeInCSharp.genruntimeconfig.cache
+C:\Udemy\C# COMPLETO\csharpcourse\section-7\DateTimeInCSharp\DateTimeInCSharp\obj\Debug\net7.0\ref\DateTimeInCSharp.dll
