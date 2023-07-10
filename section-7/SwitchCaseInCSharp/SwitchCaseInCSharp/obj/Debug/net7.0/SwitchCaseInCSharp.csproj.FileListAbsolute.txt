@@ -1,0 +1,15 @@
+C:\Udemy\C# COMPLETO\csharpcourse\section-7\SwitchCaseInCSharp\SwitchCaseInCSharp\bin\Debug\net7.0\SwitchCaseInCSharp.exe
+C:\Udemy\C# COMPLETO\csharpcourse\section-7\SwitchCaseInCSharp\SwitchCaseInCSharp\bin\Debug\net7.0\SwitchCaseInCSharp.deps.json
+C:\Udemy\C# COMPLETO\csharpcourse\section-7\SwitchCaseInCSharp\SwitchCaseInCSharp\bin\Debug\net7.0\SwitchCaseInCSharp.runtimeconfig.json
+C:\Udemy\C# COMPLETO\csharpcourse\section-7\SwitchCaseInCSharp\SwitchCaseInCSharp\bin\Debug\net7.0\SwitchCaseInCSharp.dll
+C:\Udemy\C# COMPLETO\csharpcourse\section-7\SwitchCaseInCSharp\SwitchCaseInCSharp\bin\Debug\net7.0\SwitchCaseInCSharp.pdb
+C:\Udemy\C# COMPLETO\csharpcourse\section-7\SwitchCaseInCSharp\SwitchCaseInCSharp\obj\Debug\net7.0\SwitchCaseInCSharp.csproj.AssemblyReference.cache
+C:\Udemy\C# COMPLETO\csharpcourse\section-7\SwitchCaseInCSharp\SwitchCaseInCSharp\obj\Debug\net7.0\SwitchCaseInCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Udemy\C# COMPLETO\csharpcourse\section-7\SwitchCaseInCSharp\SwitchCaseInCSharp\obj\Debug\net7.0\SwitchCaseInCSharp.AssemblyInfoInputs.cache
+C:\Udemy\C# COMPLETO\csharpcourse\section-7\SwitchCaseInCSharp\SwitchCaseInCSharp\obj\Debug\net7.0\SwitchCaseInCSharp.AssemblyInfo.cs
+C:\Udemy\C# COMPLETO\csharpcourse\section-7\SwitchCaseInCSharp\SwitchCaseInCSharp\obj\Debug\net7.0\SwitchCaseInCSharp.csproj.CoreCompileInputs.cache
+C:\Udemy\C# COMPLETO\csharpcourse\section-7\SwitchCaseInCSharp\SwitchCaseInCSharp\obj\Debug\net7.0\SwitchCaseInCSharp.dll
+C:\Udemy\C# COMPLETO\csharpcourse\section-7\SwitchCaseInCSharp\SwitchCaseInCSharp\obj\Debug\net7.0\refint\SwitchCaseInCSharp.dll
+C:\Udemy\C# COMPLETO\csharpcourse\section-7\SwitchCaseInCSharp\SwitchCaseInCSharp\obj\Debug\net7.0\SwitchCaseInCSharp.pdb
+C:\Udemy\C# COMPLETO\csharpcourse\section-7\SwitchCaseInCSharp\SwitchCaseInCSharp\obj\Debug\net7.0\SwitchCaseInCSharp.genruntimeconfig.cache
+C:\Udemy\C# COMPLETO\csharpcourse\section-7\SwitchCaseInCSharp\SwitchCaseInCSharp\obj\Debug\net7.0\ref\SwitchCaseInCSharp.dll
