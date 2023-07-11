@@ -1,0 +1,15 @@
+C:\Udemy\C# COMPLETO\csharpcourse\section-9\Enum1InCsharp\Enum1InCsharp\bin\Debug\net7.0\Enum1InCsharp.exe
+C:\Udemy\C# COMPLETO\csharpcourse\section-9\Enum1InCsharp\Enum1InCsharp\bin\Debug\net7.0\Enum1InCsharp.deps.json
+C:\Udemy\C# COMPLETO\csharpcourse\section-9\Enum1InCsharp\Enum1InCsharp\bin\Debug\net7.0\Enum1InCsharp.runtimeconfig.json
+C:\Udemy\C# COMPLETO\csharpcourse\section-9\Enum1InCsharp\Enum1InCsharp\bin\Debug\net7.0\Enum1InCsharp.dll
+C:\Udemy\C# COMPLETO\csharpcourse\section-9\Enum1InCsharp\Enum1InCsharp\bin\Debug\net7.0\Enum1InCsharp.pdb
+C:\Udemy\C# COMPLETO\csharpcourse\section-9\Enum1InCsharp\Enum1InCsharp\obj\Debug\net7.0\Enum1InCsharp.csproj.AssemblyReference.cache
+C:\Udemy\C# COMPLETO\csharpcourse\section-9\Enum1InCsharp\Enum1InCsharp\obj\Debug\net7.0\Enum1InCsharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Udemy\C# COMPLETO\csharpcourse\section-9\Enum1InCsharp\Enum1InCsharp\obj\Debug\net7.0\Enum1InCsharp.AssemblyInfoInputs.cache
+C:\Udemy\C# COMPLETO\csharpcourse\section-9\Enum1InCsharp\Enum1InCsharp\obj\Debug\net7.0\Enum1InCsharp.AssemblyInfo.cs
+C:\Udemy\C# COMPLETO\csharpcourse\section-9\Enum1InCsharp\Enum1InCsharp\obj\Debug\net7.0\Enum1InCsharp.csproj.CoreCompileInputs.cache
+C:\Udemy\C# COMPLETO\csharpcourse\section-9\Enum1InCsharp\Enum1InCsharp\obj\Debug\net7.0\Enum1InCsharp.dll
+C:\Udemy\C# COMPLETO\csharpcourse\section-9\Enum1InCsharp\Enum1InCsharp\obj\Debug\net7.0\refint\Enum1InCsharp.dll
+C:\Udemy\C# COMPLETO\csharpcourse\section-9\Enum1InCsharp\Enum1InCsharp\obj\Debug\net7.0\Enum1InCsharp.pdb
+C:\Udemy\C# COMPLETO\csharpcourse\section-9\Enum1InCsharp\Enum1InCsharp\obj\Debug\net7.0\Enum1InCsharp.genruntimeconfig.cache
+C:\Udemy\C# COMPLETO\csharpcourse\section-9\Enum1InCsharp\Enum1InCsharp\obj\Debug\net7.0\ref\Enum1InCsharp.dll
