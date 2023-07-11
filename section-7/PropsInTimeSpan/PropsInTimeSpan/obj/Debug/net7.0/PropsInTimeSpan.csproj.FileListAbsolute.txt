@@ -1,0 +1,15 @@
+C:\Udemy\C# COMPLETO\csharpcourse\section-7\PropsInTimeSpan\PropsInTimeSpan\bin\Debug\net7.0\PropsInTimeSpan.exe
+C:\Udemy\C# COMPLETO\csharpcourse\section-7\PropsInTimeSpan\PropsInTimeSpan\bin\Debug\net7.0\PropsInTimeSpan.deps.json
+C:\Udemy\C# COMPLETO\csharpcourse\section-7\PropsInTimeSpan\PropsInTimeSpan\bin\Debug\net7.0\PropsInTimeSpan.runtimeconfig.json
+C:\Udemy\C# COMPLETO\csharpcourse\section-7\PropsInTimeSpan\PropsInTimeSpan\bin\Debug\net7.0\PropsInTimeSpan.dll
+C:\Udemy\C# COMPLETO\csharpcourse\section-7\PropsInTimeSpan\PropsInTimeSpan\bin\Debug\net7.0\PropsInTimeSpan.pdb
+C:\Udemy\C# COMPLETO\csharpcourse\section-7\PropsInTimeSpan\PropsInTimeSpan\obj\Debug\net7.0\PropsInTimeSpan.csproj.AssemblyReference.cache
+C:\Udemy\C# COMPLETO\csharpcourse\section-7\PropsInTimeSpan\PropsInTimeSpan\obj\Debug\net7.0\PropsInTimeSpan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Udemy\C# COMPLETO\csharpcourse\section-7\PropsInTimeSpan\PropsInTimeSpan\obj\Debug\net7.0\PropsInTimeSpan.AssemblyInfoInputs.cache
+C:\Udemy\C# COMPLETO\csharpcourse\section-7\PropsInTimeSpan\PropsInTimeSpan\obj\Debug\net7.0\PropsInTimeSpan.AssemblyInfo.cs
+C:\Udemy\C# COMPLETO\csharpcourse\section-7\PropsInTimeSpan\PropsInTimeSpan\obj\Debug\net7.0\PropsInTimeSpan.csproj.CoreCompileInputs.cache
+C:\Udemy\C# COMPLETO\csharpcourse\section-7\PropsInTimeSpan\PropsInTimeSpan\obj\Debug\net7.0\PropsInTimeSpan.dll
+C:\Udemy\C# COMPLETO\csharpcourse\section-7\PropsInTimeSpan\PropsInTimeSpan\obj\Debug\net7.0\refint\PropsInTimeSpan.dll
+C:\Udemy\C# COMPLETO\csharpcourse\section-7\PropsInTimeSpan\PropsInTimeSpan\obj\Debug\net7.0\PropsInTimeSpan.pdb
+C:\Udemy\C# COMPLETO\csharpcourse\section-7\PropsInTimeSpan\PropsInTimeSpan\obj\Debug\net7.0\PropsInTimeSpan.genruntimeconfig.cache
+C:\Udemy\C# COMPLETO\csharpcourse\section-7\PropsInTimeSpan\PropsInTimeSpan\obj\Debug\net7.0\ref\PropsInTimeSpan.dll
