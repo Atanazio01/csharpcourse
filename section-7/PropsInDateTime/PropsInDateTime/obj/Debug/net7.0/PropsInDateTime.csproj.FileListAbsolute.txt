@@ -1,0 +1,15 @@
+C:\Udemy\C# COMPLETO\csharpcourse\section-7\PropsInDateTime\PropsInDateTime\obj\Debug\net7.0\PropsInDateTime.csproj.AssemblyReference.cache
+C:\Udemy\C# COMPLETO\csharpcourse\section-7\PropsInDateTime\PropsInDateTime\obj\Debug\net7.0\PropsInDateTime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Udemy\C# COMPLETO\csharpcourse\section-7\PropsInDateTime\PropsInDateTime\obj\Debug\net7.0\PropsInDateTime.AssemblyInfoInputs.cache
+C:\Udemy\C# COMPLETO\csharpcourse\section-7\PropsInDateTime\PropsInDateTime\obj\Debug\net7.0\PropsInDateTime.AssemblyInfo.cs
+C:\Udemy\C# COMPLETO\csharpcourse\section-7\PropsInDateTime\PropsInDateTime\obj\Debug\net7.0\PropsInDateTime.csproj.CoreCompileInputs.cache
+C:\Udemy\C# COMPLETO\csharpcourse\section-7\PropsInDateTime\PropsInDateTime\bin\Debug\net7.0\PropsInDateTime.exe
+C:\Udemy\C# COMPLETO\csharpcourse\section-7\PropsInDateTime\PropsInDateTime\bin\Debug\net7.0\PropsInDateTime.deps.json
+C:\Udemy\C# COMPLETO\csharpcourse\section-7\PropsInDateTime\PropsInDateTime\bin\Debug\net7.0\PropsInDateTime.runtimeconfig.json
+C:\Udemy\C# COMPLETO\csharpcourse\section-7\PropsInDateTime\PropsInDateTime\bin\Debug\net7.0\PropsInDateTime.dll
+C:\Udemy\C# COMPLETO\csharpcourse\section-7\PropsInDateTime\PropsInDateTime\bin\Debug\net7.0\PropsInDateTime.pdb
+C:\Udemy\C# COMPLETO\csharpcourse\section-7\PropsInDateTime\PropsInDateTime\obj\Debug\net7.0\PropsInDateTime.dll
+C:\Udemy\C# COMPLETO\csharpcourse\section-7\PropsInDateTime\PropsInDateTime\obj\Debug\net7.0\refint\PropsInDateTime.dll
+C:\Udemy\C# COMPLETO\csharpcourse\section-7\PropsInDateTime\PropsInDateTime\obj\Debug\net7.0\PropsInDateTime.pdb
+C:\Udemy\C# COMPLETO\csharpcourse\section-7\PropsInDateTime\PropsInDateTime\obj\Debug\net7.0\PropsInDateTime.genruntimeconfig.cache
+C:\Udemy\C# COMPLETO\csharpcourse\section-7\PropsInDateTime\PropsInDateTime\obj\Debug\net7.0\ref\PropsInDateTime.dll
