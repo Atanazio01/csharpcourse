@@ -23,7 +23,7 @@ namespace ExerciseEnumerationsAndComposition
             Console.Write("Status: ");
             OrderStatus status = Enum.Parse<OrderStatus>(Console.ReadLine());
 
-            Order order = new Order(status);
+            Order order = new Order(status, client);
 
             Console.Write("How many items to this order? ");
             int quantityItems = int.Parse(Console.ReadLine());
@@ -45,6 +45,7 @@ namespace ExerciseEnumerationsAndComposition
 
                 order.addItem(orderItem);
             }
+            Console.WriteLine(order);
         }
     }
 }

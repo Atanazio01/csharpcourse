@@ -1,0 +1,15 @@
+C:\Udemy\C# COMPLETO\csharpcourse\section-9\ExerciseEnumerationsAndComposition\ExerciseEnumerationsAndComposition\obj\Debug\net7.0\ExerciseEnumerationsAndComposition.csproj.AssemblyReference.cache
+C:\Udemy\C# COMPLETO\csharpcourse\section-9\ExerciseEnumerationsAndComposition\ExerciseEnumerationsAndComposition\obj\Debug\net7.0\ExerciseEnumerationsAndComposition.GeneratedMSBuildEditorConfig.editorconfig
+C:\Udemy\C# COMPLETO\csharpcourse\section-9\ExerciseEnumerationsAndComposition\ExerciseEnumerationsAndComposition\obj\Debug\net7.0\ExerciseEnumerationsAndComposition.AssemblyInfoInputs.cache
+C:\Udemy\C# COMPLETO\csharpcourse\section-9\ExerciseEnumerationsAndComposition\ExerciseEnumerationsAndComposition\obj\Debug\net7.0\ExerciseEnumerationsAndComposition.AssemblyInfo.cs
+C:\Udemy\C# COMPLETO\csharpcourse\section-9\ExerciseEnumerationsAndComposition\ExerciseEnumerationsAndComposition\obj\Debug\net7.0\ExerciseEnumerationsAndComposition.csproj.CoreCompileInputs.cache
+C:\Udemy\C# COMPLETO\csharpcourse\section-9\ExerciseEnumerationsAndComposition\ExerciseEnumerationsAndComposition\bin\Debug\net7.0\ExerciseEnumerationsAndComposition.exe
+C:\Udemy\C# COMPLETO\csharpcourse\section-9\ExerciseEnumerationsAndComposition\ExerciseEnumerationsAndComposition\bin\Debug\net7.0\ExerciseEnumerationsAndComposition.deps.json
+C:\Udemy\C# COMPLETO\csharpcourse\section-9\ExerciseEnumerationsAndComposition\ExerciseEnumerationsAndComposition\bin\Debug\net7.0\ExerciseEnumerationsAndComposition.runtimeconfig.json
+C:\Udemy\C# COMPLETO\csharpcourse\section-9\ExerciseEnumerationsAndComposition\ExerciseEnumerationsAndComposition\bin\Debug\net7.0\ExerciseEnumerationsAndComposition.dll
+C:\Udemy\C# COMPLETO\csharpcourse\section-9\ExerciseEnumerationsAndComposition\ExerciseEnumerationsAndComposition\bin\Debug\net7.0\ExerciseEnumerationsAndComposition.pdb
+C:\Udemy\C# COMPLETO\csharpcourse\section-9\ExerciseEnumerationsAndComposition\ExerciseEnumerationsAndComposition\obj\Debug\net7.0\ExerciseEnumerationsAndComposition.dll
+C:\Udemy\C# COMPLETO\csharpcourse\section-9\ExerciseEnumerationsAndComposition\ExerciseEnumerationsAndComposition\obj\Debug\net7.0\refint\ExerciseEnumerationsAndComposition.dll
+C:\Udemy\C# COMPLETO\csharpcourse\section-9\ExerciseEnumerationsAndComposition\ExerciseEnumerationsAndComposition\obj\Debug\net7.0\ExerciseEnumerationsAndComposition.pdb
+C:\Udemy\C# COMPLETO\csharpcourse\section-9\ExerciseEnumerationsAndComposition\ExerciseEnumerationsAndComposition\obj\Debug\net7.0\ExerciseEnumerationsAndComposition.genruntimeconfig.cache
+C:\Udemy\C# COMPLETO\csharpcourse\section-9\ExerciseEnumerationsAndComposition\ExerciseEnumerationsAndComposition\obj\Debug\net7.0\ref\ExerciseEnumerationsAndComposition.dll
