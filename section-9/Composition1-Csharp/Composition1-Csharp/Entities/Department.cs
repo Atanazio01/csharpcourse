@@ -1,4 +1,4 @@
-﻿namespace Composition1_Csharp.Entities
+﻿namespace Composition1Csharp.Entities
 {
     internal class Department
     {

@@ -1,4 +1,4 @@
-﻿namespace Composition1_Csharp.Entities.Enums
+﻿namespace Composition1Csharp.Entities.Enums
 {
     enum WorkerLevel: int
     {

@@ -1,0 +1,15 @@
+C:\Udemy\C# COMPLETO\csharpcourse\section-9\Composition1-Csharp\Composition1-Csharp\obj\Debug\net7.0\Composition1-Csharp.csproj.AssemblyReference.cache
+C:\Udemy\C# COMPLETO\csharpcourse\section-9\Composition1-Csharp\Composition1-Csharp\obj\Debug\net7.0\Composition1-Csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Udemy\C# COMPLETO\csharpcourse\section-9\Composition1-Csharp\Composition1-Csharp\obj\Debug\net7.0\Composition1-Csharp.AssemblyInfoInputs.cache
+C:\Udemy\C# COMPLETO\csharpcourse\section-9\Composition1-Csharp\Composition1-Csharp\obj\Debug\net7.0\Composition1-Csharp.AssemblyInfo.cs
+C:\Udemy\C# COMPLETO\csharpcourse\section-9\Composition1-Csharp\Composition1-Csharp\obj\Debug\net7.0\Composition1-Csharp.csproj.CoreCompileInputs.cache
+C:\Udemy\C# COMPLETO\csharpcourse\section-9\Composition1-Csharp\Composition1-Csharp\bin\Debug\net7.0\Composition1-Csharp.exe
+C:\Udemy\C# COMPLETO\csharpcourse\section-9\Composition1-Csharp\Composition1-Csharp\bin\Debug\net7.0\Composition1-Csharp.deps.json
+C:\Udemy\C# COMPLETO\csharpcourse\section-9\Composition1-Csharp\Composition1-Csharp\bin\Debug\net7.0\Composition1-Csharp.runtimeconfig.json
+C:\Udemy\C# COMPLETO\csharpcourse\section-9\Composition1-Csharp\Composition1-Csharp\bin\Debug\net7.0\Composition1-Csharp.dll
+C:\Udemy\C# COMPLETO\csharpcourse\section-9\Composition1-Csharp\Composition1-Csharp\bin\Debug\net7.0\Composition1-Csharp.pdb
+C:\Udemy\C# COMPLETO\csharpcourse\section-9\Composition1-Csharp\Composition1-Csharp\obj\Debug\net7.0\Composition1-Csharp.dll
+C:\Udemy\C# COMPLETO\csharpcourse\section-9\Composition1-Csharp\Composition1-Csharp\obj\Debug\net7.0\refint\Composition1-Csharp.dll
+C:\Udemy\C# COMPLETO\csharpcourse\section-9\Composition1-Csharp\Composition1-Csharp\obj\Debug\net7.0\Composition1-Csharp.pdb
+C:\Udemy\C# COMPLETO\csharpcourse\section-9\Composition1-Csharp\Composition1-Csharp\obj\Debug\net7.0\Composition1-Csharp.genruntimeconfig.cache
+C:\Udemy\C# COMPLETO\csharpcourse\section-9\Composition1-Csharp\Composition1-Csharp\obj\Debug\net7.0\ref\Composition1-Csharp.dll

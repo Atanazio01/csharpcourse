@@ -1,7 +1,7 @@
-﻿using Composition1_Csharp.Entities.Enums;
+﻿using Composition1Csharp.Entities.Enums;
 using System.Collections.Generic;
 
-namespace Composition1_Csharp.Entities
+namespace Composition1Csharp.Entities
 {
     internal class Worker
     {
