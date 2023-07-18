@@ -1,0 +1,15 @@
+C:\Udemy\C# COMPLETO\csharpcourse\section-9\FixationExerciseDemoStringBuilder\FixationExerciseDemoStringBuilder\obj\Debug\net7.0\FixationExerciseDemoStringBuilder.csproj.AssemblyReference.cache
+C:\Udemy\C# COMPLETO\csharpcourse\section-9\FixationExerciseDemoStringBuilder\FixationExerciseDemoStringBuilder\obj\Debug\net7.0\FixationExerciseDemoStringBuilder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Udemy\C# COMPLETO\csharpcourse\section-9\FixationExerciseDemoStringBuilder\FixationExerciseDemoStringBuilder\obj\Debug\net7.0\FixationExerciseDemoStringBuilder.AssemblyInfoInputs.cache
+C:\Udemy\C# COMPLETO\csharpcourse\section-9\FixationExerciseDemoStringBuilder\FixationExerciseDemoStringBuilder\obj\Debug\net7.0\FixationExerciseDemoStringBuilder.AssemblyInfo.cs
+C:\Udemy\C# COMPLETO\csharpcourse\section-9\FixationExerciseDemoStringBuilder\FixationExerciseDemoStringBuilder\obj\Debug\net7.0\FixationExerciseDemoStringBuilder.csproj.CoreCompileInputs.cache
+C:\Udemy\C# COMPLETO\csharpcourse\section-9\FixationExerciseDemoStringBuilder\FixationExerciseDemoStringBuilder\bin\Debug\net7.0\FixationExerciseDemoStringBuilder.exe
+C:\Udemy\C# COMPLETO\csharpcourse\section-9\FixationExerciseDemoStringBuilder\FixationExerciseDemoStringBuilder\bin\Debug\net7.0\FixationExerciseDemoStringBuilder.deps.json
+C:\Udemy\C# COMPLETO\csharpcourse\section-9\FixationExerciseDemoStringBuilder\FixationExerciseDemoStringBuilder\bin\Debug\net7.0\FixationExerciseDemoStringBuilder.runtimeconfig.json
+C:\Udemy\C# COMPLETO\csharpcourse\section-9\FixationExerciseDemoStringBuilder\FixationExerciseDemoStringBuilder\bin\Debug\net7.0\FixationExerciseDemoStringBuilder.dll
+C:\Udemy\C# COMPLETO\csharpcourse\section-9\FixationExerciseDemoStringBuilder\FixationExerciseDemoStringBuilder\bin\Debug\net7.0\FixationExerciseDemoStringBuilder.pdb
+C:\Udemy\C# COMPLETO\csharpcourse\section-9\FixationExerciseDemoStringBuilder\FixationExerciseDemoStringBuilder\obj\Debug\net7.0\FixationExerciseDemoStringBuilder.dll
+C:\Udemy\C# COMPLETO\csharpcourse\section-9\FixationExerciseDemoStringBuilder\FixationExerciseDemoStringBuilder\obj\Debug\net7.0\refint\FixationExerciseDemoStringBuilder.dll
+C:\Udemy\C# COMPLETO\csharpcourse\section-9\FixationExerciseDemoStringBuilder\FixationExerciseDemoStringBuilder\obj\Debug\net7.0\FixationExerciseDemoStringBuilder.pdb
+C:\Udemy\C# COMPLETO\csharpcourse\section-9\FixationExerciseDemoStringBuilder\FixationExerciseDemoStringBuilder\obj\Debug\net7.0\FixationExerciseDemoStringBuilder.genruntimeconfig.cache
+C:\Udemy\C# COMPLETO\csharpcourse\section-9\FixationExerciseDemoStringBuilder\FixationExerciseDemoStringBuilder\obj\Debug\net7.0\ref\FixationExerciseDemoStringBuilder.dll
