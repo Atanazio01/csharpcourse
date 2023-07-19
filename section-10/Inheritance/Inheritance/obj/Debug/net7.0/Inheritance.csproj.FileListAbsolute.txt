@@ -1,0 +1,15 @@
+C:\Udemy\C# COMPLETO\csharpcourse\section-10\Inheritance\Inheritance\bin\Debug\net7.0\Inheritance.exe
+C:\Udemy\C# COMPLETO\csharpcourse\section-10\Inheritance\Inheritance\bin\Debug\net7.0\Inheritance.deps.json
+C:\Udemy\C# COMPLETO\csharpcourse\section-10\Inheritance\Inheritance\bin\Debug\net7.0\Inheritance.runtimeconfig.json
+C:\Udemy\C# COMPLETO\csharpcourse\section-10\Inheritance\Inheritance\bin\Debug\net7.0\Inheritance.dll
+C:\Udemy\C# COMPLETO\csharpcourse\section-10\Inheritance\Inheritance\bin\Debug\net7.0\Inheritance.pdb
+C:\Udemy\C# COMPLETO\csharpcourse\section-10\Inheritance\Inheritance\obj\Debug\net7.0\Inheritance.csproj.AssemblyReference.cache
+C:\Udemy\C# COMPLETO\csharpcourse\section-10\Inheritance\Inheritance\obj\Debug\net7.0\Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Udemy\C# COMPLETO\csharpcourse\section-10\Inheritance\Inheritance\obj\Debug\net7.0\Inheritance.AssemblyInfoInputs.cache
+C:\Udemy\C# COMPLETO\csharpcourse\section-10\Inheritance\Inheritance\obj\Debug\net7.0\Inheritance.AssemblyInfo.cs
+C:\Udemy\C# COMPLETO\csharpcourse\section-10\Inheritance\Inheritance\obj\Debug\net7.0\Inheritance.csproj.CoreCompileInputs.cache
+C:\Udemy\C# COMPLETO\csharpcourse\section-10\Inheritance\Inheritance\obj\Debug\net7.0\Inheritance.dll
+C:\Udemy\C# COMPLETO\csharpcourse\section-10\Inheritance\Inheritance\obj\Debug\net7.0\refint\Inheritance.dll
+C:\Udemy\C# COMPLETO\csharpcourse\section-10\Inheritance\Inheritance\obj\Debug\net7.0\Inheritance.pdb
+C:\Udemy\C# COMPLETO\csharpcourse\section-10\Inheritance\Inheritance\obj\Debug\net7.0\Inheritance.genruntimeconfig.cache
+C:\Udemy\C# COMPLETO\csharpcourse\section-10\Inheritance\Inheritance\obj\Debug\net7.0\ref\Inheritance.dll
