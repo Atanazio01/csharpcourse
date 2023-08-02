@@ -17,7 +17,7 @@
             Balance += InterestRate * Balance;
         }
 
-        public override void WithDraw(double amount)
+        public sealed override void WithDraw(double amount)
         {
             base.WithDraw(amount); // a palavra base implementa a logica do metodo da superclasse
             Balance -= 2.0;
