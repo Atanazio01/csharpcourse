@@ -27,7 +27,7 @@ namespace Inheritance
             if (acc3 is BusinessAccount)
             {
                 //BusinessAccount acc5 = (BusinessAccount)acc3;
-                BusinessAccount acc5 = acc3 as BusinessAccount;
+                BusinessAccount acc5 = acc3 as BusinessAccount; //sintaxe alternativa
                 acc5.Loan(200.0);
                 Console.WriteLine("Loan!");
             }
