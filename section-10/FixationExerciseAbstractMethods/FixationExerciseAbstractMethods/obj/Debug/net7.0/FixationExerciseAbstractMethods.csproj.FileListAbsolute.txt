@@ -1,0 +1,15 @@
+C:\Udemy\C# COMPLETO\csharpcourse\section-10\FixationExerciseAbstractMethods\FixationExerciseAbstractMethods\bin\Debug\net7.0\FixationExerciseAbstractMethods.exe
+C:\Udemy\C# COMPLETO\csharpcourse\section-10\FixationExerciseAbstractMethods\FixationExerciseAbstractMethods\bin\Debug\net7.0\FixationExerciseAbstractMethods.deps.json
+C:\Udemy\C# COMPLETO\csharpcourse\section-10\FixationExerciseAbstractMethods\FixationExerciseAbstractMethods\bin\Debug\net7.0\FixationExerciseAbstractMethods.runtimeconfig.json
+C:\Udemy\C# COMPLETO\csharpcourse\section-10\FixationExerciseAbstractMethods\FixationExerciseAbstractMethods\bin\Debug\net7.0\FixationExerciseAbstractMethods.dll
+C:\Udemy\C# COMPLETO\csharpcourse\section-10\FixationExerciseAbstractMethods\FixationExerciseAbstractMethods\bin\Debug\net7.0\FixationExerciseAbstractMethods.pdb
+C:\Udemy\C# COMPLETO\csharpcourse\section-10\FixationExerciseAbstractMethods\FixationExerciseAbstractMethods\obj\Debug\net7.0\FixationExerciseAbstractMethods.csproj.AssemblyReference.cache
+C:\Udemy\C# COMPLETO\csharpcourse\section-10\FixationExerciseAbstractMethods\FixationExerciseAbstractMethods\obj\Debug\net7.0\FixationExerciseAbstractMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Udemy\C# COMPLETO\csharpcourse\section-10\FixationExerciseAbstractMethods\FixationExerciseAbstractMethods\obj\Debug\net7.0\FixationExerciseAbstractMethods.AssemblyInfoInputs.cache
+C:\Udemy\C# COMPLETO\csharpcourse\section-10\FixationExerciseAbstractMethods\FixationExerciseAbstractMethods\obj\Debug\net7.0\FixationExerciseAbstractMethods.AssemblyInfo.cs
+C:\Udemy\C# COMPLETO\csharpcourse\section-10\FixationExerciseAbstractMethods\FixationExerciseAbstractMethods\obj\Debug\net7.0\FixationExerciseAbstractMethods.csproj.CoreCompileInputs.cache
+C:\Udemy\C# COMPLETO\csharpcourse\section-10\FixationExerciseAbstractMethods\FixationExerciseAbstractMethods\obj\Debug\net7.0\FixationExerciseAbstractMethods.dll
+C:\Udemy\C# COMPLETO\csharpcourse\section-10\FixationExerciseAbstractMethods\FixationExerciseAbstractMethods\obj\Debug\net7.0\refint\FixationExerciseAbstractMethods.dll
+C:\Udemy\C# COMPLETO\csharpcourse\section-10\FixationExerciseAbstractMethods\FixationExerciseAbstractMethods\obj\Debug\net7.0\FixationExerciseAbstractMethods.pdb
+C:\Udemy\C# COMPLETO\csharpcourse\section-10\FixationExerciseAbstractMethods\FixationExerciseAbstractMethods\obj\Debug\net7.0\FixationExerciseAbstractMethods.genruntimeconfig.cache
+C:\Udemy\C# COMPLETO\csharpcourse\section-10\FixationExerciseAbstractMethods\FixationExerciseAbstractMethods\obj\Debug\net7.0\ref\FixationExerciseAbstractMethods.dll
