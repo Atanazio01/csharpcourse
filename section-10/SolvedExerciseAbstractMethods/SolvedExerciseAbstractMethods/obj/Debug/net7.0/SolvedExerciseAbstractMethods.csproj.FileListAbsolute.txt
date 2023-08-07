@@ -1,0 +1,15 @@
+C:\Udemy\C# COMPLETO\csharpcourse\section-10\SolvedExerciseAbstractMethods\SolvedExerciseAbstractMethods\obj\Debug\net7.0\SolvedExerciseAbstractMethods.csproj.AssemblyReference.cache
+C:\Udemy\C# COMPLETO\csharpcourse\section-10\SolvedExerciseAbstractMethods\SolvedExerciseAbstractMethods\obj\Debug\net7.0\SolvedExerciseAbstractMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Udemy\C# COMPLETO\csharpcourse\section-10\SolvedExerciseAbstractMethods\SolvedExerciseAbstractMethods\obj\Debug\net7.0\SolvedExerciseAbstractMethods.AssemblyInfoInputs.cache
+C:\Udemy\C# COMPLETO\csharpcourse\section-10\SolvedExerciseAbstractMethods\SolvedExerciseAbstractMethods\obj\Debug\net7.0\SolvedExerciseAbstractMethods.AssemblyInfo.cs
+C:\Udemy\C# COMPLETO\csharpcourse\section-10\SolvedExerciseAbstractMethods\SolvedExerciseAbstractMethods\obj\Debug\net7.0\SolvedExerciseAbstractMethods.csproj.CoreCompileInputs.cache
+C:\Udemy\C# COMPLETO\csharpcourse\section-10\SolvedExerciseAbstractMethods\SolvedExerciseAbstractMethods\bin\Debug\net7.0\SolvedExerciseAbstractMethods.exe
+C:\Udemy\C# COMPLETO\csharpcourse\section-10\SolvedExerciseAbstractMethods\SolvedExerciseAbstractMethods\bin\Debug\net7.0\SolvedExerciseAbstractMethods.deps.json
+C:\Udemy\C# COMPLETO\csharpcourse\section-10\SolvedExerciseAbstractMethods\SolvedExerciseAbstractMethods\bin\Debug\net7.0\SolvedExerciseAbstractMethods.runtimeconfig.json
+C:\Udemy\C# COMPLETO\csharpcourse\section-10\SolvedExerciseAbstractMethods\SolvedExerciseAbstractMethods\bin\Debug\net7.0\SolvedExerciseAbstractMethods.dll
+C:\Udemy\C# COMPLETO\csharpcourse\section-10\SolvedExerciseAbstractMethods\SolvedExerciseAbstractMethods\bin\Debug\net7.0\SolvedExerciseAbstractMethods.pdb
+C:\Udemy\C# COMPLETO\csharpcourse\section-10\SolvedExerciseAbstractMethods\SolvedExerciseAbstractMethods\obj\Debug\net7.0\SolvedExerciseAbstractMethods.dll
+C:\Udemy\C# COMPLETO\csharpcourse\section-10\SolvedExerciseAbstractMethods\SolvedExerciseAbstractMethods\obj\Debug\net7.0\refint\SolvedExerciseAbstractMethods.dll
+C:\Udemy\C# COMPLETO\csharpcourse\section-10\SolvedExerciseAbstractMethods\SolvedExerciseAbstractMethods\obj\Debug\net7.0\SolvedExerciseAbstractMethods.pdb
+C:\Udemy\C# COMPLETO\csharpcourse\section-10\SolvedExerciseAbstractMethods\SolvedExerciseAbstractMethods\obj\Debug\net7.0\SolvedExerciseAbstractMethods.genruntimeconfig.cache
+C:\Udemy\C# COMPLETO\csharpcourse\section-10\SolvedExerciseAbstractMethods\SolvedExerciseAbstractMethods\obj\Debug\net7.0\ref\SolvedExerciseAbstractMethods.dll
