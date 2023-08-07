@@ -1,0 +1,15 @@
+C:\Udemy\C# COMPLETO\csharpcourse\section-10\AbstractClasses\AbstractClasses\bin\Debug\net7.0\AbstractClasses.exe
+C:\Udemy\C# COMPLETO\csharpcourse\section-10\AbstractClasses\AbstractClasses\bin\Debug\net7.0\AbstractClasses.deps.json
+C:\Udemy\C# COMPLETO\csharpcourse\section-10\AbstractClasses\AbstractClasses\bin\Debug\net7.0\AbstractClasses.runtimeconfig.json
+C:\Udemy\C# COMPLETO\csharpcourse\section-10\AbstractClasses\AbstractClasses\bin\Debug\net7.0\AbstractClasses.dll
+C:\Udemy\C# COMPLETO\csharpcourse\section-10\AbstractClasses\AbstractClasses\bin\Debug\net7.0\AbstractClasses.pdb
+C:\Udemy\C# COMPLETO\csharpcourse\section-10\AbstractClasses\AbstractClasses\obj\Debug\net7.0\AbstractClasses.csproj.AssemblyReference.cache
+C:\Udemy\C# COMPLETO\csharpcourse\section-10\AbstractClasses\AbstractClasses\obj\Debug\net7.0\AbstractClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Udemy\C# COMPLETO\csharpcourse\section-10\AbstractClasses\AbstractClasses\obj\Debug\net7.0\AbstractClasses.AssemblyInfoInputs.cache
+C:\Udemy\C# COMPLETO\csharpcourse\section-10\AbstractClasses\AbstractClasses\obj\Debug\net7.0\AbstractClasses.AssemblyInfo.cs
+C:\Udemy\C# COMPLETO\csharpcourse\section-10\AbstractClasses\AbstractClasses\obj\Debug\net7.0\AbstractClasses.csproj.CoreCompileInputs.cache
+C:\Udemy\C# COMPLETO\csharpcourse\section-10\AbstractClasses\AbstractClasses\obj\Debug\net7.0\AbstractClasses.dll
+C:\Udemy\C# COMPLETO\csharpcourse\section-10\AbstractClasses\AbstractClasses\obj\Debug\net7.0\refint\AbstractClasses.dll
+C:\Udemy\C# COMPLETO\csharpcourse\section-10\AbstractClasses\AbstractClasses\obj\Debug\net7.0\AbstractClasses.pdb
+C:\Udemy\C# COMPLETO\csharpcourse\section-10\AbstractClasses\AbstractClasses\obj\Debug\net7.0\AbstractClasses.genruntimeconfig.cache
+C:\Udemy\C# COMPLETO\csharpcourse\section-10\AbstractClasses\AbstractClasses\obj\Debug\net7.0\ref\AbstractClasses.dll
