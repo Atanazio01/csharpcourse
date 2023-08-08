@@ -1,0 +1,15 @@
+C:\Udemy\C# COMPLETO\csharpcourse\section-11\TryCatchStructure\TryCatchStructure\bin\Debug\net7.0\TryCatchStructure.exe
+C:\Udemy\C# COMPLETO\csharpcourse\section-11\TryCatchStructure\TryCatchStructure\bin\Debug\net7.0\TryCatchStructure.deps.json
+C:\Udemy\C# COMPLETO\csharpcourse\section-11\TryCatchStructure\TryCatchStructure\bin\Debug\net7.0\TryCatchStructure.runtimeconfig.json
+C:\Udemy\C# COMPLETO\csharpcourse\section-11\TryCatchStructure\TryCatchStructure\bin\Debug\net7.0\TryCatchStructure.dll
+C:\Udemy\C# COMPLETO\csharpcourse\section-11\TryCatchStructure\TryCatchStructure\bin\Debug\net7.0\TryCatchStructure.pdb
+C:\Udemy\C# COMPLETO\csharpcourse\section-11\TryCatchStructure\TryCatchStructure\obj\Debug\net7.0\TryCatchStructure.csproj.AssemblyReference.cache
+C:\Udemy\C# COMPLETO\csharpcourse\section-11\TryCatchStructure\TryCatchStructure\obj\Debug\net7.0\TryCatchStructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Udemy\C# COMPLETO\csharpcourse\section-11\TryCatchStructure\TryCatchStructure\obj\Debug\net7.0\TryCatchStructure.AssemblyInfoInputs.cache
+C:\Udemy\C# COMPLETO\csharpcourse\section-11\TryCatchStructure\TryCatchStructure\obj\Debug\net7.0\TryCatchStructure.AssemblyInfo.cs
+C:\Udemy\C# COMPLETO\csharpcourse\section-11\TryCatchStructure\TryCatchStructure\obj\Debug\net7.0\TryCatchStructure.csproj.CoreCompileInputs.cache
+C:\Udemy\C# COMPLETO\csharpcourse\section-11\TryCatchStructure\TryCatchStructure\obj\Debug\net7.0\TryCatchStructure.dll
+C:\Udemy\C# COMPLETO\csharpcourse\section-11\TryCatchStructure\TryCatchStructure\obj\Debug\net7.0\refint\TryCatchStructure.dll
+C:\Udemy\C# COMPLETO\csharpcourse\section-11\TryCatchStructure\TryCatchStructure\obj\Debug\net7.0\TryCatchStructure.pdb
+C:\Udemy\C# COMPLETO\csharpcourse\section-11\TryCatchStructure\TryCatchStructure\obj\Debug\net7.0\TryCatchStructure.genruntimeconfig.cache
+C:\Udemy\C# COMPLETO\csharpcourse\section-11\TryCatchStructure\TryCatchStructure\obj\Debug\net7.0\ref\TryCatchStructure.dll
