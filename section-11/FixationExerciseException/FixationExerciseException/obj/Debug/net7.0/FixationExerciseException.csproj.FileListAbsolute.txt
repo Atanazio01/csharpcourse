@@ -1,0 +1,15 @@
+C:\Udemy\C# COMPLETO\csharpcourse\section-11\FixationExerciseException\FixationExerciseException\bin\Debug\net7.0\FixationExerciseException.exe
+C:\Udemy\C# COMPLETO\csharpcourse\section-11\FixationExerciseException\FixationExerciseException\bin\Debug\net7.0\FixationExerciseException.deps.json
+C:\Udemy\C# COMPLETO\csharpcourse\section-11\FixationExerciseException\FixationExerciseException\bin\Debug\net7.0\FixationExerciseException.runtimeconfig.json
+C:\Udemy\C# COMPLETO\csharpcourse\section-11\FixationExerciseException\FixationExerciseException\bin\Debug\net7.0\FixationExerciseException.dll
+C:\Udemy\C# COMPLETO\csharpcourse\section-11\FixationExerciseException\FixationExerciseException\bin\Debug\net7.0\FixationExerciseException.pdb
+C:\Udemy\C# COMPLETO\csharpcourse\section-11\FixationExerciseException\FixationExerciseException\obj\Debug\net7.0\FixationExerciseException.csproj.AssemblyReference.cache
+C:\Udemy\C# COMPLETO\csharpcourse\section-11\FixationExerciseException\FixationExerciseException\obj\Debug\net7.0\FixationExerciseException.GeneratedMSBuildEditorConfig.editorconfig
+C:\Udemy\C# COMPLETO\csharpcourse\section-11\FixationExerciseException\FixationExerciseException\obj\Debug\net7.0\FixationExerciseException.AssemblyInfoInputs.cache
+C:\Udemy\C# COMPLETO\csharpcourse\section-11\FixationExerciseException\FixationExerciseException\obj\Debug\net7.0\FixationExerciseException.AssemblyInfo.cs
+C:\Udemy\C# COMPLETO\csharpcourse\section-11\FixationExerciseException\FixationExerciseException\obj\Debug\net7.0\FixationExerciseException.csproj.CoreCompileInputs.cache
+C:\Udemy\C# COMPLETO\csharpcourse\section-11\FixationExerciseException\FixationExerciseException\obj\Debug\net7.0\FixationExerciseException.dll
+C:\Udemy\C# COMPLETO\csharpcourse\section-11\FixationExerciseException\FixationExerciseException\obj\Debug\net7.0\refint\FixationExerciseException.dll
+C:\Udemy\C# COMPLETO\csharpcourse\section-11\FixationExerciseException\FixationExerciseException\obj\Debug\net7.0\FixationExerciseException.pdb
+C:\Udemy\C# COMPLETO\csharpcourse\section-11\FixationExerciseException\FixationExerciseException\obj\Debug\net7.0\FixationExerciseException.genruntimeconfig.cache
+C:\Udemy\C# COMPLETO\csharpcourse\section-11\FixationExerciseException\FixationExerciseException\obj\Debug\net7.0\ref\FixationExerciseException.dll

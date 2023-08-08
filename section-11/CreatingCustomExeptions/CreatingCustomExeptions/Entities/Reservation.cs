@@ -54,7 +54,6 @@ namespace CreatingCustomExeptions.Entities
                 $", " +
                 $"{Duration()}" +
                 $" nights";
-            return base.ToString();
         }
     }
 }
