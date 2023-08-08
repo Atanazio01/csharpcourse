@@ -1,0 +1,15 @@
+C:\Udemy\C# COMPLETO\csharpcourse\section-11\CreatingCustomExeptions\CreatingCustomExeptions\bin\Debug\net7.0\CreatingCustomExeptions.exe
+C:\Udemy\C# COMPLETO\csharpcourse\section-11\CreatingCustomExeptions\CreatingCustomExeptions\bin\Debug\net7.0\CreatingCustomExeptions.deps.json
+C:\Udemy\C# COMPLETO\csharpcourse\section-11\CreatingCustomExeptions\CreatingCustomExeptions\bin\Debug\net7.0\CreatingCustomExeptions.runtimeconfig.json
+C:\Udemy\C# COMPLETO\csharpcourse\section-11\CreatingCustomExeptions\CreatingCustomExeptions\bin\Debug\net7.0\CreatingCustomExeptions.dll
+C:\Udemy\C# COMPLETO\csharpcourse\section-11\CreatingCustomExeptions\CreatingCustomExeptions\bin\Debug\net7.0\CreatingCustomExeptions.pdb
+C:\Udemy\C# COMPLETO\csharpcourse\section-11\CreatingCustomExeptions\CreatingCustomExeptions\obj\Debug\net7.0\CreatingCustomExeptions.csproj.AssemblyReference.cache
+C:\Udemy\C# COMPLETO\csharpcourse\section-11\CreatingCustomExeptions\CreatingCustomExeptions\obj\Debug\net7.0\CreatingCustomExeptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Udemy\C# COMPLETO\csharpcourse\section-11\CreatingCustomExeptions\CreatingCustomExeptions\obj\Debug\net7.0\CreatingCustomExeptions.AssemblyInfoInputs.cache
+C:\Udemy\C# COMPLETO\csharpcourse\section-11\CreatingCustomExeptions\CreatingCustomExeptions\obj\Debug\net7.0\CreatingCustomExeptions.AssemblyInfo.cs
+C:\Udemy\C# COMPLETO\csharpcourse\section-11\CreatingCustomExeptions\CreatingCustomExeptions\obj\Debug\net7.0\CreatingCustomExeptions.csproj.CoreCompileInputs.cache
+C:\Udemy\C# COMPLETO\csharpcourse\section-11\CreatingCustomExeptions\CreatingCustomExeptions\obj\Debug\net7.0\CreatingCustomExeptions.dll
+C:\Udemy\C# COMPLETO\csharpcourse\section-11\CreatingCustomExeptions\CreatingCustomExeptions\obj\Debug\net7.0\refint\CreatingCustomExeptions.dll
+C:\Udemy\C# COMPLETO\csharpcourse\section-11\CreatingCustomExeptions\CreatingCustomExeptions\obj\Debug\net7.0\CreatingCustomExeptions.pdb
+C:\Udemy\C# COMPLETO\csharpcourse\section-11\CreatingCustomExeptions\CreatingCustomExeptions\obj\Debug\net7.0\CreatingCustomExeptions.genruntimeconfig.cache
+C:\Udemy\C# COMPLETO\csharpcourse\section-11\CreatingCustomExeptions\CreatingCustomExeptions\obj\Debug\net7.0\ref\CreatingCustomExeptions.dll
