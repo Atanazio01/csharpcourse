@@ -1,0 +1,15 @@
+C:\Udemy\C# COMPLETO\csharpcourse\section-13\FileAndFileInfo\FileAndFileInfo\bin\Debug\net7.0\FileAndFileInfo.exe
+C:\Udemy\C# COMPLETO\csharpcourse\section-13\FileAndFileInfo\FileAndFileInfo\bin\Debug\net7.0\FileAndFileInfo.deps.json
+C:\Udemy\C# COMPLETO\csharpcourse\section-13\FileAndFileInfo\FileAndFileInfo\bin\Debug\net7.0\FileAndFileInfo.runtimeconfig.json
+C:\Udemy\C# COMPLETO\csharpcourse\section-13\FileAndFileInfo\FileAndFileInfo\bin\Debug\net7.0\FileAndFileInfo.dll
+C:\Udemy\C# COMPLETO\csharpcourse\section-13\FileAndFileInfo\FileAndFileInfo\bin\Debug\net7.0\FileAndFileInfo.pdb
+C:\Udemy\C# COMPLETO\csharpcourse\section-13\FileAndFileInfo\FileAndFileInfo\obj\Debug\net7.0\FileAndFileInfo.csproj.AssemblyReference.cache
+C:\Udemy\C# COMPLETO\csharpcourse\section-13\FileAndFileInfo\FileAndFileInfo\obj\Debug\net7.0\FileAndFileInfo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Udemy\C# COMPLETO\csharpcourse\section-13\FileAndFileInfo\FileAndFileInfo\obj\Debug\net7.0\FileAndFileInfo.AssemblyInfoInputs.cache
+C:\Udemy\C# COMPLETO\csharpcourse\section-13\FileAndFileInfo\FileAndFileInfo\obj\Debug\net7.0\FileAndFileInfo.AssemblyInfo.cs
+C:\Udemy\C# COMPLETO\csharpcourse\section-13\FileAndFileInfo\FileAndFileInfo\obj\Debug\net7.0\FileAndFileInfo.csproj.CoreCompileInputs.cache
+C:\Udemy\C# COMPLETO\csharpcourse\section-13\FileAndFileInfo\FileAndFileInfo\obj\Debug\net7.0\FileAndFileInfo.dll
+C:\Udemy\C# COMPLETO\csharpcourse\section-13\FileAndFileInfo\FileAndFileInfo\obj\Debug\net7.0\refint\FileAndFileInfo.dll
+C:\Udemy\C# COMPLETO\csharpcourse\section-13\FileAndFileInfo\FileAndFileInfo\obj\Debug\net7.0\FileAndFileInfo.pdb
+C:\Udemy\C# COMPLETO\csharpcourse\section-13\FileAndFileInfo\FileAndFileInfo\obj\Debug\net7.0\FileAndFileInfo.genruntimeconfig.cache
+C:\Udemy\C# COMPLETO\csharpcourse\section-13\FileAndFileInfo\FileAndFileInfo\obj\Debug\net7.0\ref\FileAndFileInfo.dll
