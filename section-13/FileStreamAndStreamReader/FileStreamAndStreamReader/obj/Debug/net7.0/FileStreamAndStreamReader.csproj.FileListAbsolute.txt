@@ -1,0 +1,15 @@
+C:\Udemy\C# COMPLETO\csharpcourse\section-13\FileStreamAndStreamReader\FileStreamAndStreamReader\bin\Debug\net7.0\FileStreamAndStreamReader.exe
+C:\Udemy\C# COMPLETO\csharpcourse\section-13\FileStreamAndStreamReader\FileStreamAndStreamReader\bin\Debug\net7.0\FileStreamAndStreamReader.deps.json
+C:\Udemy\C# COMPLETO\csharpcourse\section-13\FileStreamAndStreamReader\FileStreamAndStreamReader\bin\Debug\net7.0\FileStreamAndStreamReader.runtimeconfig.json
+C:\Udemy\C# COMPLETO\csharpcourse\section-13\FileStreamAndStreamReader\FileStreamAndStreamReader\bin\Debug\net7.0\FileStreamAndStreamReader.dll
+C:\Udemy\C# COMPLETO\csharpcourse\section-13\FileStreamAndStreamReader\FileStreamAndStreamReader\bin\Debug\net7.0\FileStreamAndStreamReader.pdb
+C:\Udemy\C# COMPLETO\csharpcourse\section-13\FileStreamAndStreamReader\FileStreamAndStreamReader\obj\Debug\net7.0\FileStreamAndStreamReader.csproj.AssemblyReference.cache
+C:\Udemy\C# COMPLETO\csharpcourse\section-13\FileStreamAndStreamReader\FileStreamAndStreamReader\obj\Debug\net7.0\FileStreamAndStreamReader.GeneratedMSBuildEditorConfig.editorconfig
+C:\Udemy\C# COMPLETO\csharpcourse\section-13\FileStreamAndStreamReader\FileStreamAndStreamReader\obj\Debug\net7.0\FileStreamAndStreamReader.AssemblyInfoInputs.cache
+C:\Udemy\C# COMPLETO\csharpcourse\section-13\FileStreamAndStreamReader\FileStreamAndStreamReader\obj\Debug\net7.0\FileStreamAndStreamReader.AssemblyInfo.cs
+C:\Udemy\C# COMPLETO\csharpcourse\section-13\FileStreamAndStreamReader\FileStreamAndStreamReader\obj\Debug\net7.0\FileStreamAndStreamReader.csproj.CoreCompileInputs.cache
+C:\Udemy\C# COMPLETO\csharpcourse\section-13\FileStreamAndStreamReader\FileStreamAndStreamReader\obj\Debug\net7.0\FileStreamAndStreamReader.dll
+C:\Udemy\C# COMPLETO\csharpcourse\section-13\FileStreamAndStreamReader\FileStreamAndStreamReader\obj\Debug\net7.0\refint\FileStreamAndStreamReader.dll
+C:\Udemy\C# COMPLETO\csharpcourse\section-13\FileStreamAndStreamReader\FileStreamAndStreamReader\obj\Debug\net7.0\FileStreamAndStreamReader.pdb
+C:\Udemy\C# COMPLETO\csharpcourse\section-13\FileStreamAndStreamReader\FileStreamAndStreamReader\obj\Debug\net7.0\FileStreamAndStreamReader.genruntimeconfig.cache
+C:\Udemy\C# COMPLETO\csharpcourse\section-13\FileStreamAndStreamReader\FileStreamAndStreamReader\obj\Debug\net7.0\ref\FileStreamAndStreamReader.dll
