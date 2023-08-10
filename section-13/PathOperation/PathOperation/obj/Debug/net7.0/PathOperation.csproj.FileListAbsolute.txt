@@ -1,0 +1,15 @@
+C:\Udemy\C# COMPLETO\csharpcourse\section-13\PathOperation\PathOperation\bin\Debug\net7.0\PathOperation.exe
+C:\Udemy\C# COMPLETO\csharpcourse\section-13\PathOperation\PathOperation\bin\Debug\net7.0\PathOperation.deps.json
+C:\Udemy\C# COMPLETO\csharpcourse\section-13\PathOperation\PathOperation\bin\Debug\net7.0\PathOperation.runtimeconfig.json
+C:\Udemy\C# COMPLETO\csharpcourse\section-13\PathOperation\PathOperation\bin\Debug\net7.0\PathOperation.dll
+C:\Udemy\C# COMPLETO\csharpcourse\section-13\PathOperation\PathOperation\bin\Debug\net7.0\PathOperation.pdb
+C:\Udemy\C# COMPLETO\csharpcourse\section-13\PathOperation\PathOperation\obj\Debug\net7.0\PathOperation.csproj.AssemblyReference.cache
+C:\Udemy\C# COMPLETO\csharpcourse\section-13\PathOperation\PathOperation\obj\Debug\net7.0\PathOperation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Udemy\C# COMPLETO\csharpcourse\section-13\PathOperation\PathOperation\obj\Debug\net7.0\PathOperation.AssemblyInfoInputs.cache
+C:\Udemy\C# COMPLETO\csharpcourse\section-13\PathOperation\PathOperation\obj\Debug\net7.0\PathOperation.AssemblyInfo.cs
+C:\Udemy\C# COMPLETO\csharpcourse\section-13\PathOperation\PathOperation\obj\Debug\net7.0\PathOperation.csproj.CoreCompileInputs.cache
+C:\Udemy\C# COMPLETO\csharpcourse\section-13\PathOperation\PathOperation\obj\Debug\net7.0\PathOperation.dll
+C:\Udemy\C# COMPLETO\csharpcourse\section-13\PathOperation\PathOperation\obj\Debug\net7.0\refint\PathOperation.dll
+C:\Udemy\C# COMPLETO\csharpcourse\section-13\PathOperation\PathOperation\obj\Debug\net7.0\PathOperation.pdb
+C:\Udemy\C# COMPLETO\csharpcourse\section-13\PathOperation\PathOperation\obj\Debug\net7.0\PathOperation.genruntimeconfig.cache
+C:\Udemy\C# COMPLETO\csharpcourse\section-13\PathOperation\PathOperation\obj\Debug\net7.0\ref\PathOperation.dll
