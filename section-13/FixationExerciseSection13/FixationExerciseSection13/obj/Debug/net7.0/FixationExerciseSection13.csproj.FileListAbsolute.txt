@@ -1,0 +1,15 @@
+C:\Udemy\C# COMPLETO\csharpcourse\section-13\FixationExerciseSection13\FixationExerciseSection13\bin\Debug\net7.0\FixationExerciseSection13.exe
+C:\Udemy\C# COMPLETO\csharpcourse\section-13\FixationExerciseSection13\FixationExerciseSection13\bin\Debug\net7.0\FixationExerciseSection13.deps.json
+C:\Udemy\C# COMPLETO\csharpcourse\section-13\FixationExerciseSection13\FixationExerciseSection13\bin\Debug\net7.0\FixationExerciseSection13.runtimeconfig.json
+C:\Udemy\C# COMPLETO\csharpcourse\section-13\FixationExerciseSection13\FixationExerciseSection13\bin\Debug\net7.0\FixationExerciseSection13.dll
+C:\Udemy\C# COMPLETO\csharpcourse\section-13\FixationExerciseSection13\FixationExerciseSection13\bin\Debug\net7.0\FixationExerciseSection13.pdb
+C:\Udemy\C# COMPLETO\csharpcourse\section-13\FixationExerciseSection13\FixationExerciseSection13\obj\Debug\net7.0\FixationExerciseSection13.csproj.AssemblyReference.cache
+C:\Udemy\C# COMPLETO\csharpcourse\section-13\FixationExerciseSection13\FixationExerciseSection13\obj\Debug\net7.0\FixationExerciseSection13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Udemy\C# COMPLETO\csharpcourse\section-13\FixationExerciseSection13\FixationExerciseSection13\obj\Debug\net7.0\FixationExerciseSection13.AssemblyInfoInputs.cache
+C:\Udemy\C# COMPLETO\csharpcourse\section-13\FixationExerciseSection13\FixationExerciseSection13\obj\Debug\net7.0\FixationExerciseSection13.AssemblyInfo.cs
+C:\Udemy\C# COMPLETO\csharpcourse\section-13\FixationExerciseSection13\FixationExerciseSection13\obj\Debug\net7.0\FixationExerciseSection13.csproj.CoreCompileInputs.cache
+C:\Udemy\C# COMPLETO\csharpcourse\section-13\FixationExerciseSection13\FixationExerciseSection13\obj\Debug\net7.0\FixationExerciseSection13.dll
+C:\Udemy\C# COMPLETO\csharpcourse\section-13\FixationExerciseSection13\FixationExerciseSection13\obj\Debug\net7.0\refint\FixationExerciseSection13.dll
+C:\Udemy\C# COMPLETO\csharpcourse\section-13\FixationExerciseSection13\FixationExerciseSection13\obj\Debug\net7.0\FixationExerciseSection13.pdb
+C:\Udemy\C# COMPLETO\csharpcourse\section-13\FixationExerciseSection13\FixationExerciseSection13\obj\Debug\net7.0\FixationExerciseSection13.genruntimeconfig.cache
+C:\Udemy\C# COMPLETO\csharpcourse\section-13\FixationExerciseSection13\FixationExerciseSection13\obj\Debug\net7.0\ref\FixationExerciseSection13.dll
