@@ -1,0 +1,15 @@
+C:\Udemy\C# COMPLETO\csharpcourse\section-14\InterfaceSolution\InterfaceSolution\bin\Debug\net7.0\InterfaceSolution.exe
+C:\Udemy\C# COMPLETO\csharpcourse\section-14\InterfaceSolution\InterfaceSolution\bin\Debug\net7.0\InterfaceSolution.deps.json
+C:\Udemy\C# COMPLETO\csharpcourse\section-14\InterfaceSolution\InterfaceSolution\bin\Debug\net7.0\InterfaceSolution.runtimeconfig.json
+C:\Udemy\C# COMPLETO\csharpcourse\section-14\InterfaceSolution\InterfaceSolution\bin\Debug\net7.0\InterfaceSolution.dll
+C:\Udemy\C# COMPLETO\csharpcourse\section-14\InterfaceSolution\InterfaceSolution\bin\Debug\net7.0\InterfaceSolution.pdb
+C:\Udemy\C# COMPLETO\csharpcourse\section-14\InterfaceSolution\InterfaceSolution\obj\Debug\net7.0\InterfaceSolution.csproj.AssemblyReference.cache
+C:\Udemy\C# COMPLETO\csharpcourse\section-14\InterfaceSolution\InterfaceSolution\obj\Debug\net7.0\InterfaceSolution.GeneratedMSBuildEditorConfig.editorconfig
+C:\Udemy\C# COMPLETO\csharpcourse\section-14\InterfaceSolution\InterfaceSolution\obj\Debug\net7.0\InterfaceSolution.AssemblyInfoInputs.cache
+C:\Udemy\C# COMPLETO\csharpcourse\section-14\InterfaceSolution\InterfaceSolution\obj\Debug\net7.0\InterfaceSolution.AssemblyInfo.cs
+C:\Udemy\C# COMPLETO\csharpcourse\section-14\InterfaceSolution\InterfaceSolution\obj\Debug\net7.0\InterfaceSolution.csproj.CoreCompileInputs.cache
+C:\Udemy\C# COMPLETO\csharpcourse\section-14\InterfaceSolution\InterfaceSolution\obj\Debug\net7.0\InterfaceSolution.dll
+C:\Udemy\C# COMPLETO\csharpcourse\section-14\InterfaceSolution\InterfaceSolution\obj\Debug\net7.0\refint\InterfaceSolution.dll
+C:\Udemy\C# COMPLETO\csharpcourse\section-14\InterfaceSolution\InterfaceSolution\obj\Debug\net7.0\InterfaceSolution.pdb
+C:\Udemy\C# COMPLETO\csharpcourse\section-14\InterfaceSolution\InterfaceSolution\obj\Debug\net7.0\InterfaceSolution.genruntimeconfig.cache
+C:\Udemy\C# COMPLETO\csharpcourse\section-14\InterfaceSolution\InterfaceSolution\obj\Debug\net7.0\ref\InterfaceSolution.dll
