@@ -1,0 +1,15 @@
+C:\Udemy\C# COMPLETO\csharpcourse\section-13\DirectoryAndDirectoryInfo\DirectoryAndDirectoryInfo\bin\Debug\net7.0\DirectoryAndDirectoryInfo.exe
+C:\Udemy\C# COMPLETO\csharpcourse\section-13\DirectoryAndDirectoryInfo\DirectoryAndDirectoryInfo\bin\Debug\net7.0\DirectoryAndDirectoryInfo.deps.json
+C:\Udemy\C# COMPLETO\csharpcourse\section-13\DirectoryAndDirectoryInfo\DirectoryAndDirectoryInfo\bin\Debug\net7.0\DirectoryAndDirectoryInfo.runtimeconfig.json
+C:\Udemy\C# COMPLETO\csharpcourse\section-13\DirectoryAndDirectoryInfo\DirectoryAndDirectoryInfo\bin\Debug\net7.0\DirectoryAndDirectoryInfo.dll
+C:\Udemy\C# COMPLETO\csharpcourse\section-13\DirectoryAndDirectoryInfo\DirectoryAndDirectoryInfo\bin\Debug\net7.0\DirectoryAndDirectoryInfo.pdb
+C:\Udemy\C# COMPLETO\csharpcourse\section-13\DirectoryAndDirectoryInfo\DirectoryAndDirectoryInfo\obj\Debug\net7.0\DirectoryAndDirectoryInfo.csproj.AssemblyReference.cache
+C:\Udemy\C# COMPLETO\csharpcourse\section-13\DirectoryAndDirectoryInfo\DirectoryAndDirectoryInfo\obj\Debug\net7.0\DirectoryAndDirectoryInfo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Udemy\C# COMPLETO\csharpcourse\section-13\DirectoryAndDirectoryInfo\DirectoryAndDirectoryInfo\obj\Debug\net7.0\DirectoryAndDirectoryInfo.AssemblyInfoInputs.cache
+C:\Udemy\C# COMPLETO\csharpcourse\section-13\DirectoryAndDirectoryInfo\DirectoryAndDirectoryInfo\obj\Debug\net7.0\DirectoryAndDirectoryInfo.AssemblyInfo.cs
+C:\Udemy\C# COMPLETO\csharpcourse\section-13\DirectoryAndDirectoryInfo\DirectoryAndDirectoryInfo\obj\Debug\net7.0\DirectoryAndDirectoryInfo.csproj.CoreCompileInputs.cache
+C:\Udemy\C# COMPLETO\csharpcourse\section-13\DirectoryAndDirectoryInfo\DirectoryAndDirectoryInfo\obj\Debug\net7.0\DirectoryAndDirectoryInfo.dll
+C:\Udemy\C# COMPLETO\csharpcourse\section-13\DirectoryAndDirectoryInfo\DirectoryAndDirectoryInfo\obj\Debug\net7.0\refint\DirectoryAndDirectoryInfo.dll
+C:\Udemy\C# COMPLETO\csharpcourse\section-13\DirectoryAndDirectoryInfo\DirectoryAndDirectoryInfo\obj\Debug\net7.0\DirectoryAndDirectoryInfo.pdb
+C:\Udemy\C# COMPLETO\csharpcourse\section-13\DirectoryAndDirectoryInfo\DirectoryAndDirectoryInfo\obj\Debug\net7.0\DirectoryAndDirectoryInfo.genruntimeconfig.cache
+C:\Udemy\C# COMPLETO\csharpcourse\section-13\DirectoryAndDirectoryInfo\DirectoryAndDirectoryInfo\obj\Debug\net7.0\ref\DirectoryAndDirectoryInfo.dll
