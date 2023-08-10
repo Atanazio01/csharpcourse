@@ -1,0 +1,15 @@
+C:\Udemy\C# COMPLETO\csharpcourse\section-13\UsingBlock\UsingBlock\bin\Debug\net7.0\UsingBlock.exe
+C:\Udemy\C# COMPLETO\csharpcourse\section-13\UsingBlock\UsingBlock\bin\Debug\net7.0\UsingBlock.deps.json
+C:\Udemy\C# COMPLETO\csharpcourse\section-13\UsingBlock\UsingBlock\bin\Debug\net7.0\UsingBlock.runtimeconfig.json
+C:\Udemy\C# COMPLETO\csharpcourse\section-13\UsingBlock\UsingBlock\bin\Debug\net7.0\UsingBlock.dll
+C:\Udemy\C# COMPLETO\csharpcourse\section-13\UsingBlock\UsingBlock\bin\Debug\net7.0\UsingBlock.pdb
+C:\Udemy\C# COMPLETO\csharpcourse\section-13\UsingBlock\UsingBlock\obj\Debug\net7.0\UsingBlock.csproj.AssemblyReference.cache
+C:\Udemy\C# COMPLETO\csharpcourse\section-13\UsingBlock\UsingBlock\obj\Debug\net7.0\UsingBlock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Udemy\C# COMPLETO\csharpcourse\section-13\UsingBlock\UsingBlock\obj\Debug\net7.0\UsingBlock.AssemblyInfoInputs.cache
+C:\Udemy\C# COMPLETO\csharpcourse\section-13\UsingBlock\UsingBlock\obj\Debug\net7.0\UsingBlock.AssemblyInfo.cs
+C:\Udemy\C# COMPLETO\csharpcourse\section-13\UsingBlock\UsingBlock\obj\Debug\net7.0\UsingBlock.csproj.CoreCompileInputs.cache
+C:\Udemy\C# COMPLETO\csharpcourse\section-13\UsingBlock\UsingBlock\obj\Debug\net7.0\UsingBlock.dll
+C:\Udemy\C# COMPLETO\csharpcourse\section-13\UsingBlock\UsingBlock\obj\Debug\net7.0\refint\UsingBlock.dll
+C:\Udemy\C# COMPLETO\csharpcourse\section-13\UsingBlock\UsingBlock\obj\Debug\net7.0\UsingBlock.pdb
+C:\Udemy\C# COMPLETO\csharpcourse\section-13\UsingBlock\UsingBlock\obj\Debug\net7.0\UsingBlock.genruntimeconfig.cache
+C:\Udemy\C# COMPLETO\csharpcourse\section-13\UsingBlock\UsingBlock\obj\Debug\net7.0\ref\UsingBlock.dll
