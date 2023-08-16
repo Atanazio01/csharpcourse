@@ -1,0 +1,15 @@
+C:\Udemy\C# COMPLETO\csharpcourse\section-14\InheritvsFulfillContract\InheritvsFulfillContract\bin\Debug\net7.0\InheritvsFulfillContract.exe
+C:\Udemy\C# COMPLETO\csharpcourse\section-14\InheritvsFulfillContract\InheritvsFulfillContract\bin\Debug\net7.0\InheritvsFulfillContract.deps.json
+C:\Udemy\C# COMPLETO\csharpcourse\section-14\InheritvsFulfillContract\InheritvsFulfillContract\bin\Debug\net7.0\InheritvsFulfillContract.runtimeconfig.json
+C:\Udemy\C# COMPLETO\csharpcourse\section-14\InheritvsFulfillContract\InheritvsFulfillContract\bin\Debug\net7.0\InheritvsFulfillContract.dll
+C:\Udemy\C# COMPLETO\csharpcourse\section-14\InheritvsFulfillContract\InheritvsFulfillContract\bin\Debug\net7.0\InheritvsFulfillContract.pdb
+C:\Udemy\C# COMPLETO\csharpcourse\section-14\InheritvsFulfillContract\InheritvsFulfillContract\obj\Debug\net7.0\InheritvsFulfillContract.csproj.AssemblyReference.cache
+C:\Udemy\C# COMPLETO\csharpcourse\section-14\InheritvsFulfillContract\InheritvsFulfillContract\obj\Debug\net7.0\InheritvsFulfillContract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Udemy\C# COMPLETO\csharpcourse\section-14\InheritvsFulfillContract\InheritvsFulfillContract\obj\Debug\net7.0\InheritvsFulfillContract.AssemblyInfoInputs.cache
+C:\Udemy\C# COMPLETO\csharpcourse\section-14\InheritvsFulfillContract\InheritvsFulfillContract\obj\Debug\net7.0\InheritvsFulfillContract.AssemblyInfo.cs
+C:\Udemy\C# COMPLETO\csharpcourse\section-14\InheritvsFulfillContract\InheritvsFulfillContract\obj\Debug\net7.0\InheritvsFulfillContract.csproj.CoreCompileInputs.cache
+C:\Udemy\C# COMPLETO\csharpcourse\section-14\InheritvsFulfillContract\InheritvsFulfillContract\obj\Debug\net7.0\InheritvsFulfillContract.dll
+C:\Udemy\C# COMPLETO\csharpcourse\section-14\InheritvsFulfillContract\InheritvsFulfillContract\obj\Debug\net7.0\refint\InheritvsFulfillContract.dll
+C:\Udemy\C# COMPLETO\csharpcourse\section-14\InheritvsFulfillContract\InheritvsFulfillContract\obj\Debug\net7.0\InheritvsFulfillContract.pdb
+C:\Udemy\C# COMPLETO\csharpcourse\section-14\InheritvsFulfillContract\InheritvsFulfillContract\obj\Debug\net7.0\InheritvsFulfillContract.genruntimeconfig.cache
+C:\Udemy\C# COMPLETO\csharpcourse\section-14\InheritvsFulfillContract\InheritvsFulfillContract\obj\Debug\net7.0\ref\InheritvsFulfillContract.dll
