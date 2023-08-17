@@ -1,0 +1,15 @@
+C:\Udemy\C# COMPLETO\csharpcourse\section-14\FixationExerciseInterfaces\FixationExerciseInterfaces\bin\Debug\net7.0\FixationExerciseInterfaces.exe
+C:\Udemy\C# COMPLETO\csharpcourse\section-14\FixationExerciseInterfaces\FixationExerciseInterfaces\bin\Debug\net7.0\FixationExerciseInterfaces.deps.json
+C:\Udemy\C# COMPLETO\csharpcourse\section-14\FixationExerciseInterfaces\FixationExerciseInterfaces\bin\Debug\net7.0\FixationExerciseInterfaces.runtimeconfig.json
+C:\Udemy\C# COMPLETO\csharpcourse\section-14\FixationExerciseInterfaces\FixationExerciseInterfaces\bin\Debug\net7.0\FixationExerciseInterfaces.dll
+C:\Udemy\C# COMPLETO\csharpcourse\section-14\FixationExerciseInterfaces\FixationExerciseInterfaces\bin\Debug\net7.0\FixationExerciseInterfaces.pdb
+C:\Udemy\C# COMPLETO\csharpcourse\section-14\FixationExerciseInterfaces\FixationExerciseInterfaces\obj\Debug\net7.0\FixationExerciseInterfaces.csproj.AssemblyReference.cache
+C:\Udemy\C# COMPLETO\csharpcourse\section-14\FixationExerciseInterfaces\FixationExerciseInterfaces\obj\Debug\net7.0\FixationExerciseInterfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Udemy\C# COMPLETO\csharpcourse\section-14\FixationExerciseInterfaces\FixationExerciseInterfaces\obj\Debug\net7.0\FixationExerciseInterfaces.AssemblyInfoInputs.cache
+C:\Udemy\C# COMPLETO\csharpcourse\section-14\FixationExerciseInterfaces\FixationExerciseInterfaces\obj\Debug\net7.0\FixationExerciseInterfaces.AssemblyInfo.cs
+C:\Udemy\C# COMPLETO\csharpcourse\section-14\FixationExerciseInterfaces\FixationExerciseInterfaces\obj\Debug\net7.0\FixationExerciseInterfaces.csproj.CoreCompileInputs.cache
+C:\Udemy\C# COMPLETO\csharpcourse\section-14\FixationExerciseInterfaces\FixationExerciseInterfaces\obj\Debug\net7.0\FixationExerciseInterfaces.dll
+C:\Udemy\C# COMPLETO\csharpcourse\section-14\FixationExerciseInterfaces\FixationExerciseInterfaces\obj\Debug\net7.0\refint\FixationExerciseInterfaces.dll
+C:\Udemy\C# COMPLETO\csharpcourse\section-14\FixationExerciseInterfaces\FixationExerciseInterfaces\obj\Debug\net7.0\FixationExerciseInterfaces.pdb
+C:\Udemy\C# COMPLETO\csharpcourse\section-14\FixationExerciseInterfaces\FixationExerciseInterfaces\obj\Debug\net7.0\FixationExerciseInterfaces.genruntimeconfig.cache
+C:\Udemy\C# COMPLETO\csharpcourse\section-14\FixationExerciseInterfaces\FixationExerciseInterfaces\obj\Debug\net7.0\ref\FixationExerciseInterfaces.dll
