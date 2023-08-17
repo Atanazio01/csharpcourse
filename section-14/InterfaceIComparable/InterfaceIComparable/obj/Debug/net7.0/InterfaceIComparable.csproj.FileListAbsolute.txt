@@ -1,0 +1,15 @@
+C:\Udemy\C# COMPLETO\csharpcourse\section-14\InterfaceIComparable\InterfaceIComparable\bin\Debug\net7.0\InterfaceIComparable.exe
+C:\Udemy\C# COMPLETO\csharpcourse\section-14\InterfaceIComparable\InterfaceIComparable\bin\Debug\net7.0\InterfaceIComparable.deps.json
+C:\Udemy\C# COMPLETO\csharpcourse\section-14\InterfaceIComparable\InterfaceIComparable\bin\Debug\net7.0\InterfaceIComparable.runtimeconfig.json
+C:\Udemy\C# COMPLETO\csharpcourse\section-14\InterfaceIComparable\InterfaceIComparable\bin\Debug\net7.0\InterfaceIComparable.dll
+C:\Udemy\C# COMPLETO\csharpcourse\section-14\InterfaceIComparable\InterfaceIComparable\bin\Debug\net7.0\InterfaceIComparable.pdb
+C:\Udemy\C# COMPLETO\csharpcourse\section-14\InterfaceIComparable\InterfaceIComparable\obj\Debug\net7.0\InterfaceIComparable.csproj.AssemblyReference.cache
+C:\Udemy\C# COMPLETO\csharpcourse\section-14\InterfaceIComparable\InterfaceIComparable\obj\Debug\net7.0\InterfaceIComparable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Udemy\C# COMPLETO\csharpcourse\section-14\InterfaceIComparable\InterfaceIComparable\obj\Debug\net7.0\InterfaceIComparable.AssemblyInfoInputs.cache
+C:\Udemy\C# COMPLETO\csharpcourse\section-14\InterfaceIComparable\InterfaceIComparable\obj\Debug\net7.0\InterfaceIComparable.AssemblyInfo.cs
+C:\Udemy\C# COMPLETO\csharpcourse\section-14\InterfaceIComparable\InterfaceIComparable\obj\Debug\net7.0\InterfaceIComparable.csproj.CoreCompileInputs.cache
+C:\Udemy\C# COMPLETO\csharpcourse\section-14\InterfaceIComparable\InterfaceIComparable\obj\Debug\net7.0\InterfaceIComparable.dll
+C:\Udemy\C# COMPLETO\csharpcourse\section-14\InterfaceIComparable\InterfaceIComparable\obj\Debug\net7.0\refint\InterfaceIComparable.dll
+C:\Udemy\C# COMPLETO\csharpcourse\section-14\InterfaceIComparable\InterfaceIComparable\obj\Debug\net7.0\InterfaceIComparable.pdb
+C:\Udemy\C# COMPLETO\csharpcourse\section-14\InterfaceIComparable\InterfaceIComparable\obj\Debug\net7.0\InterfaceIComparable.genruntimeconfig.cache
+C:\Udemy\C# COMPLETO\csharpcourse\section-14\InterfaceIComparable\InterfaceIComparable\obj\Debug\net7.0\ref\InterfaceIComparable.dll
