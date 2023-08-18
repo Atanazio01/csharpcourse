@@ -1,0 +1,15 @@
+C:\Udemy\C# COMPLETO\csharpcourse\section-15\GenericRestrictions\GenericRestrictions\bin\Debug\net7.0\GenericRestrictions.exe
+C:\Udemy\C# COMPLETO\csharpcourse\section-15\GenericRestrictions\GenericRestrictions\bin\Debug\net7.0\GenericRestrictions.deps.json
+C:\Udemy\C# COMPLETO\csharpcourse\section-15\GenericRestrictions\GenericRestrictions\bin\Debug\net7.0\GenericRestrictions.runtimeconfig.json
+C:\Udemy\C# COMPLETO\csharpcourse\section-15\GenericRestrictions\GenericRestrictions\bin\Debug\net7.0\GenericRestrictions.dll
+C:\Udemy\C# COMPLETO\csharpcourse\section-15\GenericRestrictions\GenericRestrictions\bin\Debug\net7.0\GenericRestrictions.pdb
+C:\Udemy\C# COMPLETO\csharpcourse\section-15\GenericRestrictions\GenericRestrictions\obj\Debug\net7.0\GenericRestrictions.csproj.AssemblyReference.cache
+C:\Udemy\C# COMPLETO\csharpcourse\section-15\GenericRestrictions\GenericRestrictions\obj\Debug\net7.0\GenericRestrictions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Udemy\C# COMPLETO\csharpcourse\section-15\GenericRestrictions\GenericRestrictions\obj\Debug\net7.0\GenericRestrictions.AssemblyInfoInputs.cache
+C:\Udemy\C# COMPLETO\csharpcourse\section-15\GenericRestrictions\GenericRestrictions\obj\Debug\net7.0\GenericRestrictions.AssemblyInfo.cs
+C:\Udemy\C# COMPLETO\csharpcourse\section-15\GenericRestrictions\GenericRestrictions\obj\Debug\net7.0\GenericRestrictions.csproj.CoreCompileInputs.cache
+C:\Udemy\C# COMPLETO\csharpcourse\section-15\GenericRestrictions\GenericRestrictions\obj\Debug\net7.0\GenericRestrictions.dll
+C:\Udemy\C# COMPLETO\csharpcourse\section-15\GenericRestrictions\GenericRestrictions\obj\Debug\net7.0\refint\GenericRestrictions.dll
+C:\Udemy\C# COMPLETO\csharpcourse\section-15\GenericRestrictions\GenericRestrictions\obj\Debug\net7.0\GenericRestrictions.pdb
+C:\Udemy\C# COMPLETO\csharpcourse\section-15\GenericRestrictions\GenericRestrictions\obj\Debug\net7.0\GenericRestrictions.genruntimeconfig.cache
+C:\Udemy\C# COMPLETO\csharpcourse\section-15\GenericRestrictions\GenericRestrictions\obj\Debug\net7.0\ref\GenericRestrictions.dll
