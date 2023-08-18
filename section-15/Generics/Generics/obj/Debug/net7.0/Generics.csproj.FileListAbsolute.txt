@@ -1,0 +1,15 @@
+C:\Udemy\C# COMPLETO\csharpcourse\section-15\Generics\Generics\bin\Debug\net7.0\Generics.exe
+C:\Udemy\C# COMPLETO\csharpcourse\section-15\Generics\Generics\bin\Debug\net7.0\Generics.deps.json
+C:\Udemy\C# COMPLETO\csharpcourse\section-15\Generics\Generics\bin\Debug\net7.0\Generics.runtimeconfig.json
+C:\Udemy\C# COMPLETO\csharpcourse\section-15\Generics\Generics\bin\Debug\net7.0\Generics.dll
+C:\Udemy\C# COMPLETO\csharpcourse\section-15\Generics\Generics\bin\Debug\net7.0\Generics.pdb
+C:\Udemy\C# COMPLETO\csharpcourse\section-15\Generics\Generics\obj\Debug\net7.0\Generics.csproj.AssemblyReference.cache
+C:\Udemy\C# COMPLETO\csharpcourse\section-15\Generics\Generics\obj\Debug\net7.0\Generics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Udemy\C# COMPLETO\csharpcourse\section-15\Generics\Generics\obj\Debug\net7.0\Generics.AssemblyInfoInputs.cache
+C:\Udemy\C# COMPLETO\csharpcourse\section-15\Generics\Generics\obj\Debug\net7.0\Generics.AssemblyInfo.cs
+C:\Udemy\C# COMPLETO\csharpcourse\section-15\Generics\Generics\obj\Debug\net7.0\Generics.csproj.CoreCompileInputs.cache
+C:\Udemy\C# COMPLETO\csharpcourse\section-15\Generics\Generics\obj\Debug\net7.0\Generics.dll
+C:\Udemy\C# COMPLETO\csharpcourse\section-15\Generics\Generics\obj\Debug\net7.0\refint\Generics.dll
+C:\Udemy\C# COMPLETO\csharpcourse\section-15\Generics\Generics\obj\Debug\net7.0\Generics.pdb
+C:\Udemy\C# COMPLETO\csharpcourse\section-15\Generics\Generics\obj\Debug\net7.0\Generics.genruntimeconfig.cache
+C:\Udemy\C# COMPLETO\csharpcourse\section-15\Generics\Generics\obj\Debug\net7.0\ref\Generics.dll
