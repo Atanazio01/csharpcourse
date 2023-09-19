@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Udemy\\C# COMPLETO\\csharpcourse\\section-15\\GenericRestrictions\\GenericRestrictions\\GenericRestrictions.csproj": {}
+    "C:\\udemy\\csharpcourse\\section-15\\GenericRestrictions\\GenericRestrictions\\GenericRestrictions.csproj": {}
   },
   "projects": {
-    "C:\\Udemy\\C# COMPLETO\\csharpcourse\\section-15\\GenericRestrictions\\GenericRestrictions\\GenericRestrictions.csproj": {
+    "C:\\udemy\\csharpcourse\\section-15\\GenericRestrictions\\GenericRestrictions\\GenericRestrictions.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Udemy\\C# COMPLETO\\csharpcourse\\section-15\\GenericRestrictions\\GenericRestrictions\\GenericRestrictions.csproj",
+        "projectUniqueName": "C:\\udemy\\csharpcourse\\section-15\\GenericRestrictions\\GenericRestrictions\\GenericRestrictions.csproj",
         "projectName": "GenericRestrictions",
-        "projectPath": "C:\\Udemy\\C# COMPLETO\\csharpcourse\\section-15\\GenericRestrictions\\GenericRestrictions\\GenericRestrictions.csproj",
+        "projectPath": "C:\\udemy\\csharpcourse\\section-15\\GenericRestrictions\\GenericRestrictions\\GenericRestrictions.csproj",
         "packagesPath": "C:\\Users\\mdpla\\.nuget\\packages\\",
-        "outputPath": "C:\\Udemy\\C# COMPLETO\\csharpcourse\\section-15\\GenericRestrictions\\GenericRestrictions\\obj\\",
+        "outputPath": "C:\\udemy\\csharpcourse\\section-15\\GenericRestrictions\\GenericRestrictions\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -60,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }

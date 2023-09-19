@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "oSgG6TeKq3I34Al3w40W9cdql9ZbUQandXOgdxfNEqasSLoNoDHjjTCt5YnlaMCWUN7Unu4Zh6TOAt+02+Opbw==",
+  "dgSpecHash": "MwgQAL7NsgjM3tmGef3zbW+w8EQ2OjsAv+Ew6od+rnESXfXU2q4Oum/e0kAA0lfofpo+BpGWs1hRCGslGnmHmw==",
   "success": true,
-  "projectFilePath": "C:\\Udemy\\C# COMPLETO\\csharpcourse\\section-15\\GenericRestrictions\\GenericRestrictions\\GenericRestrictions.csproj",
+  "projectFilePath": "C:\\udemy\\csharpcourse\\section-15\\GenericRestrictions\\GenericRestrictions\\GenericRestrictions.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

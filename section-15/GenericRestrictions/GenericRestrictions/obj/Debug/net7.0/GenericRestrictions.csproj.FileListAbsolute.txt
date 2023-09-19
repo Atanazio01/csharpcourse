@@ -13,3 +13,17 @@ C:\Udemy\C# COMPLETO\csharpcourse\section-15\GenericRestrictions\GenericRestrict
 C:\Udemy\C# COMPLETO\csharpcourse\section-15\GenericRestrictions\GenericRestrictions\obj\Debug\net7.0\GenericRestrictions.pdb
 C:\Udemy\C# COMPLETO\csharpcourse\section-15\GenericRestrictions\GenericRestrictions\obj\Debug\net7.0\GenericRestrictions.genruntimeconfig.cache
 C:\Udemy\C# COMPLETO\csharpcourse\section-15\GenericRestrictions\GenericRestrictions\obj\Debug\net7.0\ref\GenericRestrictions.dll
+C:\udemy\csharpcourse\section-15\GenericRestrictions\GenericRestrictions\bin\Debug\net7.0\GenericRestrictions.exe
+C:\udemy\csharpcourse\section-15\GenericRestrictions\GenericRestrictions\bin\Debug\net7.0\GenericRestrictions.deps.json
+C:\udemy\csharpcourse\section-15\GenericRestrictions\GenericRestrictions\bin\Debug\net7.0\GenericRestrictions.runtimeconfig.json
+C:\udemy\csharpcourse\section-15\GenericRestrictions\GenericRestrictions\bin\Debug\net7.0\GenericRestrictions.dll
+C:\udemy\csharpcourse\section-15\GenericRestrictions\GenericRestrictions\bin\Debug\net7.0\GenericRestrictions.pdb
+C:\udemy\csharpcourse\section-15\GenericRestrictions\GenericRestrictions\obj\Debug\net7.0\GenericRestrictions.GeneratedMSBuildEditorConfig.editorconfig
+C:\udemy\csharpcourse\section-15\GenericRestrictions\GenericRestrictions\obj\Debug\net7.0\GenericRestrictions.AssemblyInfoInputs.cache
+C:\udemy\csharpcourse\section-15\GenericRestrictions\GenericRestrictions\obj\Debug\net7.0\GenericRestrictions.AssemblyInfo.cs
+C:\udemy\csharpcourse\section-15\GenericRestrictions\GenericRestrictions\obj\Debug\net7.0\GenericRestrictions.csproj.CoreCompileInputs.cache
+C:\udemy\csharpcourse\section-15\GenericRestrictions\GenericRestrictions\obj\Debug\net7.0\GenericRestrictions.dll
+C:\udemy\csharpcourse\section-15\GenericRestrictions\GenericRestrictions\obj\Debug\net7.0\refint\GenericRestrictions.dll
+C:\udemy\csharpcourse\section-15\GenericRestrictions\GenericRestrictions\obj\Debug\net7.0\GenericRestrictions.pdb
+C:\udemy\csharpcourse\section-15\GenericRestrictions\GenericRestrictions\obj\Debug\net7.0\GenericRestrictions.genruntimeconfig.cache
+C:\udemy\csharpcourse\section-15\GenericRestrictions\GenericRestrictions\obj\Debug\net7.0\ref\GenericRestrictions.dll
