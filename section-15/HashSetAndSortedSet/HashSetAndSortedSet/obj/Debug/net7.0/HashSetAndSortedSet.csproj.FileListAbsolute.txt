@@ -1,0 +1,14 @@
+C:\udemy\csharpcourse\section-15\HashSetAndSortedSet\HashSetAndSortedSet\bin\Debug\net7.0\HashSetAndSortedSet.exe
+C:\udemy\csharpcourse\section-15\HashSetAndSortedSet\HashSetAndSortedSet\bin\Debug\net7.0\HashSetAndSortedSet.deps.json
+C:\udemy\csharpcourse\section-15\HashSetAndSortedSet\HashSetAndSortedSet\bin\Debug\net7.0\HashSetAndSortedSet.runtimeconfig.json
+C:\udemy\csharpcourse\section-15\HashSetAndSortedSet\HashSetAndSortedSet\bin\Debug\net7.0\HashSetAndSortedSet.dll
+C:\udemy\csharpcourse\section-15\HashSetAndSortedSet\HashSetAndSortedSet\bin\Debug\net7.0\HashSetAndSortedSet.pdb
+C:\udemy\csharpcourse\section-15\HashSetAndSortedSet\HashSetAndSortedSet\obj\Debug\net7.0\HashSetAndSortedSet.GeneratedMSBuildEditorConfig.editorconfig
+C:\udemy\csharpcourse\section-15\HashSetAndSortedSet\HashSetAndSortedSet\obj\Debug\net7.0\HashSetAndSortedSet.AssemblyInfoInputs.cache
+C:\udemy\csharpcourse\section-15\HashSetAndSortedSet\HashSetAndSortedSet\obj\Debug\net7.0\HashSetAndSortedSet.AssemblyInfo.cs
+C:\udemy\csharpcourse\section-15\HashSetAndSortedSet\HashSetAndSortedSet\obj\Debug\net7.0\HashSetAndSortedSet.csproj.CoreCompileInputs.cache
+C:\udemy\csharpcourse\section-15\HashSetAndSortedSet\HashSetAndSortedSet\obj\Debug\net7.0\HashSetAndSortedSet.dll
+C:\udemy\csharpcourse\section-15\HashSetAndSortedSet\HashSetAndSortedSet\obj\Debug\net7.0\refint\HashSetAndSortedSet.dll
+C:\udemy\csharpcourse\section-15\HashSetAndSortedSet\HashSetAndSortedSet\obj\Debug\net7.0\HashSetAndSortedSet.pdb
+C:\udemy\csharpcourse\section-15\HashSetAndSortedSet\HashSetAndSortedSet\obj\Debug\net7.0\HashSetAndSortedSet.genruntimeconfig.cache
+C:\udemy\csharpcourse\section-15\HashSetAndSortedSet\HashSetAndSortedSet\obj\Debug\net7.0\ref\HashSetAndSortedSet.dll
