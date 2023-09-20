@@ -1,0 +1,14 @@
+C:\udemy\csharpcourse\section-15\GetHashCodeAndEquals\GetHashCodeAndEquals\bin\Debug\net7.0\GetHashCodeAndEquals.exe
+C:\udemy\csharpcourse\section-15\GetHashCodeAndEquals\GetHashCodeAndEquals\bin\Debug\net7.0\GetHashCodeAndEquals.deps.json
+C:\udemy\csharpcourse\section-15\GetHashCodeAndEquals\GetHashCodeAndEquals\bin\Debug\net7.0\GetHashCodeAndEquals.runtimeconfig.json
+C:\udemy\csharpcourse\section-15\GetHashCodeAndEquals\GetHashCodeAndEquals\bin\Debug\net7.0\GetHashCodeAndEquals.dll
+C:\udemy\csharpcourse\section-15\GetHashCodeAndEquals\GetHashCodeAndEquals\bin\Debug\net7.0\GetHashCodeAndEquals.pdb
+C:\udemy\csharpcourse\section-15\GetHashCodeAndEquals\GetHashCodeAndEquals\obj\Debug\net7.0\GetHashCodeAndEquals.GeneratedMSBuildEditorConfig.editorconfig
+C:\udemy\csharpcourse\section-15\GetHashCodeAndEquals\GetHashCodeAndEquals\obj\Debug\net7.0\GetHashCodeAndEquals.AssemblyInfoInputs.cache
+C:\udemy\csharpcourse\section-15\GetHashCodeAndEquals\GetHashCodeAndEquals\obj\Debug\net7.0\GetHashCodeAndEquals.AssemblyInfo.cs
+C:\udemy\csharpcourse\section-15\GetHashCodeAndEquals\GetHashCodeAndEquals\obj\Debug\net7.0\GetHashCodeAndEquals.csproj.CoreCompileInputs.cache
+C:\udemy\csharpcourse\section-15\GetHashCodeAndEquals\GetHashCodeAndEquals\obj\Debug\net7.0\GetHashCodeAndEquals.dll
+C:\udemy\csharpcourse\section-15\GetHashCodeAndEquals\GetHashCodeAndEquals\obj\Debug\net7.0\refint\GetHashCodeAndEquals.dll
+C:\udemy\csharpcourse\section-15\GetHashCodeAndEquals\GetHashCodeAndEquals\obj\Debug\net7.0\GetHashCodeAndEquals.pdb
+C:\udemy\csharpcourse\section-15\GetHashCodeAndEquals\GetHashCodeAndEquals\obj\Debug\net7.0\GetHashCodeAndEquals.genruntimeconfig.cache
+C:\udemy\csharpcourse\section-15\GetHashCodeAndEquals\GetHashCodeAndEquals\obj\Debug\net7.0\ref\GetHashCodeAndEquals.dll
