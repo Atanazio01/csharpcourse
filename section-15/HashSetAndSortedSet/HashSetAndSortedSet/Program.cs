@@ -7,18 +7,45 @@ namespace HashSetAndSortedSet
     {
         static void Main(string[] args)
         {
-            HashSet<string> set = new HashSet<string>();
+            // HashSet<string> set = new HashSet<string>();
+            // 
+            // set.Add("TV");
+            // set.Add("Notebook");
+            // set.Add("Tablet");
+            // 
+            // Console.WriteLine(set.Contains("Computer"));
+            // 
+            // foreach (string item in set)
+            // {
+            //     Console.WriteLine(item);
+            // }
 
-            set.Add("TV");
-            set.Add("Notebook");
-            set.Add("Tablet");
+            SortedSet<int> a = new SortedSet<int>() { 10, 0, 2, 4, 5, 6, 8, };
+            SortedSet<int> b = new SortedSet<int>() { 5, 6, 7, 8, 9, 10 };
 
-            Console.WriteLine(set.Contains("Computer"));
+            // union
+            SortedSet<int> c = new SortedSet<int>(a);
+            c.UnionWith(b);
+            PrintCollection(c);
 
-            foreach (string item in set)
+            // intersection
+            SortedSet<int> d = new SortedSet<int>(a);
+            d.IntersectWith(b);
+            PrintCollection(d);
+
+            // difference
+            SortedSet<int> e = new SortedSet<int>(a);
+            e.ExceptWith(b);
+            PrintCollection(e);
+        }
+
+        static void PrintCollection<T>(IEnumerable<T> collection)
+        {
+            foreach (T item in collection)
             {
-                Console.WriteLine(item);
+                Console.Write(item + " ");
             }
+            Console.WriteLine();
         }
     }
 }
