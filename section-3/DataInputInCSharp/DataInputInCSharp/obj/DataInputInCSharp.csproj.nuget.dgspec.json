@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Udemy\\C# COMPLETO\\csharpcourse\\section-3\\DataInputInCSharp\\DataInputInCSharp\\DataInputInCSharp.csproj": {}
+    "C:\\Workspace\\Udemy\\csharpcourse\\section-3\\DataInputInCSharp\\DataInputInCSharp\\DataInputInCSharp.csproj": {}
   },
   "projects": {
-    "C:\\Udemy\\C# COMPLETO\\csharpcourse\\section-3\\DataInputInCSharp\\DataInputInCSharp\\DataInputInCSharp.csproj": {
+    "C:\\Workspace\\Udemy\\csharpcourse\\section-3\\DataInputInCSharp\\DataInputInCSharp\\DataInputInCSharp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Udemy\\C# COMPLETO\\csharpcourse\\section-3\\DataInputInCSharp\\DataInputInCSharp\\DataInputInCSharp.csproj",
+        "projectUniqueName": "C:\\Workspace\\Udemy\\csharpcourse\\section-3\\DataInputInCSharp\\DataInputInCSharp\\DataInputInCSharp.csproj",
         "projectName": "DataInputInCSharp",
-        "projectPath": "C:\\Udemy\\C# COMPLETO\\csharpcourse\\section-3\\DataInputInCSharp\\DataInputInCSharp\\DataInputInCSharp.csproj",
+        "projectPath": "C:\\Workspace\\Udemy\\csharpcourse\\section-3\\DataInputInCSharp\\DataInputInCSharp\\DataInputInCSharp.csproj",
         "packagesPath": "C:\\Users\\mdpla\\.nuget\\packages\\",
-        "outputPath": "C:\\Udemy\\C# COMPLETO\\csharpcourse\\section-3\\DataInputInCSharp\\DataInputInCSharp\\obj\\",
+        "outputPath": "C:\\Workspace\\Udemy\\csharpcourse\\section-3\\DataInputInCSharp\\DataInputInCSharp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -60,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }

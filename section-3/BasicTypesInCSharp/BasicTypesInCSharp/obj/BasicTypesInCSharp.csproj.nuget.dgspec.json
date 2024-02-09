@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Udemy\\C# COMPLETO\\csharpcourse\\section-3\\BasicTypesInCSharp\\BasicTypesInCSharp\\BasicTypesInCSharp.csproj": {}
+    "C:\\Workspace\\Udemy\\csharpcourse\\section-3\\BasicTypesInCSharp\\BasicTypesInCSharp\\BasicTypesInCSharp.csproj": {}
   },
   "projects": {
-    "C:\\Udemy\\C# COMPLETO\\csharpcourse\\section-3\\BasicTypesInCSharp\\BasicTypesInCSharp\\BasicTypesInCSharp.csproj": {
+    "C:\\Workspace\\Udemy\\csharpcourse\\section-3\\BasicTypesInCSharp\\BasicTypesInCSharp\\BasicTypesInCSharp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Udemy\\C# COMPLETO\\csharpcourse\\section-3\\BasicTypesInCSharp\\BasicTypesInCSharp\\BasicTypesInCSharp.csproj",
+        "projectUniqueName": "C:\\Workspace\\Udemy\\csharpcourse\\section-3\\BasicTypesInCSharp\\BasicTypesInCSharp\\BasicTypesInCSharp.csproj",
         "projectName": "BasicTypesInCSharp",
-        "projectPath": "C:\\Udemy\\C# COMPLETO\\csharpcourse\\section-3\\BasicTypesInCSharp\\BasicTypesInCSharp\\BasicTypesInCSharp.csproj",
+        "projectPath": "C:\\Workspace\\Udemy\\csharpcourse\\section-3\\BasicTypesInCSharp\\BasicTypesInCSharp\\BasicTypesInCSharp.csproj",
         "packagesPath": "C:\\Users\\mdpla\\.nuget\\packages\\",
-        "outputPath": "C:\\Udemy\\C# COMPLETO\\csharpcourse\\section-3\\BasicTypesInCSharp\\BasicTypesInCSharp\\obj\\",
+        "outputPath": "C:\\Workspace\\Udemy\\csharpcourse\\section-3\\BasicTypesInCSharp\\BasicTypesInCSharp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -60,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Udemy\\C# COMPLETO\\csharpcourse\\section-6\\ReferenTypesVsValueTypes\\ReferenTypesVsValueTypes\\ReferenTypesVsValueTypes.csproj",
+      "projectUniqueName": "C:\\Workspace\\Udemy\\csharpcourse\\section-6\\ReferenTypesVsValueTypes\\ReferenTypesVsValueTypes\\ReferenTypesVsValueTypes.csproj",
       "projectName": "ReferenTypesVsValueTypes",
-      "projectPath": "C:\\Udemy\\C# COMPLETO\\csharpcourse\\section-6\\ReferenTypesVsValueTypes\\ReferenTypesVsValueTypes\\ReferenTypesVsValueTypes.csproj",
+      "projectPath": "C:\\Workspace\\Udemy\\csharpcourse\\section-6\\ReferenTypesVsValueTypes\\ReferenTypesVsValueTypes\\ReferenTypesVsValueTypes.csproj",
       "packagesPath": "C:\\Users\\mdpla\\.nuget\\packages\\",
-      "outputPath": "C:\\Udemy\\C# COMPLETO\\csharpcourse\\section-6\\ReferenTypesVsValueTypes\\ReferenTypesVsValueTypes\\obj\\",
+      "outputPath": "C:\\Workspace\\Udemy\\csharpcourse\\section-6\\ReferenTypesVsValueTypes\\ReferenTypesVsValueTypes\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -67,7 +67,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }

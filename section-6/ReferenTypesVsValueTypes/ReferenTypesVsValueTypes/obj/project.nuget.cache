@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "aS50dAwniyZYGTKeIYx25LNIL9NHPdfV35GYzbEAmfyUtjny4WcVlROIdpIcTwe987hdn+Nqzs6Y9Y87gOJWtg==",
+  "dgSpecHash": "wZK4RIVINl9peEe59MaXIc9aVT2Rh843DZYaxYHjgKfUIE8Q3EYoLBGW1vMX4q10tFOU1jB/ZZIMcP6v1A2upA==",
   "success": true,
-  "projectFilePath": "C:\\Udemy\\C# COMPLETO\\csharpcourse\\section-6\\ReferenTypesVsValueTypes\\ReferenTypesVsValueTypes\\ReferenTypesVsValueTypes.csproj",
+  "projectFilePath": "C:\\Workspace\\Udemy\\csharpcourse\\section-6\\ReferenTypesVsValueTypes\\ReferenTypesVsValueTypes\\ReferenTypesVsValueTypes.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

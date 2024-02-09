@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ResolvedExerciseAboutSet")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+313cbb98a1c2bcaab63394f2e4a7bc5f974b6919")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bd9ef82073f63ef660178ef7abc0b6356b85589a")]
 [assembly: System.Reflection.AssemblyProductAttribute("ResolvedExerciseAboutSet")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ResolvedExerciseAboutSet")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

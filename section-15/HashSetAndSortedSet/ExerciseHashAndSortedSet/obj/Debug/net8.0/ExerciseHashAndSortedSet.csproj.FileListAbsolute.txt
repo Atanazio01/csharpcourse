@@ -1,0 +1,15 @@
+C:\Workspace\Udemy\csharpcourse\section-15\HashSetAndSortedSet\ExerciseHashAndSortedSet\bin\Debug\net8.0\ExerciseHashAndSortedSet.exe
+C:\Workspace\Udemy\csharpcourse\section-15\HashSetAndSortedSet\ExerciseHashAndSortedSet\bin\Debug\net8.0\ExerciseHashAndSortedSet.deps.json
+C:\Workspace\Udemy\csharpcourse\section-15\HashSetAndSortedSet\ExerciseHashAndSortedSet\bin\Debug\net8.0\ExerciseHashAndSortedSet.runtimeconfig.json
+C:\Workspace\Udemy\csharpcourse\section-15\HashSetAndSortedSet\ExerciseHashAndSortedSet\bin\Debug\net8.0\ExerciseHashAndSortedSet.dll
+C:\Workspace\Udemy\csharpcourse\section-15\HashSetAndSortedSet\ExerciseHashAndSortedSet\bin\Debug\net8.0\ExerciseHashAndSortedSet.pdb
+C:\Workspace\Udemy\csharpcourse\section-15\HashSetAndSortedSet\ExerciseHashAndSortedSet\obj\Debug\net8.0\ExerciseHashAndSortedSet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\Udemy\csharpcourse\section-15\HashSetAndSortedSet\ExerciseHashAndSortedSet\obj\Debug\net8.0\ExerciseHashAndSortedSet.AssemblyInfoInputs.cache
+C:\Workspace\Udemy\csharpcourse\section-15\HashSetAndSortedSet\ExerciseHashAndSortedSet\obj\Debug\net8.0\ExerciseHashAndSortedSet.AssemblyInfo.cs
+C:\Workspace\Udemy\csharpcourse\section-15\HashSetAndSortedSet\ExerciseHashAndSortedSet\obj\Debug\net8.0\ExerciseHashAndSortedSet.csproj.CoreCompileInputs.cache
+C:\Workspace\Udemy\csharpcourse\section-15\HashSetAndSortedSet\ExerciseHashAndSortedSet\obj\Debug\net8.0\ExerciseHashAndSortedSet.sourcelink.json
+C:\Workspace\Udemy\csharpcourse\section-15\HashSetAndSortedSet\ExerciseHashAndSortedSet\obj\Debug\net8.0\ExerciseHashAndSortedSet.dll
+C:\Workspace\Udemy\csharpcourse\section-15\HashSetAndSortedSet\ExerciseHashAndSortedSet\obj\Debug\net8.0\refint\ExerciseHashAndSortedSet.dll
+C:\Workspace\Udemy\csharpcourse\section-15\HashSetAndSortedSet\ExerciseHashAndSortedSet\obj\Debug\net8.0\ExerciseHashAndSortedSet.pdb
+C:\Workspace\Udemy\csharpcourse\section-15\HashSetAndSortedSet\ExerciseHashAndSortedSet\obj\Debug\net8.0\ExerciseHashAndSortedSet.genruntimeconfig.cache
+C:\Workspace\Udemy\csharpcourse\section-15\HashSetAndSortedSet\ExerciseHashAndSortedSet\obj\Debug\net8.0\ref\ExerciseHashAndSortedSet.dll

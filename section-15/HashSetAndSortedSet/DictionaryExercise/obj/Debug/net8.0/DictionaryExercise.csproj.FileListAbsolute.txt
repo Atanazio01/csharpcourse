@@ -1,0 +1,15 @@
+C:\Workspace\Udemy\csharpcourse\section-15\HashSetAndSortedSet\DictionaryExercise\bin\Debug\net8.0\DictionaryExercise.exe
+C:\Workspace\Udemy\csharpcourse\section-15\HashSetAndSortedSet\DictionaryExercise\bin\Debug\net8.0\DictionaryExercise.deps.json
+C:\Workspace\Udemy\csharpcourse\section-15\HashSetAndSortedSet\DictionaryExercise\bin\Debug\net8.0\DictionaryExercise.runtimeconfig.json
+C:\Workspace\Udemy\csharpcourse\section-15\HashSetAndSortedSet\DictionaryExercise\bin\Debug\net8.0\DictionaryExercise.dll
+C:\Workspace\Udemy\csharpcourse\section-15\HashSetAndSortedSet\DictionaryExercise\bin\Debug\net8.0\DictionaryExercise.pdb
+C:\Workspace\Udemy\csharpcourse\section-15\HashSetAndSortedSet\DictionaryExercise\obj\Debug\net8.0\DictionaryExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\Udemy\csharpcourse\section-15\HashSetAndSortedSet\DictionaryExercise\obj\Debug\net8.0\DictionaryExercise.AssemblyInfoInputs.cache
+C:\Workspace\Udemy\csharpcourse\section-15\HashSetAndSortedSet\DictionaryExercise\obj\Debug\net8.0\DictionaryExercise.AssemblyInfo.cs
+C:\Workspace\Udemy\csharpcourse\section-15\HashSetAndSortedSet\DictionaryExercise\obj\Debug\net8.0\DictionaryExercise.csproj.CoreCompileInputs.cache
+C:\Workspace\Udemy\csharpcourse\section-15\HashSetAndSortedSet\DictionaryExercise\obj\Debug\net8.0\DictionaryExercise.sourcelink.json
+C:\Workspace\Udemy\csharpcourse\section-15\HashSetAndSortedSet\DictionaryExercise\obj\Debug\net8.0\DictionaryExercise.dll
+C:\Workspace\Udemy\csharpcourse\section-15\HashSetAndSortedSet\DictionaryExercise\obj\Debug\net8.0\refint\DictionaryExercise.dll
+C:\Workspace\Udemy\csharpcourse\section-15\HashSetAndSortedSet\DictionaryExercise\obj\Debug\net8.0\DictionaryExercise.pdb
+C:\Workspace\Udemy\csharpcourse\section-15\HashSetAndSortedSet\DictionaryExercise\obj\Debug\net8.0\DictionaryExercise.genruntimeconfig.cache
+C:\Workspace\Udemy\csharpcourse\section-15\HashSetAndSortedSet\DictionaryExercise\obj\Debug\net8.0\ref\DictionaryExercise.dll
