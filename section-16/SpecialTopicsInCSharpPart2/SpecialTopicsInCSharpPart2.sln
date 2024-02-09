@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{238E2AA1-CA3A-42AB-984C-4117F1161972}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Class226", "Class226", "{FF96203F-3A9D-4E96-8772-77A7228929EA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExtensionMethods", "ExtensionMethods\ExtensionMethods.csproj", "{8192CEAA-2326-4D9A-AAD5-04A10E588029}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8192CEAA-2326-4D9A-AAD5-04A10E588029}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8192CEAA-2326-4D9A-AAD5-04A10E588029}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8192CEAA-2326-4D9A-AAD5-04A10E588029}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8192CEAA-2326-4D9A-AAD5-04A10E588029}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{FF96203F-3A9D-4E96-8772-77A7228929EA} = {238E2AA1-CA3A-42AB-984C-4117F1161972}
+		{8192CEAA-2326-4D9A-AAD5-04A10E588029} = {FF96203F-3A9D-4E96-8772-77A7228929EA}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F46C204F-E567-4C8B-9FCD-68656CD814DA}
+	EndGlobalSection
+EndGlobal
