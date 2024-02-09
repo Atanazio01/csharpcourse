@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "h6VQCmRMgNPp88EpS+u4/XQMvspNFmYRt0kWajBMTSqcH1lTEc2/jd8AV1ssEc1H+tp2t6oDg08Kgz36+RDLlQ==",
+  "dgSpecHash": "HOjQCspgh/J1ER0ek6Y3TMe/9SwF9b+gvpoH5zAK27+VG+uZERRkymBRKZJS5hLCFPT15uH02lnDLGKlWlsS1A==",
   "success": true,
-  "projectFilePath": "C:\\udemy\\csharpcourse\\section-15\\HashSetAndSortedSet\\HashSetAndSortedSet\\HashSetAndSortedSet.csproj",
+  "projectFilePath": "C:\\Workspace\\Udemy\\csharpcourse\\section-15\\HashSetAndSortedSet\\HashSetAndSortedSet\\HashSetAndSortedSet.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

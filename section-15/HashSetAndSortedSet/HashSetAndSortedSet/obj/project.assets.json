@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\udemy\\csharpcourse\\section-15\\HashSetAndSortedSet\\HashSetAndSortedSet\\HashSetAndSortedSet.csproj",
+      "projectUniqueName": "C:\\Workspace\\Udemy\\csharpcourse\\section-15\\HashSetAndSortedSet\\HashSetAndSortedSet\\HashSetAndSortedSet.csproj",
       "projectName": "HashSetAndSortedSet",
-      "projectPath": "C:\\udemy\\csharpcourse\\section-15\\HashSetAndSortedSet\\HashSetAndSortedSet\\HashSetAndSortedSet.csproj",
+      "projectPath": "C:\\Workspace\\Udemy\\csharpcourse\\section-15\\HashSetAndSortedSet\\HashSetAndSortedSet\\HashSetAndSortedSet.csproj",
       "packagesPath": "C:\\Users\\mdpla\\.nuget\\packages\\",
-      "outputPath": "C:\\udemy\\csharpcourse\\section-15\\HashSetAndSortedSet\\HashSetAndSortedSet\\obj\\",
+      "outputPath": "C:\\Workspace\\Udemy\\csharpcourse\\section-15\\HashSetAndSortedSet\\HashSetAndSortedSet\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -67,7 +67,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }

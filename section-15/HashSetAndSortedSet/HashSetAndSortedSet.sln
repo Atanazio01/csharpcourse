@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34018.315
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HashSetAndSortedSet", "HashSetAndSortedSet\HashSetAndSortedSet.csproj", "{FF23EEBB-6A3B-4A67-883D-C02E66DD9429}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HashSetAndSortedSet", "HashSetAndSortedSet\HashSetAndSortedSet.csproj", "{FF23EEBB-6A3B-4A67-883D-C02E66DD9429}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Class220", "Class220", "{EA8D991E-1909-48C1-A52C-D79A2AFD94F6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ResolvedExerciseAboutSet", "ResolvedExerciseAboutSet\ResolvedExerciseAboutSet.csproj", "{23622F6C-717A-446A-BA8F-0FF284C79AE9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,9 +19,16 @@ Global
 		{FF23EEBB-6A3B-4A67-883D-C02E66DD9429}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FF23EEBB-6A3B-4A67-883D-C02E66DD9429}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FF23EEBB-6A3B-4A67-883D-C02E66DD9429}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23622F6C-717A-446A-BA8F-0FF284C79AE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23622F6C-717A-446A-BA8F-0FF284C79AE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23622F6C-717A-446A-BA8F-0FF284C79AE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23622F6C-717A-446A-BA8F-0FF284C79AE9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{23622F6C-717A-446A-BA8F-0FF284C79AE9} = {EA8D991E-1909-48C1-A52C-D79A2AFD94F6}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {A3C2345E-23FE-44D9-9C07-44551508251A}

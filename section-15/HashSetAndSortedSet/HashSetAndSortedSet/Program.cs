@@ -1,4 +1,5 @@
-﻿using System;
+﻿using HashSetAndSortedSet.Entities;
+using System;
 using System.Collections.Generic;
 
 namespace HashSetAndSortedSet
@@ -37,6 +38,27 @@ namespace HashSetAndSortedSet
             SortedSet<int> e = new SortedSet<int>(a);
             e.ExceptWith(b);
             PrintCollection(e);
+
+            HashSet<string> set = new HashSet<string>();
+
+            set.Add("Maria");
+            set.Add("Alex");
+
+            Console.WriteLine(set.Contains("Maria"));
+
+            HashSet<Product> set2 = new HashSet<Product>();
+            set2.Add(new Product("TV", 900.0));
+            set2.Add(new Product("Notebook", 1200.0));
+
+            HashSet<Point> set3 = new HashSet<Point>();
+            set3.Add(new Point(3, 4));
+            set3.Add(new Point(5, 10));
+
+            Product prod = new Product("Notebook", 1200.0);
+            Console.WriteLine(set2.Contains(prod));
+
+            Point p = new Point(5, 10);
+            Console.WriteLine(set3.Contains(p));
         }
 
         static void PrintCollection<T>(IEnumerable<T> collection)
