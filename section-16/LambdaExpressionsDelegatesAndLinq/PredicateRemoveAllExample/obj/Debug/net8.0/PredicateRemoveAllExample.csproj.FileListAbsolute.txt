@@ -1,0 +1,15 @@
+C:\Workspace\Udemy\csharpcourse\section-16\LambdaExpressionsDelegatesAndLinq\PredicateRemoveAllExample\bin\Debug\net8.0\PredicateRemoveAllExample.exe
+C:\Workspace\Udemy\csharpcourse\section-16\LambdaExpressionsDelegatesAndLinq\PredicateRemoveAllExample\bin\Debug\net8.0\PredicateRemoveAllExample.deps.json
+C:\Workspace\Udemy\csharpcourse\section-16\LambdaExpressionsDelegatesAndLinq\PredicateRemoveAllExample\bin\Debug\net8.0\PredicateRemoveAllExample.runtimeconfig.json
+C:\Workspace\Udemy\csharpcourse\section-16\LambdaExpressionsDelegatesAndLinq\PredicateRemoveAllExample\bin\Debug\net8.0\PredicateRemoveAllExample.dll
+C:\Workspace\Udemy\csharpcourse\section-16\LambdaExpressionsDelegatesAndLinq\PredicateRemoveAllExample\bin\Debug\net8.0\PredicateRemoveAllExample.pdb
+C:\Workspace\Udemy\csharpcourse\section-16\LambdaExpressionsDelegatesAndLinq\PredicateRemoveAllExample\obj\Debug\net8.0\PredicateRemoveAllExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\Udemy\csharpcourse\section-16\LambdaExpressionsDelegatesAndLinq\PredicateRemoveAllExample\obj\Debug\net8.0\PredicateRemoveAllExample.AssemblyInfoInputs.cache
+C:\Workspace\Udemy\csharpcourse\section-16\LambdaExpressionsDelegatesAndLinq\PredicateRemoveAllExample\obj\Debug\net8.0\PredicateRemoveAllExample.AssemblyInfo.cs
+C:\Workspace\Udemy\csharpcourse\section-16\LambdaExpressionsDelegatesAndLinq\PredicateRemoveAllExample\obj\Debug\net8.0\PredicateRemoveAllExample.csproj.CoreCompileInputs.cache
+C:\Workspace\Udemy\csharpcourse\section-16\LambdaExpressionsDelegatesAndLinq\PredicateRemoveAllExample\obj\Debug\net8.0\PredicateRemoveAllExample.sourcelink.json
+C:\Workspace\Udemy\csharpcourse\section-16\LambdaExpressionsDelegatesAndLinq\PredicateRemoveAllExample\obj\Debug\net8.0\PredicateRemoveAllExample.dll
+C:\Workspace\Udemy\csharpcourse\section-16\LambdaExpressionsDelegatesAndLinq\PredicateRemoveAllExample\obj\Debug\net8.0\refint\PredicateRemoveAllExample.dll
+C:\Workspace\Udemy\csharpcourse\section-16\LambdaExpressionsDelegatesAndLinq\PredicateRemoveAllExample\obj\Debug\net8.0\PredicateRemoveAllExample.pdb
+C:\Workspace\Udemy\csharpcourse\section-16\LambdaExpressionsDelegatesAndLinq\PredicateRemoveAllExample\obj\Debug\net8.0\PredicateRemoveAllExample.genruntimeconfig.cache
+C:\Workspace\Udemy\csharpcourse\section-16\LambdaExpressionsDelegatesAndLinq\PredicateRemoveAllExample\obj\Debug\net8.0\ref\PredicateRemoveAllExample.dll
