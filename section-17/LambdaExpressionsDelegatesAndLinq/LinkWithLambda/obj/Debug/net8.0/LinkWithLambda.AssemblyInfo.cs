@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LinkWithLambda")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+15a2233b67f9a707898c65c66e2bf0ee95faae08")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5ac43876fdaec4d6fc327ae81457e4e3244b1750")]
 [assembly: System.Reflection.AssemblyProductAttribute("LinkWithLambda")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LinkWithLambda")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
