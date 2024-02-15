@@ -1,0 +1,15 @@
+C:\Workspace\Udemy\csharpcourse\section-17\LambdaExpressionsDelegatesAndLinq\IntroductionToLink\bin\Debug\net8.0\IntroductionToLink.exe
+C:\Workspace\Udemy\csharpcourse\section-17\LambdaExpressionsDelegatesAndLinq\IntroductionToLink\bin\Debug\net8.0\IntroductionToLink.deps.json
+C:\Workspace\Udemy\csharpcourse\section-17\LambdaExpressionsDelegatesAndLinq\IntroductionToLink\bin\Debug\net8.0\IntroductionToLink.runtimeconfig.json
+C:\Workspace\Udemy\csharpcourse\section-17\LambdaExpressionsDelegatesAndLinq\IntroductionToLink\bin\Debug\net8.0\IntroductionToLink.dll
+C:\Workspace\Udemy\csharpcourse\section-17\LambdaExpressionsDelegatesAndLinq\IntroductionToLink\bin\Debug\net8.0\IntroductionToLink.pdb
+C:\Workspace\Udemy\csharpcourse\section-17\LambdaExpressionsDelegatesAndLinq\IntroductionToLink\obj\Debug\net8.0\IntroductionToLink.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\Udemy\csharpcourse\section-17\LambdaExpressionsDelegatesAndLinq\IntroductionToLink\obj\Debug\net8.0\IntroductionToLink.AssemblyInfoInputs.cache
+C:\Workspace\Udemy\csharpcourse\section-17\LambdaExpressionsDelegatesAndLinq\IntroductionToLink\obj\Debug\net8.0\IntroductionToLink.AssemblyInfo.cs
+C:\Workspace\Udemy\csharpcourse\section-17\LambdaExpressionsDelegatesAndLinq\IntroductionToLink\obj\Debug\net8.0\IntroductionToLink.csproj.CoreCompileInputs.cache
+C:\Workspace\Udemy\csharpcourse\section-17\LambdaExpressionsDelegatesAndLinq\IntroductionToLink\obj\Debug\net8.0\IntroductionToLink.sourcelink.json
+C:\Workspace\Udemy\csharpcourse\section-17\LambdaExpressionsDelegatesAndLinq\IntroductionToLink\obj\Debug\net8.0\IntroductionToLink.dll
+C:\Workspace\Udemy\csharpcourse\section-17\LambdaExpressionsDelegatesAndLinq\IntroductionToLink\obj\Debug\net8.0\refint\IntroductionToLink.dll
+C:\Workspace\Udemy\csharpcourse\section-17\LambdaExpressionsDelegatesAndLinq\IntroductionToLink\obj\Debug\net8.0\IntroductionToLink.pdb
+C:\Workspace\Udemy\csharpcourse\section-17\LambdaExpressionsDelegatesAndLinq\IntroductionToLink\obj\Debug\net8.0\IntroductionToLink.genruntimeconfig.cache
+C:\Workspace\Udemy\csharpcourse\section-17\LambdaExpressionsDelegatesAndLinq\IntroductionToLink\obj\Debug\net8.0\ref\IntroductionToLink.dll

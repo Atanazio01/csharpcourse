@@ -1,0 +1,15 @@
+C:\Workspace\Udemy\csharpcourse\section-17\LambdaExpressionsDelegatesAndLinq\LinkWithLambda\bin\Debug\net8.0\LinkWithLambda.exe
+C:\Workspace\Udemy\csharpcourse\section-17\LambdaExpressionsDelegatesAndLinq\LinkWithLambda\bin\Debug\net8.0\LinkWithLambda.deps.json
+C:\Workspace\Udemy\csharpcourse\section-17\LambdaExpressionsDelegatesAndLinq\LinkWithLambda\bin\Debug\net8.0\LinkWithLambda.runtimeconfig.json
+C:\Workspace\Udemy\csharpcourse\section-17\LambdaExpressionsDelegatesAndLinq\LinkWithLambda\bin\Debug\net8.0\LinkWithLambda.dll
+C:\Workspace\Udemy\csharpcourse\section-17\LambdaExpressionsDelegatesAndLinq\LinkWithLambda\bin\Debug\net8.0\LinkWithLambda.pdb
+C:\Workspace\Udemy\csharpcourse\section-17\LambdaExpressionsDelegatesAndLinq\LinkWithLambda\obj\Debug\net8.0\LinkWithLambda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\Udemy\csharpcourse\section-17\LambdaExpressionsDelegatesAndLinq\LinkWithLambda\obj\Debug\net8.0\LinkWithLambda.AssemblyInfoInputs.cache
+C:\Workspace\Udemy\csharpcourse\section-17\LambdaExpressionsDelegatesAndLinq\LinkWithLambda\obj\Debug\net8.0\LinkWithLambda.AssemblyInfo.cs
+C:\Workspace\Udemy\csharpcourse\section-17\LambdaExpressionsDelegatesAndLinq\LinkWithLambda\obj\Debug\net8.0\LinkWithLambda.csproj.CoreCompileInputs.cache
+C:\Workspace\Udemy\csharpcourse\section-17\LambdaExpressionsDelegatesAndLinq\LinkWithLambda\obj\Debug\net8.0\LinkWithLambda.sourcelink.json
+C:\Workspace\Udemy\csharpcourse\section-17\LambdaExpressionsDelegatesAndLinq\LinkWithLambda\obj\Debug\net8.0\LinkWithLambda.dll
+C:\Workspace\Udemy\csharpcourse\section-17\LambdaExpressionsDelegatesAndLinq\LinkWithLambda\obj\Debug\net8.0\refint\LinkWithLambda.dll
+C:\Workspace\Udemy\csharpcourse\section-17\LambdaExpressionsDelegatesAndLinq\LinkWithLambda\obj\Debug\net8.0\LinkWithLambda.pdb
+C:\Workspace\Udemy\csharpcourse\section-17\LambdaExpressionsDelegatesAndLinq\LinkWithLambda\obj\Debug\net8.0\LinkWithLambda.genruntimeconfig.cache
+C:\Workspace\Udemy\csharpcourse\section-17\LambdaExpressionsDelegatesAndLinq\LinkWithLambda\obj\Debug\net8.0\ref\LinkWithLambda.dll
